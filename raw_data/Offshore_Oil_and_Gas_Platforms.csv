@@ -1,0 +1,2201 @@
+﻿X,Y,jurisdiction,platformtype,platformid,sourcerecord,objectid,operator,platformname
+-9810059.7366,3537658.9794,Alabama,Template,1,Alabama Oil and Gas Board,1,ExxonMobil Production,75F
+-9801162.4406,3541714.81,Alabama,Platform,2,Alabama Oil and Gas Board,2,ExxonMobil Production,A-Deck
+-9801102.2468,3541653.6255,Alabama,Template,3,Alabama Oil and Gas Board,3,ExxonMobil Production,AA
+-9795624.9893,3541129.2575,Alabama,Template,4,Alabama Oil and Gas Board,4,ExxonMobil Production,AB
+-9793722.8105,3541121.9911,Alabama,Template,5,Alabama Oil and Gas Board,5,ExxonMobil Production,AD
+-9797333.8428,3541186.6502,Alabama,Template,6,Alabama Oil and Gas Board,6,ExxonMobil Production,AC
+-9809574.05,3527865.912,Alabama,Platform,7,Alabama Oil and Gas Board,7,ExxonMobil Production,B-Deck
+-9798812.6222,3537246.9397,Alabama,Platform,8,Alabama Oil and Gas Board,8,ExxonMobil Production,77B
+-9801932.1544,3536369.0271,Alabama,Platform,9,Alabama Oil and Gas Board,9,ExxonMobil Production,76AUX
+-9801935.4937,3536267.1444,Alabama,Platform,10,Alabama Oil and Gas Board,10,ExxonMobil Production,76A
+-9797967.8564,3534546.7849,Alabama,Platform,11,Alabama Oil and Gas Board,11,ExxonMobil Production,95E
+-9803500.4327,3537596.2239,Alabama,Platform,12,Alabama Oil and Gas Board,12,ExxonMobil Production,76D
+-9801374.2898,3541591.8891,Alabama,Platform,13,Alabama Oil and Gas Board,13,Legacy,62C
+-9803701.0783,3540501.012,Alabama,Caisson,14,Alabama Oil and Gas Board,14,Legacy,EHP-1
+-9801766.937,3542922.2481,Alabama,Caisson,15,Alabama Oil and Gas Board,15,Legacy,ECP-1
+-9792564.3078,3539633.6517,Alabama,Platform,16,Alabama Oil and Gas Board,16,Legacy,78A
+-9790385.3997,3543750.4447,Alabama,Caisson,17,Alabama Oil and Gas Board,17,Legacy,SB-6
+-9791147.36,3540635.1075,Alabama,Caisson,18,Alabama Oil and Gas Board,18,Legacy,SB-2
+-9793196.8415,3537890.1078,Alabama,Caisson,19,Alabama Oil and Gas Board,19,Legacy,SB-4
+-9813047.7685,3529312.6401,Alabama,Template,20,Alabama Oil and Gas Board,20,ExxonMobil Production,BD
+-9810236.525,3529436.5845,Alabama,Template,21,Alabama Oil and Gas Board,21,ExxonMobil Production,BE
+-9793573.0663,3528788.3424,Alabama,Template,22,Alabama Oil and Gas Board,22,ExxonMobil Production,CD
+-9790881.8919,3527860.7882,Alabama,Platform,23,Alabama Oil and Gas Board,23,ExxonMobil Production,C-Deck
+-9798510.2723,3527909.6735,Alabama,Template,24,Alabama Oil and Gas Board,24,ExxonMobil Production,CC
+-9804716.7926,3526592.2676,Alabama,Platform,25,Alabama Oil and Gas Board,25,W&T Offshore,MO113
+-9803475.3916,3526551.8769,Alabama,Template,26,Alabama Oil and Gas Board,26,W&T Offshore,JA
+-9805140.6226,3527887.0339,Alabama,Template,27,Alabama Oil and Gas Board,27,W&T Offshore,JE
+-9803944.8039,3527470.2917,Alabama,Template,28,Alabama Oil and Gas Board,28,W&T Offshore,JD
+-9805066.9719,3524217.5014,Alabama,Template,29,Alabama Oil and Gas Board,29,W&T Offshore,JB
+-9795643.908,3535749.5968,Alabama,Template,30,Alabama Oil and Gas Board,30,ExxonMobil Production,77BC
+-9790963.42,3527806.3441,Alabama,Template,31,Alabama Oil and Gas Board,31,ExxonMobil Production,CA
+-9809649.6516,3527801.4219,Alabama,Template,32,Alabama Oil and Gas Board,32,ExxonMobil Production,BA
+-9809551.8917,3527971.3409,Alabama,Platform,33,Alabama Oil and Gas Board,33,ExxonMobil Production,BQ
+-9821346.8119,3536770.2018,Alabama,Platform,34,Alabama Oil and Gas Board,34,Mobay,NDI-1
+-9804783.8705,3526521.0855,Alabama,Template,35,Alabama Oil and Gas Board,35,W&T Offshore,JC
+-16884167.7698,8556147.5319,Alaska,,,Alaska Oil and Gas Conservation Commission,36,Cook Inlet Energy,OSPREY
+-16876461.5815,8587182.9163,Alaska,,,Alaska Oil and Gas Conservation Commission,37,Hilcorp,STEELHEAD
+-16866594.3412,8586608.4247,Alaska,,,Alaska Oil and Gas Conservation Commission,38,Hilcorp,BAKER
+-16864687.9236,8578951.7153,Alaska,,,Alaska Oil and Gas Conservation Commission,39,Hilcorp,Platform A
+-16865385.6234,8574320.7056,Alaska,,,Alaska Oil and Gas Conservation Commission,40,Hilcorp,Platform C
+-16866532.5409,8565207.4713,Alaska,,,Alaska Oil and Gas Conservation Commission,41,Hilcorp,DILLON
+-16846374.4623,8616072.8014,Alaska,,,Alaska Oil and Gas Conservation Commission,42,Hilcorp,GRANITE POINT
+-16803725.5869,8643346.5706,Alaska,,,Alaska Oil and Gas Conservation Commission,43,ConocoPhillips Alaska,TYONEK
+-16877695.0294,8588981.9015,Alaska,,,Alaska Oil and Gas Conservation Commission,44,Hilcorp,GRAYLING
+-16876920.1136,8594793.0111,Alaska,,,Alaska Oil and Gas Conservation Commission,45,Hilcorp,KING SALMON
+-16873902.1792,8602022.3355,Alaska,,,Alaska Oil and Gas Conservation Commission,46,Hilcorp,MONOPOD
+-16872329.2729,8607241.3995,Alaska,,,Alaska Oil and Gas Conservation Commission,47,Hilcorp,SPURR
+-16868539.8581,8609252.1693,Alaska,,,Alaska Oil and Gas Conservation Commission,48,Hilcorp,SPARK
+-16844345.2036,8620430.1421,Alaska,,,Alaska Oil and Gas Conservation Commission,49,Hilcorp,ANNA
+-16842743.6651,8625475.7275,Alaska,,,Alaska Oil and Gas Conservation Commission,50,Hilcorp,BRUCE
+-16879960.5248,8581722.7837,Alaska,,,Alaska Oil and Gas Conservation Commission,51,Hilcorp,DOLLY VARDEN
+-16826132.8176,8610776.3301,Alaska,,,Alaska Oil and Gas Conservation Commission,52,Furie Operating Alaska,KLU Platform A
+-16725818.6087,11232026.363,Alaska,Artificial Island,,Alaska Oil and Gas Conservation Commission,53,Eni US Operating Company Inc.,Oooguruk Island
+-16470921.872,11184992.8122,Alaska,Artificial Island,,Alaska Oil and Gas Conservation Commission,54,Hilcorp,Endicott Island
+-16687828.1524,11252511.5055,Alaska,Artificial Island,,Alaska Oil and Gas Conservation Commission,55,Eni Us Operating Company Inc.,Spy Island (Nikaitchuq Island)
+-13155932.3106,3996552.2324,California,,,California Department of Fish and Wildlife,56,,GRISSOM
+-13153445.0409,3995643.5599,California,,,California Department of Fish and Wildlife,57,,WHITE
+-13151188.0848,3993924.0554,California,,,California Department of Fish and Wildlife,58,,CHAFFEE
+-13153783.9401,3994139.0467,California,,,California Department of Fish and Wildlife,59,,FREEMAN
+-13148409.2701,3991133.1401,California,,,California Department of Fish and Wildlife,60,,ESTHER
+-13142600.364,3983472.4989,California,,,California Department of Fish and Wildlife,61,,EVA
+-13140662.2111,3983531.328,California,,,California Department of Fish and Wildlife,62,,EMMY
+-13347925.6199,4081260.5812,California,,,California Department of Fish and Wildlife,63,,HOLLY
+-13296600.7895,4075531.5695,California,,,California Department of Fish and Wildlife,64,,RINCON ISLAND
+-13389528.193,4075948.1185,Federal,,,Bureau of Ocean Energy Management,65,,HERITAGE
+-13371866.4889,4081388.6765,Federal,,,Bureau of Ocean Energy Management,66,,HONDO
+-13377098.0003,4079492.6482,Federal,,,Bureau of Ocean Energy Management,67,,HARMONY
+-13430407.6579,4090072.3378,Federal,,,Bureau of Ocean Energy Management,68,,HERMOSA
+-13434240.3249,4091969.6755,Federal,,,Bureau of Ocean Energy Management,69,,HARVEST
+-13277878.7237,4044591.2038,Federal,,,Bureau of Ocean Energy Management,70,,GINA
+-13291678.3873,4045610.7133,Federal,,,Bureau of Ocean Energy Management,71,,GAIL
+-13293720.84,4053313.2679,Federal,,,Bureau of Ocean Energy Management,72,,GILDA
+-13299205.1057,4052940.3988,Federal,,,Bureau of Ocean Energy Management,73,,GRACE
+-13312593.7727,4067353.3201,Federal,,,Bureau of Ocean Energy Management,74,,HABITAT
+-13307405.2179,4074234.3442,Federal,,,Bureau of Ocean Energy Management,75,,HOGAN
+-13308588.7186,4073872.6689,Federal,,,Bureau of Ocean Energy Management,76,,HOUCHIN
+-13314280.8077,4073380.9849,Federal,,,Bureau of Ocean Energy Management,77,,HILLHOUSE
+-13309510.4936,4073638.6602,Federal,,,Bureau of Ocean Energy Management,78,,HENRY
+-13315307.4569,4073454.0618,Federal,,,Bureau of Ocean Energy Management,79,,A
+-13316316.8512,4073515.5457,Federal,,,Bureau of Ocean Energy Management,80,,B
+-13317344.5027,4073594.151,Federal,,,Bureau of Ocean Energy Management,81,,C
+-13148769.2553,3970381.4878,Federal,,,Bureau of Ocean Energy Management,82,,EUREKA
+-13150074.8686,3972864.6615,Federal,,,Bureau of Ocean Energy Management,83,,ELLEN
+-13149948.7389,3973003.0897,Federal,,,Bureau of Ocean Energy Management,84,,ELLY
+-13151462.4156,3974657.8368,Federal,,,Bureau of Ocean Energy Management,85,,EDITH
+-13439651.9982,4111062.3358,Federal,,,Bureau of Ocean Energy Management,86,,IRENE
+-13436630.6883,4095464.3554,Federal,,,Bureau of Ocean Energy Management,87,,HIDALGO
+-10750328.2627,3257364.7779,Federal,,10170,Bureau of Ocean Energy Management,88,,A
+-10371923.4887,3455793.7005,Federal,,22021,Bureau of Ocean Energy Management,89,,JA
+-10361133.2029,3309810.9621,Federal,,21754,Bureau of Ocean Energy Management,90,,A
+-10411177.2375,3249182.0793,Federal,,10135,Bureau of Ocean Energy Management,91,,A
+-10508309.6392,3242244.3371,Federal,,10144,Bureau of Ocean Energy Management,92,,C
+-10440079.963,3410309.3566,Federal,,10070,Bureau of Ocean Energy Management,93,,5
+-10690752.5389,3230679.3135,Federal,,10075,Bureau of Ocean Energy Management,94,,A
+-10295832.4691,3363306.6701,Federal,,24030,Bureau of Ocean Energy Management,95,,A
+-10240373.9465,3417420.2185,Federal,,23307,Bureau of Ocean Energy Management,96,,139
+-10227009.6619,3418024.5914,Federal,,23241,Bureau of Ocean Energy Management,97,,D-PRD
+-10260229.7558,3431556.9051,Federal,,23023,Bureau of Ocean Energy Management,98,,18
+-10239507.5599,3417355.3165,Federal,,22905,Bureau of Ocean Energy Management,99,,107
+-10229250.6244,3414092.1766,Federal,,22935,Bureau of Ocean Energy Management,100,,302
+-10242775.1663,3418354.2672,Federal,,22674,Bureau of Ocean Energy Management,101,,D/O P/L
+-10329016.6365,3271681.1593,Federal,,22696,Bureau of Ocean Energy Management,102,,B
+-10226225.611,3374307.5169,Federal,,22383,Bureau of Ocean Energy Management,103,,CB
+-10238083.0573,3333802.0661,Federal,,21883,Bureau of Ocean Energy Management,104,,C
+-10227058.9794,3390429.5092,Federal,,21739,Bureau of Ocean Energy Management,105,,A-PRD
+-10250331.1848,3432259.7691,Federal,,21414,Bureau of Ocean Energy Management,106,,61
+-10161255.3045,3353929.8466,Federal,,80030,Bureau of Ocean Energy Management,107,,A
+-10195344.5806,3402088.9748,Federal,,80032,Bureau of Ocean Energy Management,108,,6
+-10180099.389,3373731.0611,Federal,,80034,Bureau of Ocean Energy Management,109,,12
+-10021206.7624,3287844.7745,Federal,,70029,Bureau of Ocean Energy Management,110,,A(SEAHORSE PRO
+-10183591.7788,3373823.2463,Federal,,80037,Bureau of Ocean Energy Management,111,,CAIS. 13
+-10074905.6072,3362784.9678,Federal,,6,Bureau of Ocean Energy Management,112,,CAIS. 21(PLF.CF
+-10156733.9711,3343981.7831,Federal,,26018,Bureau of Ocean Energy Management,113,,A-AUX
+-10226487.8895,3283474.862,Federal,,24,Bureau of Ocean Energy Management,114,,C
+-10180082.7341,3374182.8586,Federal,,37,Bureau of Ocean Energy Management,115,,14
+-10351543.0506,3269362.7344,Federal,,32,Bureau of Ocean Energy Management,116,,F
+-10227606.2787,3413267.4636,Federal,,33,Bureau of Ocean Energy Management,117,,196
+-10440079.6134,3410309.3413,Federal,,10070,Bureau of Ocean Energy Management,118,,CPF
+-10109968.0504,3259600.0498,Federal,,80015,Bureau of Ocean Energy Management,119,,A
+-9808729.1076,3419970.4688,Federal,,36,Bureau of Ocean Energy Management,120,,A
+-10249586.3595,3325694.7621,Federal,,21,Bureau of Ocean Energy Management,121,,D
+-10095021.3685,3330567.9395,Federal,,90146,Bureau of Ocean Energy Management,122,,TEST PILES
+-10241083.6835,3419586.9865,Federal,,75,Bureau of Ocean Energy Management,123,,CAIS. 198
+-10158781.1719,3352616.5107,Federal,,32035,Bureau of Ocean Energy Management,124,,B
+-10189711.853,3415379.8992,Federal,,32038,Bureau of Ocean Energy Management,125,,CAIS. 29
+-10242706.5769,3417317.7568,Federal,,32043,Bureau of Ocean Energy Management,126,,189
+-10137844.0058,3324014.7448,Federal,,80002,Bureau of Ocean Energy Management,127,,A
+-10090066.2803,3356486.3499,Federal,,80010,Bureau of Ocean Energy Management,128,,D
+-10228188.3125,3414180.8423,Federal,,90010,Bureau of Ocean Energy Management,129,,CAIS. 191
+-10334657.7881,3258342.0664,Federal,,90015,Bureau of Ocean Energy Management,130,,A
+-10159495.2407,3354126.676,Federal,,80019,Bureau of Ocean Energy Management,131,,B
+-10405240.1276,3306351.6471,Federal,,50010,Bureau of Ocean Energy Management,132,,B
+-9967417.1619,3352391.9737,Federal,,90148,Bureau of Ocean Energy Management,133,,TEMPLATE
+-10264316.6356,3285961.7885,Federal,,1205,Bureau of Ocean Energy Management,134,,D
+-9872469.9273,3434916.1136,Federal,,70024,Bureau of Ocean Energy Management,135,,CE
+-9854792.3377,3418226.7128,Federal,,1207,Bureau of Ocean Energy Management,136,,A
+-10079022.4689,3273680.572,Federal,,23196,Bureau of Ocean Energy Management,137,,B
+-10506995.5064,3387595.9098,Federal,,1216,Bureau of Ocean Energy Management,138,,B
+-10104304.3484,3348250.9249,Federal,,25012,Bureau of Ocean Energy Management,139,,TRIMARS
+-10182983.6578,3374461.6321,Federal,,20842,Bureau of Ocean Energy Management,140,,I-8
+-10247461.7583,3300945.8303,Federal,,21929,Bureau of Ocean Energy Management,141,,Junction
+-9951513.4231,3337216.4686,Federal,,1093,Bureau of Ocean Energy Management,142,,E
+-10130411.6192,3324913.7144,Federal,,1230,Bureau of Ocean Energy Management,143,,J
+-9903126.6973,3415880.101,Federal,,1241,Bureau of Ocean Energy Management,144,,CAIS. 3
+-10091350.6925,3356060.05,Federal,,26101,Bureau of Ocean Energy Management,145,,C
+-10056918.6232,3371479.4649,Federal,,1224,Bureau of Ocean Energy Management,146,,A
+-10371893.024,3455821.3953,Federal,,22021,Bureau of Ocean Energy Management,147,,JA-AUX
+-10116331.7057,3315895.2622,Federal,,26131,Bureau of Ocean Energy Management,148,,N (DUPLICATE)
+-9806325.5989,3383394.6576,Federal,,24229,Bureau of Ocean Energy Management,149,,A-Ram Powell
+-10127657.6891,3315724.4199,Federal,,26134,Bureau of Ocean Energy Management,150,,DUPLICATE A
+-9966047.5054,3354036.4251,Federal,,90147,Bureau of Ocean Energy Management,151,,SSTEMPLATE
+-10341566.6169,3450778.9336,Federal,,27044,Bureau of Ocean Energy Management,152,,CF 2
+-10047636.7495,3378774.6147,Federal,,21162,Bureau of Ocean Energy Management,153,,(37) FLR-E
+-10239891.2394,3233322.9108,Federal,,27056,Bureau of Ocean Energy Management,154,,A-Enchilada
+-10272588.4669,3336010.5525,Federal,,32041,Bureau of Ocean Energy Management,155,,C
+-10351706.995,3270674.4629,Federal,,32037,Bureau of Ocean Energy Management,156,,E
+-9851401.7606,3514461.3206,Federal,,23474,Bureau of Ocean Energy Management,157,,B
+-9780983.7507,3509233.8223,Federal,,24218,Bureau of Ocean Energy Management,158,,A
+-10228856.0771,3417529.1017,Federal,,90017,Bureau of Ocean Energy Management,159,,190
+-10228205.7571,3415721.5658,Federal,,90019,Bureau of Ocean Energy Management,160,,CAIS. 193
+-10274537.8398,3374178.5506,Federal,,70026,Bureau of Ocean Energy Management,161,,JUNC
+-10274590.3355,3374127.7122,Federal,,70026,Bureau of Ocean Energy Management,162,,COMP
+-10274528.3851,3374089.0396,Federal,,70026,Bureau of Ocean Energy Management,163,,QTRS
+-10215681.8064,3321395.6111,Federal,,80017,Bureau of Ocean Energy Management,164,,C
+-10445292.2142,3243443.0623,Federal,,28050,Bureau of Ocean Energy Management,165,,E
+-10278590.7988,3428791.142,Federal,,27059,Bureau of Ocean Energy Management,166,,B
+-10147956.1858,3389857.8381,Federal,,23521,Bureau of Ocean Energy Management,167,,P-VALVE
+-10033916.3349,3297696.6403,Federal,,24237,Bureau of Ocean Energy Management,168,,A
+-10057376.0132,3364925.9588,Federal,,31012,Bureau of Ocean Energy Management,169,,H
+-9934805.2445,3373749.9987,Federal,,31029,Bureau of Ocean Energy Management,170,,47(SL 1012)
+-9935264.7206,3373758.4103,Federal,,31028,Bureau of Ocean Energy Management,171,,52 (SL1012)T
+-10138523.1548,3277852.5213,Federal,,32027,Bureau of Ocean Energy Management,172,,A
+-10136959.8343,3256759.2444,Federal,,33028,Bureau of Ocean Energy Management,173,,A(MAHOGANY)
+-10087866.532,3353493.8979,Federal,,26063,Bureau of Ocean Energy Management,174,,19
+-9890669.9542,3459040.151,Federal,,24260,Bureau of Ocean Energy Management,175,,A
+-9794752.1674,3396495.9021,Federal,,24235,Bureau of Ocean Energy Management,176,,A-Neptune Spar
+-10298172.8487,3305669.8275,Federal,,32030,Bureau of Ocean Energy Management,177,,A
+-10245391.8994,3313958.119,Federal,,32033,Bureau of Ocean Energy Management,178,,A
+-9783288.0226,3421646.6167,Federal,,23839,Bureau of Ocean Energy Management,179,,B
+-9903462.2706,3382901.0579,Federal,,20285,Bureau of Ocean Energy Management,180,,G
+-9795176.1526,3526891.2221,Federal,,31002,Bureau of Ocean Energy Management,181,,C-DECK(SL)
+-10148233.9195,3392773.8774,Federal,,26084,Bureau of Ocean Energy Management,182,,A
+-10146322.2663,3308741.8199,Federal,,26121,Bureau of Ocean Energy Management,183,,A
+-10131742.1456,3323992.261,Federal,,26050,Bureau of Ocean Energy Management,184,,A-PRD
+-10116331.7057,3315895.2622,Federal,,26313,Bureau of Ocean Energy Management,185,,N
+-10127715.5842,3315718.6774,Federal,,20724,Bureau of Ocean Energy Management,186,,A-MANTIS
+-10115963.3988,3321786.0319,Federal,,26110,Bureau of Ocean Energy Management,187,,B
+-10118309.0158,3315408.3055,Federal,,26142,Bureau of Ocean Energy Management,188,,M
+-10369944.7003,3366016.2321,Federal,,29040,Bureau of Ocean Energy Management,189,,JA
+-10147941.3118,3389849.0608,Federal,,23521,Bureau of Ocean Energy Management,190,,A-VALVE
+-10300859.0708,3432190.885,Federal,,20639,Bureau of Ocean Energy Management,191,,A-RSR
+-10474018.2496,3285738.2812,Federal,,28036,Bureau of Ocean Energy Management,192,,A
+-10185643.3461,3333028.6079,Federal,,32017,Bureau of Ocean Energy Management,193,,K
+-9919464.885,3419829.47,Federal,,31022,Bureau of Ocean Energy Management,194,,PIG-TRAP
+-10230192.2755,3385052.2319,Federal,,27066,Bureau of Ocean Energy Management,195,,G
+-10293813.9959,3263974.6557,Federal,,27064,Bureau of Ocean Energy Management,196,,B
+-9800874.8842,3426659.1163,Federal,,24258,Bureau of Ocean Energy Management,197,,A
+-9932248.8455,3270396.7269,Federal,,24199,Bureau of Ocean Energy Management,198,,A-Mars TLP
+-10348386.1976,3271125.4148,Federal,,27065,Bureau of Ocean Energy Management,199,,D
+-10210715.3438,3349736.8233,Federal,,26105,Bureau of Ocean Energy Management,200,,H
+-10210471.1874,3350494.6033,Federal,,26136,Bureau of Ocean Energy Management,201,,I
+-10524897.6009,3392270.2068,Federal,,28051,Bureau of Ocean Energy Management,202,,B
+-10290955.634,3262600.9958,Federal,,27021,Bureau of Ocean Energy Management,203,,A
+-10267033.5757,3287530.0099,Federal,,27024,Bureau of Ocean Energy Management,204,,C
+-9937864.2767,3373332.9152,Federal,,20278,Bureau of Ocean Energy Management,205,,35(SL 1011)
+-10456638.1702,3298300.408,Federal,,28020,Bureau of Ocean Energy Management,206,,A
+-10264719.2615,3282444.3632,Federal,,27028,Bureau of Ocean Energy Management,207,,A
+-10026918.6366,3376418.0728,Federal,,24255,Bureau of Ocean Energy Management,208,,Q
+-9846864.2207,3396998.5747,Federal,,24201,Bureau of Ocean Energy Management,209,,A
+-10189030.5018,3413982.2794,Federal,,20701,Bureau of Ocean Energy Management,210,,27
+-10092956.3448,3370017.9361,Federal,,26116,Bureau of Ocean Energy Management,211,,5
+-10226780.138,3418020.7478,Federal,,27047,Bureau of Ocean Energy Management,212,,178
+-10130105.6049,3318582.4034,Federal,,32026,Bureau of Ocean Energy Management,213,,E
+-10209911.6493,3268567.9833,Federal,,26138,Bureau of Ocean Energy Management,214,,D
+-10145326.8216,3302761.8557,Federal,,26123,Bureau of Ocean Energy Management,215,,A
+-10098969.9247,3368174.4241,Federal,,26109,Bureau of Ocean Energy Management,216,,25
+-10127198.9339,3368029.7958,Federal,,32011,Bureau of Ocean Energy Management,217,,M
+-10303077.5491,3239252.3283,Federal,,27032,Bureau of Ocean Energy Management,218,,A
+-9903391.3732,3382924.7689,Federal,,20285,Bureau of Ocean Energy Management,219,,D
+-10182385.6563,3383044.5909,Federal,,26111,Bureau of Ocean Energy Management,220,,38
+-10228668.2831,3415430.766,Federal,,24042,Bureau of Ocean Energy Management,221,,171
+-10398962.0376,3432341.4929,Federal,,29030,Bureau of Ocean Energy Management,222,,4
+-10066317.0755,3350721.3661,Federal,,24108,Bureau of Ocean Energy Management,223,,CAISS. 1
+-9975410.6224,3393817.7751,Federal,,21273,Bureau of Ocean Energy Management,224,,F
+-9975401.9296,3393461.566,Federal,,21273,Bureau of Ocean Energy Management,225,,E
+-9975492.6698,3393856.5194,Federal,,21273,Bureau of Ocean Energy Management,226,,H
+-10727873.4038,3261894.8773,Federal,,10391,Bureau of Ocean Energy Management,227,,D
+-10408580.4091,3293089.4867,Federal,,29032,Bureau of Ocean Energy Management,228,,A
+-9984264.0294,3392046.096,Federal,,20249,Bureau of Ocean Energy Management,229,,E
+-10020164.2211,3374586.0609,Federal,,24214,Bureau of Ocean Energy Management,230,,M
+-9822330.2915,3459485.0691,Federal,,24171,Bureau of Ocean Energy Management,231,,A
+-9999060.9902,3369587.2005,Federal,,21805,Bureau of Ocean Energy Management,232,,I
+-9998861.6137,3363585.799,Federal,,21270,Bureau of Ocean Energy Management,233,,X
+-9881591.982,3409109.1193,Federal,,24248,Bureau of Ocean Energy Management,234,,BS
+-9880803.79,3409639.1641,Federal,,24248,Bureau of Ocean Energy Management,235,,BS-Y
+-9880928.139,3409764.8548,Federal,,24248,Bureau of Ocean Energy Management,236,,BS
+-9880665.191,3409529.297,Federal,,24248,Bureau of Ocean Energy Management,237,,BS
+-9934887.6765,3374063.009,Federal,,24249,Bureau of Ocean Energy Management,238,,257(SL 1012)
+-9934234.5233,3374134.6788,Federal,,24250,Bureau of Ocean Energy Management,239,,225 (SL 1012)T
+-9936692.4719,3373691.0206,Federal,,24251,Bureau of Ocean Energy Management,240,,85(SL 1012)(w)
+-9937027.0842,3373360.765,Federal,,24252,Bureau of Ocean Energy Management,241,,98(SL 1012)(M)
+-9932460.8585,3373442.5931,Federal,,24253,Bureau of Ocean Energy Management,242,,271(SL 1012)M
+-9935125.3783,3373643.1967,Federal,,20741,Bureau of Ocean Energy Management,243,,TT
+-10169746.5038,3346332.1719,Federal,,26075,Bureau of Ocean Energy Management,244,,JG
+-9903751.6225,3381283.3281,Federal,,20319,Bureau of Ocean Energy Management,245,,E
+-9955395.2734,3340090.3332,Federal,,24216,Bureau of Ocean Energy Management,246,,D
+-10191045.3039,3416483.3286,Federal,,26053,Bureau of Ocean Energy Management,247,,28
+-10099312.0596,3369085.41,Federal,,21988,Bureau of Ocean Energy Management,248,,B-25
+-10318885.1509,3271605.4991,Federal,,27008,Bureau of Ocean Energy Management,249,,A
+-10161895.1878,3390461.2292,Federal,,26071,Bureau of Ocean Energy Management,250,,A
+-10132304.3304,3323983.0063,Federal,,26050,Bureau of Ocean Energy Management,251,,A
+-10174495.8585,3310464.9745,Federal,,26083,Bureau of Ocean Energy Management,252,,J
+-10121440.939,3353157.8932,Federal,,26086,Bureau of Ocean Energy Management,253,,W
+-10360704.48,3309247.8137,Federal,,29008,Bureau of Ocean Energy Management,254,,B
+-10140162.563,3298456.7252,Federal,,26072,Bureau of Ocean Energy Management,255,,F
+-9865802.2632,3372243.8049,Federal,,24130,Bureau of Ocean Energy Management,256,,A
+-9798355.2456,3417199.7534,Federal,,24194,Bureau of Ocean Energy Management,257,,A
+-10162450.2797,3298012.721,Federal,,26085,Bureau of Ocean Energy Management,258,,G
+-10034710.7184,3379608.1841,Federal,,20454,Bureau of Ocean Energy Management,259,,73
+-10141506.3975,3273275.3743,Federal,,26067,Bureau of Ocean Energy Management,260,,A
+-9783115.4386,3515686.0981,Federal,,23894,Bureau of Ocean Energy Management,261,,AP
+-9783115.7033,3515632.7092,Federal,,23894,Bureau of Ocean Energy Management,262,,AQ
+-9780027.9201,3515337.8214,Federal,,24158,Bureau of Ocean Energy Management,263,,A
+-9868320.4605,3429106.133,Federal,,24179,Bureau of Ocean Energy Management,264,,A
+-9969539.1227,3354256.222,Federal,,24209,Bureau of Ocean Energy Management,265,,A
+-10185279.1234,3316389.6616,Federal,,26095,Bureau of Ocean Energy Management,266,,K
+-10122953.1838,3353486.0779,Federal,,26070,Bureau of Ocean Energy Management,267,,V
+-9851387.2549,3514294.8441,Federal,,23474,Bureau of Ocean Energy Management,268,,AQ
+-10461425.1307,3248479.4899,Federal,,28005,Bureau of Ocean Energy Management,269,,B
+-10427245.9689,3240639.0497,Federal,,10597,Bureau of Ocean Energy Management,270,,B
+-10337416.7675,3269708.5466,Federal,,24085,Bureau of Ocean Energy Management,271,,A
+-10441950.5473,3240156.8381,Federal,,28002,Bureau of Ocean Energy Management,272,,B
+-10041259.2269,3261747.6672,Federal,,24129,Bureau of Ocean Energy Management,273,,A (LOBSTER)
+-9913581.7978,3414136.2523,Federal,,22798,Bureau of Ocean Energy Management,274,,2
+-10022232.9036,3368754.6919,Federal,,20046,Bureau of Ocean Energy Management,275,,AP
+-10022189.8213,3368746.5513,Federal,,20046,Bureau of Ocean Energy Management,276,,AX
+-10037572.227,3374647.6571,Federal,,20047,Bureau of Ocean Energy Management,277,,SB
+-10032739.9177,3380859.8423,Federal,,20005,Bureau of Ocean Energy Management,278,,CS
+-10032221.1517,3381156.1378,Federal,,20008,Bureau of Ocean Energy Management,279,,R
+-10031694.1479,3382838.1241,Federal,,20011,Bureau of Ocean Energy Management,280,,X
+-9998673.9321,3371811.9044,Federal,,20015,Bureau of Ocean Energy Management,281,,D
+-10011833.8068,3375518.5078,Federal,,20018,Bureau of Ocean Energy Management,282,,C
+-10015103.3802,3374861.2665,Federal,,20020,Bureau of Ocean Energy Management,283,,D
+-10003057.7034,3375799.4527,Federal,,20021,Bureau of Ocean Energy Management,284,,AQ-QRT
+-10003057.2587,3375834.4531,Federal,,20021,Bureau of Ocean Energy Management,285,,AP-QRT
+-10003092.103,3375834.9621,Federal,,20021,Bureau of Ocean Energy Management,286,,AC-CMP
+-10002987.6812,3375833.5625,Federal,,20021,Bureau of Ocean Energy Management,287,,AR-RSR
+-10002988.5707,3375763.5618,Federal,,20021,Bureau of Ocean Energy Management,288,,AS-SEP
+-9996277.4639,3371913.837,Federal,,20027,Bureau of Ocean Energy Management,289,,E
+-10017136.4872,3374776.2403,Federal,,20032,Bureau of Ocean Energy Management,290,,E
+-9986087.7881,3368916.1291,Federal,,21809,Bureau of Ocean Energy Management,291,,A-TWR
+-9986058.956,3368990.2922,Federal,,21809,Bureau of Ocean Energy Management,292,,QTRS
+-9986083.2249,3368990.6737,Federal,,21809,Bureau of Ocean Energy Management,293,,D
+-10247335.2929,3310482.2471,Federal,,24053,Bureau of Ocean Energy Management,294,,B
+-10072284.312,3357668.2082,Federal,,24144,Bureau of Ocean Energy Management,295,,22
+-10290753.0693,3191882.2499,Federal,,24080,Bureau of Ocean Energy Management,296,,A-Auger TLP
+-9877848.419,3386727.9878,Federal,,20375,Bureau of Ocean Energy Management,297,,D
+-10189687.7586,3415383.1012,Federal,,21798,Bureau of Ocean Energy Management,298,,26
+-10176303.4911,3309329.9734,Federal,,26030,Bureau of Ocean Energy Management,299,,I
+-10111527.5637,3361981.3074,Federal,,26062,Bureau of Ocean Energy Management,300,,61
+-9981261.5262,3360472.3028,Federal,,24159,Bureau of Ocean Energy Management,301,,F
+-10181806.8508,3342795.9463,Federal,,26041,Bureau of Ocean Energy Management,302,,JD
+-10176884.0236,3343144.4819,Federal,,26052,Bureau of Ocean Energy Management,303,,JE
+-10230644.8405,3418050.1631,Federal,,24075,Bureau of Ocean Energy Management,304,,151
+-10227753.1151,3413960.0508,Federal,,24003,Bureau of Ocean Energy Management,305,,2
+-9983086.6836,3368250.2207,Federal,,20161,Bureau of Ocean Energy Management,306,,B
+-9987098.2751,3368290.6527,Federal,,20162,Bureau of Ocean Energy Management,307,,C
+-9983550.3694,3369605.6318,Federal,,20163,Bureau of Ocean Energy Management,308,,F
+-9965126.8752,3369095.5931,Federal,,20165,Bureau of Ocean Energy Management,309,,C
+-9992222.539,3367742.7747,Federal,,20103,Bureau of Ocean Energy Management,310,,E
+-10016340.0463,3388594.3345,Federal,,20104,Bureau of Ocean Energy Management,311,,L-QTR
+-10016305.2022,3388593.9523,Federal,,20104,Bureau of Ocean Energy Management,312,,L-PRD
+-10016374.8903,3388594.7168,Federal,,20104,Bureau of Ocean Energy Management,313,,L-CMP-VALVE
+-9980391.6626,3371682.3522,Federal,,20106,Bureau of Ocean Energy Management,314,,F
+-9975024.2303,3394423.2879,Federal,,20108,Bureau of Ocean Energy Management,315,,B
+-9980967.6044,3367834.226,Federal,,20114,Bureau of Ocean Energy Management,316,,A
+-9980934.8804,3367833.7758,Federal,,20114,Bureau of Ocean Energy Management,317,,E
+-9980882.5024,3367774.9075,Federal,,20114,Bureau of Ocean Energy Management,318,,B
+-9979781.827,3390962.649,Federal,,20145,Bureau of Ocean Energy Management,319,,F
+-9976389.8573,3390456.5415,Federal,,20147,Bureau of Ocean Energy Management,320,,J
+-9982254.1948,3393522.2547,Federal,,20148,Bureau of Ocean Energy Management,321,,L
+-9981328.615,3392542.1131,Federal,,20149,Bureau of Ocean Energy Management,322,,N
+-10035993.5619,3379202.3851,Federal,,20065,Bureau of Ocean Energy Management,323,,S
+-10037489.1876,3380278.6773,Federal,,20075,Bureau of Ocean Energy Management,324,,FF
+-10018143.8092,3388508.8539,Federal,,20082,Bureau of Ocean Energy Management,325,,J
+-10021428.0614,3389801.9836,Federal,,20084,Bureau of Ocean Energy Management,326,,T
+-10017622.5924,3387716.0762,Federal,,20085,Bureau of Ocean Energy Management,327,,Q
+-10015335.7709,3389511.0274,Federal,,20087,Bureau of Ocean Energy Management,328,,P
+-10014998.2897,3391301.3315,Federal,,20088,Bureau of Ocean Energy Management,329,,R
+-10012318.7255,3387744.9848,Federal,,20089,Bureau of Ocean Energy Management,330,,W
+-10034594.2292,3378980.6352,Federal,,20049,Bureau of Ocean Energy Management,331,,U
+-10034623.3904,3378995.6431,Federal,,20049,Bureau of Ocean Energy Management,332,,U-Aux
+-10034072.1125,3378416.4242,Federal,,20051,Bureau of Ocean Energy Management,333,,CL
+-10062658.2134,3351960.5281,Federal,,20055,Bureau of Ocean Energy Management,334,,B
+-10064908.1277,3350110.6064,Federal,,20056,Bureau of Ocean Energy Management,335,,H
+-10033038.8429,3380388.6046,Federal,,20057,Bureau of Ocean Energy Management,336,,W
+-10037162.3151,3375069.4505,Federal,,20060,Bureau of Ocean Energy Management,337,,CI
+-10037640.3666,3379036.2242,Federal,,20061,Bureau of Ocean Energy Management,338,,CW
+-10001149.1953,3377490.2791,Federal,,20035,Bureau of Ocean Energy Management,339,,U
+-9994479.0542,3366350.0183,Federal,,20036,Bureau of Ocean Energy Management,340,,V
+-10018794.7263,3371814.1925,Federal,,20043,Bureau of Ocean Energy Management,341,,G
+-10022224.6656,3368746.9324,Federal,,20046,Bureau of Ocean Energy Management,342,,A
+-10022189.8213,3368746.5513,Federal,,20046,Bureau of Ocean Energy Management,343,,AQ QTRS
+-9983958.6937,3393721.9684,Federal,,20241,Bureau of Ocean Energy Management,344,,3
+-9986448.6124,3390428.5322,Federal,,20242,Bureau of Ocean Energy Management,345,,2
+-9984681.4504,3390762.4861,Federal,,20247,Bureau of Ocean Energy Management,346,,B
+-9984319.4547,3392046.9193,Federal,,20249,Bureau of Ocean Energy Management,347,,D-QTR
+-9984284.61,3392046.4095,Federal,,20249,Bureau of Ocean Energy Management,348,,A
+-10035085.9459,3376862.1605,Federal,,20213,Bureau of Ocean Energy Management,349,,CM
+-9985342.5268,3323245.9988,Federal,,20219,Bureau of Ocean Energy Management,350,,A
+-9975048.7,3358491.3169,Federal,,20226,Bureau of Ocean Energy Management,351,,D
+-9963142.9768,3371938.5659,Federal,,20230,Bureau of Ocean Energy Management,352,,D
+-9963876.5943,3370194.4932,Federal,,20231,Bureau of Ocean Energy Management,353,,B
+-9969185.3189,3393044.6832,Federal,,20192,Bureau of Ocean Energy Management,354,,10
+-10023607.1692,3367303.5648,Federal,,20194,Bureau of Ocean Energy Management,355,,E
+-9845268.8155,3408619.3613,Federal,,20196,Bureau of Ocean Energy Management,356,,B
+-9880439.2213,3407892.9025,Federal,,20197,Bureau of Ocean Energy Management,357,,D
+-9907941.028,3427177.1305,Federal,,20199,Bureau of Ocean Energy Management,358,,J
+-9870182.6258,3412636.1551,Federal,,20200,Bureau of Ocean Energy Management,359,,B
+-9870161.4734,3412690.782,Federal,,20200,Bureau of Ocean Energy Management,360,,BA-SAT
+-9870601.3177,3412942.9865,Federal,,20201,Bureau of Ocean Energy Management,361,,A
+-10037722.079,3378262.2171,Federal,,20204,Bureau of Ocean Energy Management,362,,EE
+-10035203.6142,3377278.9003,Federal,,20206,Bureau of Ocean Energy Management,363,,SC
+-10036468.5815,3376554.1104,Federal,,20207,Bureau of Ocean Energy Management,364,,CC
+-9973778.0283,3393221.0764,Federal,,20182,Bureau of Ocean Energy Management,365,,D
+-9974807.1985,3392191.9066,Federal,,20183,Bureau of Ocean Energy Management,366,,C
+-9974453.4848,3390897.9072,Federal,,20185,Bureau of Ocean Energy Management,367,,CC
+-9971910.6735,3393491.757,Federal,,20190,Bureau of Ocean Energy Management,368,,33
+-9976970.5491,3391271.2552,Federal,,20152,Bureau of Ocean Energy Management,369,,T
+-9911313.6737,3427908.8113,Federal,,20396,Bureau of Ocean Energy Management,370,,DB
+-9909050.8253,3427786.7181,Federal,,20397,Bureau of Ocean Energy Management,371,,EA
+-9911360.5565,3426784.7655,Federal,,20398,Bureau of Ocean Energy Management,372,,M-QTR
+-9911325.6009,3426783.9986,Federal,,20398,Bureau of Ocean Energy Management,373,,D
+-9936904.1401,3373088.0527,Federal,,20366,Bureau of Ocean Energy Management,374,,130(SP28M)
+-9877808.7872,3386830.0199,Federal,,20375,Bureau of Ocean Energy Management,375,,C
+-9891555.2597,3389309.4419,Federal,,20376,Bureau of Ocean Energy Management,376,,A
+-9910267.8276,3433120.3984,Federal,,20378,Bureau of Ocean Energy Management,377,,EC
+-9910520.4693,3429660.4256,Federal,,20379,Bureau of Ocean Energy Management,378,,EB
+-9937142.1078,3371664.484,Federal,,20317,Bureau of Ocean Energy Management,379,,21(V)
+-9936684.5826,3371551.2321,Federal,,20318,Bureau of Ocean Energy Management,380,,18
+-9903721.7641,3381313.1812,Federal,,20319,Bureau of Ocean Energy Management,381,,B
+-9938416.4211,3358573.2472,Federal,,20320,Bureau of Ocean Energy Management,382,,A-VALVE
+-9915658.6442,3426748.7642,Federal,,20331,Bureau of Ocean Energy Management,383,,K
+-9910368.7918,3427944.2179,Federal,,20332,Bureau of Ocean Energy Management,384,,E
+-9910393.3617,3427956.9782,Federal,,20332,Bureau of Ocean Energy Management,385,,15
+-9890129.8523,3390625.597,Federal,,20341,Bureau of Ocean Energy Management,386,,B
+-9936723.3075,3370946.5069,Federal,,20359,Bureau of Ocean Energy Management,387,,66
+-9934659.5471,3371300.7906,Federal,,20360,Bureau of Ocean Energy Management,388,,A71
+-9935540.3246,3371299.4056,Federal,,20284,Bureau of Ocean Energy Management,389,,38
+-9903456.4345,3383049.4294,Federal,,20285,Bureau of Ocean Energy Management,390,,A
+-9934822.0059,3372902.9808,Federal,,20292,Bureau of Ocean Energy Management,391,,49
+-9934830.3439,3372441.212,Federal,,20300,Bureau of Ocean Energy Management,392,,9(Z)
+-9934744.6106,3371831.1004,Federal,,20302,Bureau of Ocean Energy Management,393,,Z
+-9937136.9955,3372024.1805,Federal,,20312,Bureau of Ocean Energy Management,394,,13(V)
+-9934369.5786,3372429.8825,Federal,,20313,Bureau of Ocean Energy Management,395,,10
+-9936677.6916,3372015.7689,Federal,,20314,Bureau of Ocean Energy Management,396,,12
+-9934838.6818,3371979.4594,Federal,,20315,Bureau of Ocean Energy Management,397,,15
+-9935289.7726,3372449.6151,Federal,,20316,Bureau of Ocean Energy Management,398,,16
+-9991874.8322,3387517.0183,Federal,,20271,Bureau of Ocean Energy Management,399,,AUX
+-10035901.718,3381263.0424,Federal,,20475,Bureau of Ocean Energy Management,400,,28 and 23
+-10036860.2052,3381654.975,Federal,,20476,Bureau of Ocean Energy Management,401,,KN
+-10036860.1307,3381662.327,Federal,,20476,Bureau of Ocean Energy Management,402,,13
+-9934009.0781,3370881.3101,Federal,,20478,Bureau of Ocean Energy Management,403,,AA WEST
+-9982976.935,3394291.2804,Federal,,20479,Bureau of Ocean Energy Management,404,,S
+-10014813.5842,3388012.3851,Federal,,20486,Bureau of Ocean Energy Management,405,,U
+-9913428.3605,3428963.9627,Federal,,20453,Bureau of Ocean Energy Management,406,,FA
+-10034804.6296,3379645.1901,Federal,,20454,Bureau of Ocean Energy Management,407,,CG
+-9908304.668,3423212.007,Federal,,20456,Bureau of Ocean Energy Management,408,,AE
+-9911360.5965,3426784.768,Federal,,20398,Bureau of Ocean Energy Management,409,,L
+-9936081.8036,3372199.8655,Federal,,20399,Bureau of Ocean Energy Management,410,,93
+-9934847.02,3371517.5957,Federal,,20403,Bureau of Ocean Energy Management,411,,24
+-9936363.1029,3372007.2347,Federal,,20405,Bureau of Ocean Energy Management,412,,A17
+-9936893.5561,3372709.8763,Federal,,20407,Bureau of Ocean Energy Management,413,,1(V)
+-9911731.4514,3428422.3288,Federal,,20408,Bureau of Ocean Energy Management,414,,F
+-9906812.0295,3427428.8631,Federal,,20383,Bureau of Ocean Energy Management,415,,JA
+-9917585.6046,3426639.5805,Federal,,20385,Bureau of Ocean Energy Management,416,,KB
+-9905444.9953,3420450.3883,Federal,,20386,Bureau of Ocean Energy Management,417,,AB(N)
+-9906840.1658,3423171.8392,Federal,,20388,Bureau of Ocean Energy Management,418,,AD
+-9898626.3619,3430104.6711,Federal,,20389,Bureau of Ocean Energy Management,419,,BE
+-9904069.1446,3426675.7317,Federal,,20390,Bureau of Ocean Energy Management,420,,B
+-9904104.1008,3426676.3706,Federal,,20390,Bureau of Ocean Energy Management,421,,BB
+-9904069.1446,3426675.7317,Federal,,20390,Bureau of Ocean Energy Management,422,,O
+-9906658.4159,3422483.0022,Federal,,20391,Bureau of Ocean Energy Management,423,,AA
+-9905477.394,3427902.6392,Federal,,20392,Bureau of Ocean Energy Management,424,,BA
+-9909662.0844,3427491.9825,Federal,,20394,Bureau of Ocean Energy Management,425,,CB
+-10024715.9687,3368677.0581,Federal,,20673,Bureau of Ocean Energy Management,426,,J
+-9935548.1066,3370869.1181,Federal,,20681,Bureau of Ocean Energy Management,427,,48
+-9934410.2158,3372604.9689,Federal,,20682,Bureau of Ocean Energy Management,428,,122
+-10044856.5655,3375202.8118,Federal,,20714,Bureau of Ocean Energy Management,429,,B
+-10041264.2548,3373957.8444,Federal,,20717,Bureau of Ocean Energy Management,430,,D
+-10041176.9776,3373976.298,Federal,,20717,Bureau of Ocean Energy Management,431,,E
+-10073379.086,3358798.056,Federal,,20719,Bureau of Ocean Energy Management,432,,A
+-10073310.6194,3358654.9392,Federal,,20719,Bureau of Ocean Energy Management,433,,CA
+-10046556.4267,3327043.4131,Federal,,20618,Bureau of Ocean Energy Management,434,,PROD 1
+-10046487.0701,3327042.766,Federal,,20618,Bureau of Ocean Energy Management,435,,PROD 2
+-10046521.4719,3327077.9052,Federal,,20618,Bureau of Ocean Energy Management,436,,G-CMP
+-10046522.0273,3327008.161,Federal,,20618,Bureau of Ocean Energy Management,437,,G-QRT
+-10046544.068,3326914.9575,Federal,,20618,Bureau of Ocean Energy Management,438,,Y
+-10036732.1691,3373812.4588,Federal,,20632,Bureau of Ocean Energy Management,439,,A
+-10036767.0134,3373812.8401,Federal,,20632,Bureau of Ocean Energy Management,440,,A-QRT
+-10044982.2784,3332070.7875,Federal,,20581,Bureau of Ocean Energy Management,441,,S
+-10033767.4975,3334361.3755,Federal,,20582,Bureau of Ocean Energy Management,442,,J
+-10046080.1678,3333407.0123,Federal,,20587,Bureau of Ocean Energy Management,443,,R
+-10050172.0429,3332189.4972,Federal,,20607,Bureau of Ocean Energy Management,444,,Q
+-9964652.4329,3372053.0735,Federal,,20491,Bureau of Ocean Energy Management,445,,F
+-9981272.3402,3370555.978,Federal,,20493,Bureau of Ocean Energy Management,446,,D
+-9994707.7848,3371109.855,Federal,,20510,Bureau of Ocean Energy Management,447,,O
+-9933943.2813,3370675.2037,Federal,,20544,Bureau of Ocean Energy Management,448,,37
+-9933898.9874,3371195.8175,Federal,,20546,Bureau of Ocean Energy Management,449,,33
+-9933770.187,3371193.3988,Federal,,20547,Bureau of Ocean Energy Management,450,,60
+-9932971.1164,3371369.3503,Federal,,20549,Bureau of Ocean Energy Management,451,,99
+-9934861.5856,3370788.953,Federal,,20550,Bureau of Ocean Energy Management,452,,30
+-9906219.6637,3423598.2714,Federal,,20551,Bureau of Ocean Energy Management,453,,AC
+-10014193.0935,3375483.4937,Federal,,20575,Bureau of Ocean Energy Management,454,,B
+-9878719.8719,3410763.6416,Federal,,20467,Bureau of Ocean Energy Management,455,,A
+-9883132.9486,3409284.7096,Federal,,20468,Bureau of Ocean Energy Management,456,,B
+-9880692.7642,3412277.1117,Federal,,20469,Bureau of Ocean Energy Management,457,,C
+-9903606.1553,3425758.6324,Federal,,20470,Bureau of Ocean Energy Management,458,,BF
+-9904628.9919,3427270.004,Federal,,20471,Bureau of Ocean Energy Management,459,,5
+-10048326.0681,3377835.9057,Federal,,20993,Bureau of Ocean Energy Management,460,,WG 6 and 115
+-9937127.4326,3372483.1354,Federal,,21042,Bureau of Ocean Energy Management,461,,8
+-10046025.3432,3374813.9899,Federal,,20976,Bureau of Ocean Energy Management,462,,82
+-10047440.9324,3378562.3973,Federal,,20978,Bureau of Ocean Energy Management,463,,80
+-10047589.6655,3377401.9549,Federal,,20990,Bureau of Ocean Energy Management,464,,15
+-10062473.061,3322388.1772,Federal,,20957,Bureau of Ocean Energy Management,465,,C
+-10046766.9706,3374223.6081,Federal,,20961,Bureau of Ocean Energy Management,466,,1
+-10046713.7706,3375070.1713,Federal,,20966,Bureau of Ocean Energy Management,467,,G
+-10046877.5357,3375872.1176,Federal,,20967,Bureau of Ocean Energy Management,468,,109
+-10046614.0184,3374642.173,Federal,,20968,Bureau of Ocean Energy Management,469,,101
+-10047504.0611,3375423.0983,Federal,,20969,Bureau of Ocean Energy Management,470,,100
+-10047430.367,3375558.8978,Federal,,20972,Bureau of Ocean Energy Management,471,,92
+-10073445.0996,3358750.6547,Federal,,20719,Bureau of Ocean Energy Management,472,,B-QTR
+-10073417.4938,3358868.234,Federal,,20719,Bureau of Ocean Energy Management,473,,C
+-9908815.3064,3423337.5745,Federal,,20729,Bureau of Ocean Energy Management,474,,A
+-9935073.5015,3373624.7445,Federal,,20742,Bureau of Ocean Energy Management,475,,T
+-10073942.8028,3357638.9793,Federal,,20793,Bureau of Ocean Energy Management,476,,3
+-10061065.4732,3313419.8825,Federal,,20652,Bureau of Ocean Energy Management,477,,E
+-9906726.2757,3425675.4785,Federal,,21586,Bureau of Ocean Energy Management,478,,CC
+-9913147.2019,3425647.9249,Federal,,21587,Bureau of Ocean Energy Management,479,,I
+-9892041.6152,3413130.8181,Federal,,21590,Bureau of Ocean Energy Management,480,,A
+-10045707.1843,3375027.2946,Federal,,21161,Bureau of Ocean Energy Management,481,,88
+-9934596.4301,3372667.8789,Federal,,21166,Bureau of Ocean Energy Management,482,,3
+-9936673.0341,3372779.3453,Federal,,21167,Bureau of Ocean Energy Management,483,,201 V
+-9902539.6091,3383788.6663,Federal,,21169,Bureau of Ocean Energy Management,484,,C
+-9936844.5578,3371948.0837,Federal,,21229,Bureau of Ocean Energy Management,485,,V
+-9936957.6583,3371950.2501,Federal,,21229,Bureau of Ocean Energy Management,486,,VV-AUX
+-9998800.7212,3363694.5197,Federal,,21270,Bureau of Ocean Energy Management,487,,S
+-9975122.5082,3393606.3413,Federal,,21273,Bureau of Ocean Energy Management,488,,I-QRT
+-10049474.5269,3378157.8373,Federal,,21098,Bureau of Ocean Energy Management,489,,H
+-10049474.4791,3378157.8502,Federal,,21098,Bureau of Ocean Energy Management,490,,D
+-10047471.8917,3375624.3168,Federal,,21100,Bureau of Ocean Energy Management,491,,48
+-10046637.0524,3373966.9253,Federal,,21108,Bureau of Ocean Energy Management,492,,F
+-10046671.8966,3373967.3073,Federal,,21108,Bureau of Ocean Energy Management,493,,PRD
+-10045698.9557,3375784.5629,Federal,,21090,Bureau of Ocean Energy Management,494,,87
+-10047732.0489,3375243.5206,Federal,,21070,Bureau of Ocean Energy Management,495,,116
+-9913718.3232,3349096.5945,Federal,,22178,Bureau of Ocean Energy Management,496,,A-Cognac
+-10074003.8568,3359680.4123,Federal,,21933,Bureau of Ocean Energy Management,497,,3
+-10049745.5537,3377696.9103,Federal,,21935,Bureau of Ocean Energy Management,498,,DA
+-9934893.5669,3372099.0637,Federal,,21942,Bureau of Ocean Energy Management,499,,157
+-10062741.3683,3323686.4258,Federal,,21951,Bureau of Ocean Energy Management,500,,A
+-10033208.8609,3383919.9841,Federal,,22000,Bureau of Ocean Energy Management,501,,SG
+-10067192.2523,3367867.0762,Federal,,22007,Bureau of Ocean Energy Management,502,,D
+-9908806.4667,3426481.0408,Federal,,21815,Bureau of Ocean Energy Management,503,,C
+-9982658.7756,3394560.8427,Federal,,21831,Bureau of Ocean Energy Management,504,,E-CMP
+-10012578.2356,3376131.4614,Federal,,21859,Bureau of Ocean Energy Management,505,,F
+-10064776.969,3367158.4513,Federal,,21885,Bureau of Ocean Energy Management,506,,B
+-9874547.614,3386439.4735,Federal,,21895,Bureau of Ocean Energy Management,507,,A
+-10058090.5485,3366578.0465,Federal,,21897,Bureau of Ocean Energy Management,508,,A
+-10021674.9117,3342409.1612,Federal,,21776,Bureau of Ocean Energy Management,509,,A
+-9889882.787,3413343.9551,Federal,,21778,Bureau of Ocean Energy Management,510,,B
+-10038389.1917,3372936.9988,Federal,,21782,Bureau of Ocean Energy Management,511,,C
+-10038340.3601,3373050.2342,Federal,,21782,Bureau of Ocean Energy Management,512,,D-QTRS
+-10038249.1681,3373394.7048,Federal,,21782,Bureau of Ocean Energy Management,513,,F
+-9935280.1022,3373044.3573,Federal,,21797,Bureau of Ocean Energy Management,514,,229 T
+-9998967.349,3369586.9694,Federal,,21805,Bureau of Ocean Energy Management,515,,L
+-9986071.4224,3368845.91,Federal,,21809,Bureau of Ocean Energy Management,516,,A
+-9938097.0767,3372111.1934,Federal,,21669,Bureau of Ocean Energy Management,517,,5
+-10073362.2269,3356345.6559,Federal,,21748,Bureau of Ocean Energy Management,518,,CB
+-10037769.5539,3371268.5762,Federal,,21749,Bureau of Ocean Energy Management,519,,E
+-10033023.9918,3382007.5998,Federal,,21488,Bureau of Ocean Energy Management,520,,CD
+-9903065.2113,3426695.5305,Federal,,22597,Bureau of Ocean Energy Management,521,,BC
+-9869673.1352,3408481.0966,Federal,,22601,Bureau of Ocean Energy Management,522,,C
+-9953374.1413,3355223.6984,Federal,,22602,Bureau of Ocean Energy Management,523,,D
+-9902830.5214,3427796.4393,Federal,,22605,Bureau of Ocean Energy Management,524,,P
+-9861171.5708,3427371.2005,Federal,,22445,Bureau of Ocean Energy Management,525,,B
+-10007343.9028,3394763.5071,Federal,,22486,Bureau of Ocean Energy Management,526,,3
+-9878149.6879,3399038.3301,Federal,,22523,Bureau of Ocean Energy Management,527,,B
+-9994989.6327,3331477.7822,Federal,,22311,Bureau of Ocean Energy Management,528,,A
+-9914538.6117,3361102.2982,Federal,,22380,Bureau of Ocean Energy Management,529,,A
+-9934028.9746,3373450.1569,Federal,,22401,Bureau of Ocean Energy Management,530,,235 T
+-9936311.5564,3373129.3561,Federal,,22403,Bureau of Ocean Energy Management,531,,267(V)
+-10069910.6798,3357598.1689,Federal,,22421,Bureau of Ocean Energy Management,532,,A
+-10069885.8533,3357520.7646,Federal,,22421,Bureau of Ocean Energy Management,533,,A-AUX
+-9934120.0253,3371465.4506,Federal,,22433,Bureau of Ocean Energy Management,534,,189
+-10044697.7922,3328308.1486,Federal,,22439,Bureau of Ocean Energy Management,535,,W
+-9978866.7338,3376457.1556,Federal,,22208,Bureau of Ocean Energy Management,536,,5
+-9897193.5889,3409629.1082,Federal,,22210,Bureau of Ocean Energy Management,537,,A
+-9897282.2032,3409682.8299,Federal,,22210,Bureau of Ocean Energy Management,538,,CF
+-9879178.1097,3396591.8306,Federal,,22223,Bureau of Ocean Energy Management,539,,A
+-9995856.1614,3330271.6067,Federal,,22224,Bureau of Ocean Energy Management,540,,A
+-9936139.6937,3372464.0802,Federal,,22247,Bureau of Ocean Energy Management,541,,193
+-9899719.1148,3407956.9063,Federal,,22289,Bureau of Ocean Energy Management,542,,B
+-9996696.6185,3350857.6243,Federal,,22296,Bureau of Ocean Energy Management,543,,G
+-9901063.3076,3379425.5316,Federal,,22087,Bureau of Ocean Energy Management,544,,C
+-9922500.6385,3430339.4536,Federal,,22103,Bureau of Ocean Energy Management,545,,A
+-10066873.6081,3365896.1333,Federal,,22122,Bureau of Ocean Energy Management,546,,E
+-9952643.0189,3354142.7146,Federal,,22123,Bureau of Ocean Energy Management,547,,A
+-9841700.7407,3406236.2659,Federal,,22131,Bureau of Ocean Energy Management,548,,A
+-9952876.6576,3332843.8995,Federal,,22172,Bureau of Ocean Energy Management,549,,A
+-10028044.4304,3369128.8551,Federal,,22891,Bureau of Ocean Energy Management,550,,P
+-9913103.601,3414573.5988,Federal,,22910,Bureau of Ocean Energy Management,551,,1
+-9912948.8351,3413995.7859,Federal,,22913,Bureau of Ocean Energy Management,552,,B
+-9912460.3773,3414460.2428,Federal,,22914,Bureau of Ocean Energy Management,553,,5
+-9913300.9675,3415277.7401,Federal,,22915,Bureau of Ocean Energy Management,554,,6
+-9913362.219,3413511.8441,Federal,,22916,Bureau of Ocean Energy Management,555,,7
+-9913936.5093,3415454.0392,Federal,,22918,Bureau of Ocean Energy Management,556,,9
+-9913015.3252,3414322.2566,Federal,,22919,Bureau of Ocean Energy Management,557,,10
+-9914067.1062,3414339.3655,Federal,,22920,Bureau of Ocean Energy Management,558,,11
+-9913997.4261,3413713.775,Federal,,22921,Bureau of Ocean Energy Management,559,,12
+-9951406.6318,3353070.8932,Federal,,22763,Bureau of Ocean Energy Management,560,,C
+-9951589.2001,3355823.3179,Federal,,22776,Bureau of Ocean Energy Management,561,,B
+-9913526.0936,3414162.1732,Federal,,22798,Bureau of Ocean Energy Management,562,,A
+-9913562.4456,3414125.6844,Federal,,22798,Bureau of Ocean Energy Management,563,,AQ
+-10072443.7573,3357696.7101,Federal,,22839,Bureau of Ocean Energy Management,564,,20
+-10021678.3794,3367136.7163,Federal,,22847,Bureau of Ocean Energy Management,565,,L
+-10065151.3381,3354500.0555,Federal,,22695,Bureau of Ocean Energy Management,566,,G
+-10065096.6773,3354428.6417,Federal,,22695,Bureau of Ocean Energy Management,567,,G-QTR
+-10048673.0047,3334512.9597,Federal,,22711,Bureau of Ocean Energy Management,568,,X
+-9900384.4569,3382650.2997,Federal,,22717,Bureau of Ocean Energy Management,569,,A
+-9868403.7372,3434609.3268,Federal,,22739,Bureau of Ocean Energy Management,570,,CA
+-9870139.9307,3405438.8842,Federal,,22749,Bureau of Ocean Energy Management,571,,B
+-9906047.7666,3424315.0343,Federal,,22752,Bureau of Ocean Energy Management,572,,CD
+-10071809.5065,3362667.6833,Federal,,22630,Bureau of Ocean Energy Management,573,,CC
+-10061151.064,3312324.1585,Federal,,22651,Bureau of Ocean Energy Management,574,,CA
+-9882866.6561,3391780.9756,Federal,,22657,Bureau of Ocean Energy Management,575,,A
+-9950587.15,3335070.4476,Federal,,22662,Bureau of Ocean Energy Management,576,,B
+-9994280.2711,3354279.0185,Federal,,22663,Bureau of Ocean Energy Management,577,,B
+-9915956.171,3360214.4063,Federal,,22685,Bureau of Ocean Energy Management,578,,C
+-9905153.1482,3432452.1996,Federal,,22565,Bureau of Ocean Energy Management,579,,BD
+-9898116.7277,3406829.8122,Federal,,22576,Bureau of Ocean Energy Management,580,,C
+-9902907.0032,3419128.99,Federal,,23413,Bureau of Ocean Energy Management,581,,AA
+-9879299.6251,3408867.7356,Federal,,23243,Bureau of Ocean Energy Management,582,,DA
+-9951243.4816,3333696.4975,Federal,,23151,Bureau of Ocean Energy Management,583,,B
+-10079015.5412,3273776.7709,Federal,,23196,Bureau of Ocean Energy Management,584,,A
+-10015361.1621,3333205.1506,Federal,,23199,Bureau of Ocean Energy Management,585,,A
+-10073432.5766,3361566.4905,Federal,,23207,Bureau of Ocean Energy Management,586,,CE
+-9904207.2781,3367790.0096,Federal,,23051,Bureau of Ocean Energy Management,587,,A
+-9914701.9699,3415276.2141,Federal,,23057,Bureau of Ocean Energy Management,588,,A
+-9872196.8846,3399555.3583,Federal,,23083,Bureau of Ocean Energy Management,589,,A
+-9902551.179,3427728.718,Federal,,23086,Bureau of Ocean Energy Management,590,,8
+-10094472.2233,3334171.7327,Federal,,23129,Bureau of Ocean Energy Management,591,,A
+-9914173.9719,3414679.9365,Federal,,23130,Bureau of Ocean Energy Management,592,,14
+-10045335.9245,3375255.1124,Federal,,22966,Bureau of Ocean Energy Management,593,,F
+-9975779.1129,3398202.4304,Federal,,22979,Bureau of Ocean Energy Management,594,,Z
+-10072956.3995,3364751.204,Federal,,23013,Bureau of Ocean Energy Management,595,,A
+-10072956.6217,3364729.5851,Federal,,23013,Bureau of Ocean Energy Management,596,,B
+-10072914.2371,3364762.1201,Federal,,23013,Bureau of Ocean Energy Management,597,,C
+-10065544.8819,3276029.7873,Federal,,23021,Bureau of Ocean Energy Management,598,,A
+-9968371.5933,3391142.9198,Federal,,23022,Bureau of Ocean Energy Management,599,,A
+-9784284.7559,3523358.4007,Federal,,23467,Bureau of Ocean Energy Management,600,,A
+-9940833.4582,3350453.5712,Federal,,23439,Bureau of Ocean Energy Management,601,,A
+-9879796.8918,3411747.5035,Federal,,23451,Bureau of Ocean Energy Management,602,,AA
+-9974353.6823,3356769.3635,Federal,,23415,Bureau of Ocean Energy Management,603,,E
+-9890615.6765,3390621.141,Federal,,23402,Bureau of Ocean Energy Management,604,,C
+-9914143.1155,3416170.612,Federal,,23404,Bureau of Ocean Energy Management,605,,17
+-9984144.2314,3365137.7927,Federal,,23405,Bureau of Ocean Energy Management,606,,G
+-9980388.2228,3372586.2662,Federal,,23407,Bureau of Ocean Energy Management,607,,G
+-9968812.4872,3332691.7556,Federal,,23846,Bureau of Ocean Energy Management,608,,A-PROCESS
+-9934404.6126,3348129.3762,Federal,,23848,Bureau of Ocean Energy Management,609,,A
+-10053047.1538,3303295.5891,Federal,,23851,Bureau of Ocean Energy Management,610,,A
+-9804864.4728,3521515.7549,Federal,,23822,Bureau of Ocean Energy Management,611,,A
+-10057383.1987,3303792.244,Federal,,23826,Bureau of Ocean Energy Management,612,,B
+-9870963.2989,3446129.8056,Federal,,23827,Bureau of Ocean Energy Management,613,,D
+-10036676.6417,3378892.2543,Federal,,23554,Bureau of Ocean Energy Management,614,,SJ
+-10016244.3163,3373273.7022,Federal,,23557,Bureau of Ocean Energy Management,615,,H
+-10058680.0351,3269606.5105,Federal,,23800,Bureau of Ocean Energy Management,616,,A
+-10048966.0637,3378454.4565,Federal,,23801,Bureau of Ocean Energy Management,617,,124
+-9975837.3745,3363093.5756,Federal,,23813,Bureau of Ocean Energy Management,618,,A
+-9845254.1276,3407341.0573,Federal,,23494,Bureau of Ocean Energy Management,619,,C
+-10073481.2778,3358664.9814,Federal,,23499,Bureau of Ocean Energy Management,620,,21
+-10071557.43,3360599.3703,Federal,,23502,Bureau of Ocean Energy Management,621,,23
+-9869593.7625,3446214.6853,Federal,,23472,Bureau of Ocean Energy Management,622,,A
+-9868465.6102,3445239.8991,Federal,,23473,Bureau of Ocean Energy Management,623,,B
+-9911857.8005,3413335.1856,Federal,,24121,Bureau of Ocean Energy Management,624,,20
+-9870190.0125,3396559.9667,Federal,,24122,Bureau of Ocean Energy Management,625,,JA
+-9936449.5251,3373396.4704,Federal,,24139,Bureau of Ocean Energy Management,626,,102(T) (SL 1012
+-9933688.2105,3374019.221,Federal,,24140,Bureau of Ocean Energy Management,627,,160 (SL 1012)
+-9882167.9892,3408457.6267,Federal,,24142,Bureau of Ocean Energy Management,628,,BB
+-9783111.0827,3515714.7946,Federal,,23894,Bureau of Ocean Energy Management,629,,AW
+-9880635.8051,3409217.0585,Federal,,23896,Bureau of Ocean Energy Management,630,,A
+-9951198.934,3339874.6632,Federal,,24103,Bureau of Ocean Energy Management,631,,C
+-9789364.6962,3526422.8875,Federal,,24112,Bureau of Ocean Energy Management,632,,CB
+-9913924.8158,3415798.5965,Federal,,24114,Bureau of Ocean Energy Management,633,,18
+-9942094.6806,3324986.8514,Federal,,23875,Bureau of Ocean Energy Management,634,,A (Corral)
+-9882067.7837,3409410.0029,Federal,,23876,Bureau of Ocean Energy Management,635,,FP
+-9913162.1536,3414827.2436,Federal,,23877,Bureau of Ocean Energy Management,636,,19
+-9936659.6796,3372936.6208,Federal,,23880,Bureau of Ocean Energy Management,637,,45
+-10053704.7626,3367635.7511,Federal,,23881,Bureau of Ocean Energy Management,638,,A
+-9899734.8752,3358464.0725,Federal,,23883,Bureau of Ocean Energy Management,639,,A-Amberjack
+-9971897.9522,3392378.7126,Federal,,23863,Bureau of Ocean Energy Management,640,,14
+-9881954.6454,3411826.7285,Federal,,23865,Bureau of Ocean Energy Management,641,,BA
+-9880272.2068,3409910.8288,Federal,,23872,Bureau of Ocean Energy Management,642,,B
+-9880514.6788,3409530.1889,Federal,,23874,Bureau of Ocean Energy Management,643,,PRD1RIG
+-9881078.5398,3409770.9812,Federal,,23874,Bureau of Ocean Energy Management,644,,PRD2RIG
+-9882370.7073,3408901.6544,Federal,,23874,Bureau of Ocean Energy Management,645,,STR
+-9966625.4824,3363548.575,Federal,,23835,Bureau of Ocean Energy Management,646,,B
+-9783405.5315,3421689.1082,Federal,,23839,Bureau of Ocean Energy Management,647,,A
+-10171048.457,3343624.1881,Federal,,20687,Bureau of Ocean Energy Management,648,,B
+-10141208.0952,3311204.8508,Federal,,20604,Bureau of Ocean Energy Management,649,,B
+-10141434.1028,3313083.4409,Federal,,20622,Bureau of Ocean Energy Management,650,,A-QRT
+-10141434.1025,3313048.6052,Federal,,20622,Bureau of Ocean Energy Management,651,,A-PRD
+-10141468.7242,3313083.4407,Federal,,20622,Bureau of Ocean Energy Management,652,,A-CMP
+-10212457.4747,3281353.229,Federal,,20626,Bureau of Ocean Energy Management,653,,A
+-10212457.2514,3281318.4757,Federal,,20626,Bureau of Ocean Energy Management,654,,A-PRD
+-10115690.8386,3315816.0399,Federal,,20628,Bureau of Ocean Energy Management,655,,A-LACT
+-10115725.4597,3315816.1665,Federal,,20628,Bureau of Ocean Energy Management,656,,A-AUX
+-10115725.4597,3315816.1665,Federal,,20628,Bureau of Ocean Energy Management,657,,A-QTR
+-10153639.9254,3341986.4477,Federal,,20629,Bureau of Ocean Energy Management,658,,A
+-10153674.6582,3341986.5741,Federal,,20629,Bureau of Ocean Energy Management,659,,A-AUX
+-10153646.1598,3342011.7107,Federal,,20629,Bureau of Ocean Energy Management,660,,CA
+-10141144.9115,3315894.288,Federal,,20630,Bureau of Ocean Energy Management,661,,A
+-10141179.6442,3315894.4144,Federal,,20630,Bureau of Ocean Energy Management,662,,A-GEN
+-10141110.2901,3315894.2884,Federal,,20630,Bureau of Ocean Energy Management,663,,A-PRD
+-10161164.7843,3308966.3387,Federal,,20646,Bureau of Ocean Energy Management,664,,B
+-10190756.6539,3316536.3913,Federal,,20537,Bureau of Ocean Energy Management,665,,F
+-10190815.5431,3316495.845,Federal,,20537,Bureau of Ocean Energy Management,666,,H
+-10127924.5763,3316832.7939,Federal,,20558,Bureau of Ocean Energy Management,667,,D
+-10211566.1711,3349080.1015,Federal,,20330,Bureau of Ocean Energy Management,668,,C-PRD
+-10119163.7401,3314839.9459,Federal,,20481,Bureau of Ocean Energy Management,669,,13
+-10119168.1929,3314838.5522,Federal,,20481,Bureau of Ocean Energy Management,670,,14
+-10119144.3254,3311139.8966,Federal,,20482,Bureau of Ocean Energy Management,671,,I
+-10117844.4834,3316703.6044,Federal,,20484,Bureau of Ocean Energy Management,672,,J
+-10161979.6741,3309322.5674,Federal,,20511,Bureau of Ocean Energy Management,673,,A
+-10115315.6731,3314908.7605,Federal,,20531,Bureau of Ocean Energy Management,674,,K
+-9819205.2344,3526724.0249,Federal,,24146,Bureau of Ocean Energy Management,675,,A
+-10139783.6031,3295693.9751,Federal,,20073,Bureau of Ocean Energy Management,676,,C
+-10137183.72,3295883.5527,Federal,,20074,Bureau of Ocean Energy Management,677,,D
+-10209963.8022,3350496.3008,Federal,,20324,Bureau of Ocean Energy Management,678,,D
+-10119920.9511,3314725.0322,Federal,,20328,Bureau of Ocean Energy Management,679,,H
+-10114730.232,3315025.0685,Federal,,20329,Bureau of Ocean Energy Management,680,,G
+-10189927.4414,3292263.2263,Federal,,20739,Bureau of Ocean Energy Management,681,,B
+-10188483.166,3320784.051,Federal,,20740,Bureau of Ocean Energy Management,682,,E
+-10188517.7874,3320784.0511,Federal,,20740,Bureau of Ocean Energy Management,683,,E-AUX
+-10173441.9185,3344355.0079,Federal,,20745,Bureau of Ocean Energy Management,684,,A
+-10189571.4248,3414756.7964,Federal,,20721,Bureau of Ocean Energy Management,685,,F-CMP
+-10189606.38,3414756.6688,Federal,,20721,Bureau of Ocean Energy Management,686,,F-TANK
+-10189536.4699,3414756.7962,Federal,,20721,Bureau of Ocean Energy Management,687,,F-TRT
+-10190708.6878,3317548.5702,Federal,,20722,Bureau of Ocean Energy Management,688,,A
+-10127657.6891,3315724.4199,Federal,,20724,Bureau of Ocean Energy Management,689,,A DRILL
+-10127724.0097,3315796.3921,Federal,,20724,Bureau of Ocean Energy Management,690,,A-PRD
+-10127673.5392,3315867.306,Federal,,20724,Bureau of Ocean Energy Management,691,,A-CMP
+-10127753.4898,3315902.3931,Federal,,20724,Bureau of Ocean Energy Management,692,,DWPF
+-10138279.0881,3296449.6575,Federal,,20737,Bureau of Ocean Energy Management,693,,E
+-10189227.6616,3414889.4298,Federal,,20692,Bureau of Ocean Energy Management,694,,12
+-10188609.3813,3414834.2799,Federal,,20693,Bureau of Ocean Energy Management,695,,H
+-10189052.8876,3414802.2399,Federal,,20695,Bureau of Ocean Energy Management,696,,20
+-10188296.0937,3415502.3937,Federal,,20696,Bureau of Ocean Energy Management,697,,10
+-10189053.6606,3415307.6394,Federal,,20700,Bureau of Ocean Energy Management,698,,5
+-10189051.5046,3414012.098,Federal,,20701,Bureau of Ocean Energy Management,699,,E
+-10189051.5641,3414047.2014,Federal,,20701,Bureau of Ocean Energy Management,700,,E-PRD
+-10189602.6008,3414817.1356,Federal,,20721,Bureau of Ocean Energy Management,701,,F PROD
+-10161095.5402,3308886.1785,Federal,,20646,Bureau of Ocean Energy Management,702,,E
+-10188774.3535,3415374.7882,Federal,,20662,Bureau of Ocean Energy Management,703,,8
+-10189008.2544,3414233.2898,Federal,,20664,Bureau of Ocean Energy Management,704,,16
+-10189321.7248,3415193.6397,Federal,,20674,Bureau of Ocean Energy Management,705,,22
+-10183926.6137,3373453.2826,Federal,,20840,Bureau of Ocean Energy Management,706,,F
+-10182992.7314,3374445.5144,Federal,,20842,Bureau of Ocean Energy Management,707,,I
+-10183848.6809,3372963.1144,Federal,,20844,Bureau of Ocean Energy Management,708,,K
+-10184044.7881,3372561.1658,Federal,,20845,Bureau of Ocean Energy Management,709,,M-4
+-10125919.8268,3367797.3239,Federal,,20789,Bureau of Ocean Energy Management,710,,B
+-10097993.1939,3366799.0314,Federal,,20806,Bureau of Ocean Energy Management,711,,F
+-10098017.5334,3366802.3118,Federal,,20806,Bureau of Ocean Energy Management,712,,F3
+-10098043.7217,3366791.3062,Federal,,20806,Bureau of Ocean Energy Management,713,,19
+-10087330.3296,3354028.2612,Federal,,21116,Bureau of Ocean Energy Management,714,,CA
+-10215172.655,3338148.6095,Federal,,20917,Bureau of Ocean Energy Management,715,,A-CG
+-10133296.7648,3306495.849,Federal,,21001,Bureau of Ocean Energy Management,716,,B
+-10186840.3651,3333047.3024,Federal,,21005,Bureau of Ocean Energy Management,717,,E
+-10182741.2327,3372971.5182,Federal,,20885,Bureau of Ocean Energy Management,718,,SC
+-10142708.8984,3357613.7569,Federal,,20914,Bureau of Ocean Energy Management,719,,12
+-10182825.4764,3370705.5511,Federal,,20863,Bureau of Ocean Energy Management,720,,A
+-10179768.4384,3383436.5505,Federal,,20870,Bureau of Ocean Energy Management,721,,B-PRD
+-10179786.0287,3383559.0619,Federal,,20870,Bureau of Ocean Energy Management,722,,C-CMP
+-10182707.6138,3373037.3057,Federal,,20885,Bureau of Ocean Energy Management,723,,CF-QTR
+-10182707.502,3373009.3111,Federal,,20885,Bureau of Ocean Energy Management,724,,PRD
+-10182637.8125,3372932.4536,Federal,,20885,Bureau of Ocean Energy Management,725,,CMP1
+-10182794.4449,3372932.3256,Federal,,20885,Bureau of Ocean Energy Management,726,,CMP2
+-10182794.5571,3373002.3118,Federal,,20885,Bureau of Ocean Energy Management,727,,FIRE STA
+-10180028.479,3382210.607,Federal,,20848,Bureau of Ocean Energy Management,728,,JB24
+-10180454.074,3382730.9201,Federal,,20849,Bureau of Ocean Energy Management,729,,JC19
+-10180454.6355,3383256.2218,Federal,,20850,Bureau of Ocean Energy Management,730,,18
+-10179995.2073,3383719.2703,Federal,,20854,Bureau of Ocean Energy Management,731,,13
+-10161599.0279,3387555.2334,Federal,,21170,Bureau of Ocean Energy Management,732,,C-1
+-10161616.5055,3387537.7809,Federal,,21170,Bureau of Ocean Energy Management,733,,C-2
+-10186810.6086,3333057.5873,Federal,,21005,Bureau of Ocean Energy Management,734,,J
+-10212521.9101,3280333.9203,Federal,,21007,Bureau of Ocean Energy Management,735,,B
+-10185873.1101,3330660.8659,Federal,,21244,Bureau of Ocean Energy Management,736,,B-PRD
+-10143267.1833,3391429.345,Federal,,21245,Bureau of Ocean Energy Management,737,,6
+-10149797.087,3390882.3899,Federal,,21225,Bureau of Ocean Energy Management,738,,D
+-10149779.3934,3391057.5927,Federal,,21225,Bureau of Ocean Energy Management,739,,D
+-10149849.1924,3390987.5096,Federal,,21225,Bureau of Ocean Energy Management,740,,D-CMP
+-10126765.1231,3312896.5846,Federal,,21206,Bureau of Ocean Energy Management,741,,C
+-10109782.8932,3362214.4641,Federal,,21382,Bureau of Ocean Energy Management,742,,13
+-10108906.9121,3362174.4262,Federal,,21384,Bureau of Ocean Energy Management,743,,16
+-10129175.3835,3329441.8353,Federal,,21360,Bureau of Ocean Energy Management,744,,B
+-10112516.7322,3354791.0847,Federal,,21283,Bureau of Ocean Energy Management,745,,H
+-10110980.6537,3358032.6546,Federal,,21284,Bureau of Ocean Energy Management,746,,B-AUX
+-10110944.3635,3358061.508,Federal,,21284,Bureau of Ocean Energy Management,747,,J
+-10110981.5258,3358074.2917,Federal,,21284,Bureau of Ocean Energy Management,748,,L
+-10170699.5981,3308998.4608,Federal,,21301,Bureau of Ocean Energy Management,749,,C
+-10169017.6373,3310122.5409,Federal,,21303,Bureau of Ocean Energy Management,750,,D
+-10173516.4942,3307750.3775,Federal,,21304,Bureau of Ocean Energy Management,751,,A
+-10173551.1157,3307750.3773,Federal,,21304,Bureau of Ocean Energy Management,752,,B
+-10211368.9658,3354368.8021,Federal,,21452,Bureau of Ocean Energy Management,753,,B
+-10152512.5724,3343507.4179,Federal,,21469,Bureau of Ocean Energy Management,754,,C
+-10139910.4872,3294084.4692,Federal,,21476,Bureau of Ocean Energy Management,755,,A
+-10137852.0182,3294010.3559,Federal,,21477,Bureau of Ocean Energy Management,756,,B
+-10139138.7278,3306606.1469,Federal,,21429,Bureau of Ocean Energy Management,757,,A
+-10139128.9001,3306507.2552,Federal,,21429,Bureau of Ocean Energy Management,758,,C
+-10153777.2167,3289515.2448,Federal,,21433,Bureau of Ocean Energy Management,759,,A
+-10133914.7903,3303881.1564,Federal,,21435,Bureau of Ocean Energy Management,760,,A-VALVE
+-10212352.145,3352010.1046,Federal,,21444,Bureau of Ocean Energy Management,761,,C
+-10212351.9218,3351962.208,Federal,,21444,Bureau of Ocean Energy Management,762,,C-QRT
+-10211972.9599,3352620.3991,Federal,,21446,Bureau of Ocean Energy Management,763,,14
+-10210986.1012,3352179.0741,Federal,,21447,Bureau of Ocean Energy Management,764,,JB
+-10184527.6395,3329267.7136,Federal,,21448,Bureau of Ocean Energy Management,765,,B
+-10184527.5276,3329225.86,Federal,,21448,Bureau of Ocean Energy Management,766,,B-PRD
+-10184497.6925,3329204.68,Federal,,21448,Bureau of Ocean Energy Management,767,,C
+-10111376.5811,3354452.8316,Federal,,21410,Bureau of Ocean Energy Management,768,,A-PRD
+-10111350.8225,3354467.3904,Federal,,21410,Bureau of Ocean Energy Management,769,,A-QTRS
+-10139807.3914,3308425.1412,Federal,,21428,Bureau of Ocean Energy Management,770,,B
+-10115227.4465,3310428.7538,Federal,,21397,Bureau of Ocean Energy Management,771,,F
+-10116115.8977,3309763.7238,Federal,,21398,Bureau of Ocean Energy Management,772,,H
+-10116134.3778,3309801.3371,Federal,,21398,Bureau of Ocean Energy Management,773,,4
+-10207346.5714,3277157.5664,Federal,,21580,Bureau of Ocean Energy Management,774,,B
+-10180895.624,3306310.574,Federal,,21566,Bureau of Ocean Energy Management,775,,A
+-10181832.864,3307010.2402,Federal,,21567,Bureau of Ocean Energy Management,776,,B
+-10179165.828,3309350.6023,Federal,,21568,Bureau of Ocean Energy Management,777,,C
+-10180116.1304,3305709.0624,Federal,,21572,Bureau of Ocean Energy Management,778,,C
+-10119801.6483,3351480.1202,Federal,,21858,Bureau of Ocean Energy Management,779,,12
+-10144623.4386,3357804.8835,Federal,,21786,Bureau of Ocean Energy Management,780,,CC
+-10144742.443,3357768.4033,Federal,,21786,Bureau of Ocean Energy Management,781,,D
+-10143722.5038,3357409.7567,Federal,,21788,Bureau of Ocean Energy Management,782,,CB
+-10143704.4426,3357398.5391,Federal,,21788,Bureau of Ocean Energy Management,783,,CP
+-10189796.177,3415293.7271,Federal,,21798,Bureau of Ocean Energy Management,784,,A
+-10189831.132,3415293.5996,Federal,,21798,Bureau of Ocean Energy Management,785,,A-PRD
+-10189761.3332,3415293.727,Federal,,21798,Bureau of Ocean Energy Management,786,,A-TNK
+-10189796.1773,3415258.6204,Federal,,21798,Bureau of Ocean Energy Management,787,,A-QRT
+-10189736.6193,3415346.4509,Federal,,21798,Bureau of Ocean Energy Management,788,,23
+-10189720.1434,3415356.4085,Federal,,21798,Bureau of Ocean Energy Management,789,,24
+-10189704.113,3415369.6851,Federal,,21798,Bureau of Ocean Energy Management,790,,25
+-10198772.5602,3399908.4773,Federal,,21820,Bureau of Ocean Energy Management,791,,CA 1
+-10198777.681,3399884.7605,Federal,,21820,Bureau of Ocean Energy Management,792,,A-PRD
+-10198728.8106,3399882.0826,Federal,,21820,Bureau of Ocean Energy Management,793,,FVA
+-10160746.4202,3300993.799,Federal,,21664,Bureau of Ocean Energy Management,794,,A
+-10160711.3965,3301045.6791,Federal,,21664,Bureau of Ocean Energy Management,795,,E
+-10151701.2982,3291274.3304,Federal,,21665,Bureau of Ocean Energy Management,796,,B
+-10224530.6787,3280348.5072,Federal,,21772,Bureau of Ocean Energy Management,797,,B
+-10119659.9103,3315609.0653,Federal,,21781,Bureau of Ocean Energy Management,798,,UNOCAL P/L
+-10144633.9029,3357789.5041,Federal,,21786,Bureau of Ocean Energy Management,799,,CQRTS
+-10144599.0587,3357789.5048,Federal,,21786,Bureau of Ocean Energy Management,800,,B
+-10144633.7918,3357824.4571,Federal,,21786,Bureau of Ocean Energy Management,801,,CA
+-10144633.7921,3357859.4102,Federal,,21786,Bureau of Ocean Energy Management,802,,11
+-10151577.1756,3337222.2461,Federal,,21654,Bureau of Ocean Energy Management,803,,E-AUX
+-10152704.1992,3336196.1172,Federal,,21655,Bureau of Ocean Energy Management,804,,J
+-10118304.011,3315826.2887,Federal,,21661,Bureau of Ocean Energy Management,805,,B
+-10118303.9,3315861.1318,Federal,,21661,Bureau of Ocean Energy Management,806,,BRP
+-10192870.5065,3312544.179,Federal,,22045,Bureau of Ocean Energy Management,807,,G
+-10125706.2149,3369834.5734,Federal,,22052,Bureau of Ocean Energy Management,808,,J
+-10125665.9176,3369920.5741,Federal,,22052,Bureau of Ocean Energy Management,809,,(Null Record)
+-10125716.5679,3369855.3099,Federal,,22052,Bureau of Ocean Energy Management,810,,OF
+-10125734.1561,3369800.0968,Federal,,22052,Bureau of Ocean Energy Management,811,,LQ
+-10140403.3813,3283674.8433,Federal,,21960,Bureau of Ocean Energy Management,812,,A
+-10189909.018,3277155.2734,Federal,,21962,Bureau of Ocean Energy Management,813,,A
+-10161084.4605,3322886.5871,Federal,,21972,Bureau of Ocean Energy Management,814,,H-DRL
+-10161062.9751,3322886.4604,Federal,,21972,Bureau of Ocean Energy Management,815,,H-PRD
+-10161199.3449,3322786.5668,Federal,,21972,Bureau of Ocean Energy Management,816,,I
+-10099365.7023,3369012.6275,Federal,,21988,Bureau of Ocean Energy Management,817,,A
+-10099347.3348,3369054.4799,Federal,,21988,Bureau of Ocean Energy Management,818,,4
+-10181046.343,3374080.2857,Federal,,21926,Bureau of Ocean Energy Management,819,,9
+-10198555.3336,3289326.6027,Federal,,21939,Bureau of Ocean Energy Management,820,,A
+-10162063.7949,3299670.0326,Federal,,21903,Bureau of Ocean Energy Management,821,,D
+-10165805.973,3310374.4593,Federal,,21904,Bureau of Ocean Energy Management,822,,B
+-10160628.9182,3384547.1466,Federal,,21915,Bureau of Ocean Energy Management,823,,5
+-10129525.0263,3327214.4819,Federal,,21916,Bureau of Ocean Energy Management,824,,C-DRILL
+-10129525.0261,3327186.5838,Federal,,21916,Bureau of Ocean Energy Management,825,,C-PRD
+-10129508.44,3327289.1734,Federal,,21916,Bureau of Ocean Energy Management,826,,E
+-10213765.6173,3280963.8729,Federal,,21847,Bureau of Ocean Energy Management,827,,B-DRL
+-10127220.1688,3369821.9526,Federal,,22175,Bureau of Ocean Energy Management,828,,13B
+-10102108.8615,3366855.836,Federal,,22191,Bureau of Ocean Energy Management,829,,17
+-10126326.9392,3370413.6737,Federal,,22192,Bureau of Ocean Energy Management,830,,N
+-10163140.1048,3309318.7629,Federal,,22201,Bureau of Ocean Energy Management,831,,E
+-10164852.2758,3301597.2747,Federal,,22111,Bureau of Ocean Energy Management,832,,F
+-10189953.3825,3274558.0441,Federal,,22165,Bureau of Ocean Energy Management,833,,A
+-10126046.8673,3372113.8831,Federal,,22084,Bureau of Ocean Energy Management,834,,I
+-10097226.5397,3368794.5652,Federal,,22088,Bureau of Ocean Energy Management,835,,2A
+-10097208.7284,3368801.8158,Federal,,22088,Bureau of Ocean Energy Management,836,,10-8
+-10097216.4095,3368800.4165,Federal,,22088,Bureau of Ocean Energy Management,837,,9-1-A
+-10097219.2639,3368794.5269,Federal,,22088,Bureau of Ocean Energy Management,838,,C
+-10101628.313,3368730.6277,Federal,,22089,Bureau of Ocean Energy Management,839,,3A
+-10101636.3285,3368747.5466,Federal,,22089,Bureau of Ocean Energy Management,840,,7
+-10101624.1941,3368735.8432,Federal,,22089,Bureau of Ocean Energy Management,841,,D
+-10101633.2115,3368752.3805,Federal,,22089,Bureau of Ocean Energy Management,842,,16
+-10099305.5892,3369057.787,Federal,,21988,Bureau of Ocean Energy Management,843,,B
+-10099278.5378,3369040.1042,Federal,,21988,Bureau of Ocean Energy Management,844,,LQ
+-10099356.6853,3369014.2811,Federal,,21988,Bureau of Ocean Energy Management,845,,B-AUX
+-10101315.346,3373408.1579,Federal,,22422,Bureau of Ocean Energy Management,846,,A
+-10132286.079,3330716.7706,Federal,,22423,Bureau of Ocean Energy Management,847,,BB
+-10212997.2879,3364341.3913,Federal,,22428,Bureau of Ocean Energy Management,848,,JA
+-10211429.5561,3283072.6805,Federal,,22429,Bureau of Ocean Energy Management,849,,C
+-10161053.3139,3325162.1423,Federal,,22440,Bureau of Ocean Energy Management,850,,A
+-10104968.3272,3365401.8308,Federal,,22441,Bureau of Ocean Energy Management,851,,A
+-10104930.5618,3365328.8793,Federal,,22441,Bureau of Ocean Energy Management,852,,B
+-10097781.1692,3370361.3747,Federal,,22442,Bureau of Ocean Energy Management,853,,14
+-10097774.935,3370354.3772,Federal,,22442,Bureau of Ocean Energy Management,854,,2(2924)
+-10095495.3719,3368203.3412,Federal,,22468,Bureau of Ocean Energy Management,855,,7
+-10096673.2603,3368150.1323,Federal,,22358,Bureau of Ocean Energy Management,856,,6
+-10114905.2062,3312982.53,Federal,,22390,Bureau of Ocean Energy Management,857,,K
+-10212544.0148,3347409.0291,Federal,,22313,Bureau of Ocean Energy Management,858,,F
+-10165079.31,3306717.9576,Federal,,22314,Bureau of Ocean Energy Management,859,,D
+-10155537.7678,3342781.1533,Federal,,22327,Bureau of Ocean Energy Management,860,,D
+-10098627.8897,3370837.4668,Federal,,22627,Bureau of Ocean Energy Management,861,,E
+-10098622.9919,3370852.8615,Federal,,22627,Bureau of Ocean Energy Management,862,,23
+-10203623.1356,3280934.4168,Federal,,22637,Bureau of Ocean Energy Management,863,,A
+-10127667.3315,3331980.3622,Federal,,22598,Bureau of Ocean Energy Management,864,,D
+-10112203.1258,3353355.3559,Federal,,22546,Bureau of Ocean Energy Management,865,,4
+-10137400.3443,3328404.3035,Federal,,22570,Bureau of Ocean Energy Management,866,,B
+-10137321.8619,3328438.5462,Federal,,22570,Bureau of Ocean Energy Management,867,,B-PRD
+-10137255.8478,3328471.5206,Federal,,22570,Bureau of Ocean Energy Management,868,,D
+-10142837.3743,3392339.9647,Federal,,22485,Bureau of Ocean Energy Management,869,,2
+-10116004.6873,3302706.686,Federal,,22487,Bureau of Ocean Energy Management,870,,A
+-10115980.53,3302681.8769,Federal,,22487,Bureau of Ocean Energy Management,871,,B
+-10203234.5908,3263598.3538,Federal,,22490,Bureau of Ocean Energy Management,872,,A
+-10199668.2962,3287142.8511,Federal,,22493,Bureau of Ocean Energy Management,873,,B
+-10124389.3185,3373139.0028,Federal,,22501,Bureau of Ocean Energy Management,874,,K
+-10118226.0507,3305335.8226,Federal,,22529,Bureau of Ocean Energy Management,875,,B
+-10186529.0005,3320493.7989,Federal,,22837,Bureau of Ocean Energy Management,876,,J
+-10153313.879,3343870.6578,Federal,,22841,Bureau of Ocean Energy Management,877,,E
+-10111094.3636,3362582.5362,Federal,,22854,Bureau of Ocean Energy Management,878,,44
+-10207618.9436,3345265.7759,Federal,,22858,Bureau of Ocean Energy Management,879,,A
+-10111040.6157,3361184.4856,Federal,,22812,Bureau of Ocean Energy Management,880,,38Y
+-10115902.0648,3310833.2786,Federal,,22813,Bureau of Ocean Energy Management,881,,L
+-10192007.3315,3314095.4663,Federal,,22713,Bureau of Ocean Energy Management,882,,I
+-10101792.8633,3369856.3481,Federal,,22770,Bureau of Ocean Energy Management,883,,19
+-10216881.6055,3420973.1642,Federal,,22771,Bureau of Ocean Energy Management,884,,A
+-10179595.3222,3303388.0853,Federal,,22677,Bureau of Ocean Energy Management,885,,E
+-10211658.6372,3271445.4631,Federal,,22679,Bureau of Ocean Energy Management,886,,A
+-10158488.2933,3322859.9797,Federal,,22692,Bureau of Ocean Energy Management,887,,J-DRL
+-10158435.8607,3322919.1807,Federal,,22692,Bureau of Ocean Energy Management,888,,J-PRD
+-10133332.499,3328884.7592,Federal,,22707,Bureau of Ocean Energy Management,889,,A
+-10133336.061,3328835.2971,Federal,,22707,Bureau of Ocean Energy Management,890,,A-AUX
+-10110694.1588,3361894.8105,Federal,,23108,Bureau of Ocean Energy Management,891,,M
+-10125680.1465,3369917.6186,Federal,,23120,Bureau of Ocean Energy Management,892,,21
+-10204575.3644,3263902.146,Federal,,23014,Bureau of Ocean Energy Management,893,,E
+-10204324.1575,3266175.174,Federal,,23027,Bureau of Ocean Energy Management,894,,D
+-10097924.6326,3368413.5864,Federal,,23060,Bureau of Ocean Energy Management,895,,17
+-10203558.0451,3350245.2744,Federal,,23003,Bureau of Ocean Energy Management,896,,G
+-10135663.7837,3311641.6207,Federal,,23007,Bureau of Ocean Energy Management,897,,B
+-10204612.9888,3263783.759,Federal,,23014,Bureau of Ocean Energy Management,898,,C
+-10133981.9344,3326227.1277,Federal,,22954,Bureau of Ocean Energy Management,899,,B
+-10096916.9435,3368145.6828,Federal,,22959,Bureau of Ocean Energy Management,900,,22
+-10132980.5098,3330544.2563,Federal,,22879,Bureau of Ocean Energy Management,901,,C
+-10087866.5387,3353493.9108,Federal,,22892,Bureau of Ocean Energy Management,902,,19
+-10108163.5296,3320357.2193,Federal,,23229,Bureau of Ocean Energy Management,903,,A
+-10205006.0672,3279575.7358,Federal,,23240,Bureau of Ocean Energy Management,904,,D
+-10119505.8871,3353748.2718,Federal,,23253,Bureau of Ocean Energy Management,905,,4
+-10167513.5773,3331245.9796,Federal,,23173,Bureau of Ocean Energy Management,906,,A
+-10106970.3834,3262132.8341,Federal,,23212,Bureau of Ocean Energy Management,907,,A
+-10111555.6655,3361680.4373,Federal,,23146,Bureau of Ocean Energy Management,908,,48
+-10202173.4053,3282145.6178,Federal,,23162,Bureau of Ocean Energy Management,909,,A
+-10153064.5503,3324733.2901,Federal,,23167,Bureau of Ocean Energy Management,910,,A
+-10149235.8294,3393369.6321,Federal,,23103,Bureau of Ocean Energy Management,911,,2
+-10103333.7947,3372055.7635,Federal,,23584,Bureau of Ocean Energy Management,912,,2
+-10103329.3419,3372056.5271,Federal,,23584,Bureau of Ocean Energy Management,913,,F
+-10103325.7797,3372059.9626,Federal,,23584,Bureau of Ocean Energy Management,914,,4
+-10103322.3288,3372059.9628,Federal,,23584,Bureau of Ocean Energy Management,915,,05
+-10101205.9283,3372845.2342,Federal,,23555,Bureau of Ocean Energy Management,916,,20
+-10153341.0358,3288277.8375,Federal,,23563,Bureau of Ocean Energy Management,917,,C
+-10186876.7335,3236348.868,Federal,,23567,Bureau of Ocean Energy Management,918,,CPP
+-10186790.4569,3236265.9885,Federal,,23567,Bureau of Ocean Energy Management,919,,A
+-10119080.0294,3353376.632,Federal,,23569,Bureau of Ocean Energy Management,920,,Q
+-10183455.8948,3373469.6343,Federal,,23571,Bureau of Ocean Energy Management,921,,30
+-10182538.6014,3371204.0342,Federal,,23572,Bureau of Ocean Energy Management,922,,R
+-10163919.1062,3366388.426,Federal,,23548,Bureau of Ocean Energy Management,923,,A
+-10159289.7541,3389304.6696,Federal,,23549,Bureau of Ocean Energy Management,924,,11
+-10119119.5679,3234276.0841,Federal,,23552,Bureau of Ocean Energy Management,925,,A-Bullwinkle
+-10185193.1535,3331080.469,Federal,,23311,Bureau of Ocean Energy Management,926,,12
+-10215492.3384,3322559.4449,Federal,,23321,Bureau of Ocean Energy Management,927,,A
+-10182088.7789,3374134.1113,Federal,,23323,Bureau of Ocean Energy Management,928,,11
+-10133322.0106,3241913.6045,Federal,,23503,Bureau of Ocean Energy Management,929,,A
+-10119863.1164,3353850.9355,Federal,,23510,Bureau of Ocean Energy Management,930,,6
+-10129747.1134,3242174.4535,Federal,,23277,Bureau of Ocean Energy Management,931,,A (Boxer)(DOT)
+-10188490.3258,3323376.9328,Federal,,23961,Bureau of Ocean Energy Management,932,,B
+-10184088.6351,3371764.3895,Federal,,23967,Bureau of Ocean Energy Management,933,,31
+-10154921.9188,3341758.428,Federal,,23968,Bureau of Ocean Energy Management,934,,G
+-10107341.7287,3362012.5678,Federal,,23970,Bureau of Ocean Energy Management,935,,8
+-10184048.6244,3372566.7596,Federal,,23971,Bureau of Ocean Energy Management,936,,M-7
+-10156973.6008,3340493.6651,Federal,,23972,Bureau of Ocean Energy Management,937,,B
+-10154459.4495,3373478.8009,Federal,,23930,Bureau of Ocean Energy Management,938,,A-AUX
+-10154430.2823,3373449.0244,Federal,,23930,Bureau of Ocean Energy Management,939,,A
+-10197764.1246,3341663.6523,Federal,,23932,Bureau of Ocean Energy Management,940,,A
+-10111211.3548,3361988.2529,Federal,,23934,Bureau of Ocean Energy Management,941,,43
+-10198065.9041,3403578.104,Federal,,23939,Bureau of Ocean Energy Management,942,,8
+-10181375.9633,3364356.3375,Federal,,23942,Bureau of Ocean Energy Management,943,,A
+-10117961.6405,3253541.6595,Federal,,23925,Bureau of Ocean Energy Management,944,,A
+-10110606.3637,3359570.0806,Federal,,23590,Bureau of Ocean Energy Management,945,,O
+-10112811.4841,3352413.9926,Federal,,23598,Bureau of Ocean Energy Management,946,,7
+-10198117.5139,3329878.4182,Federal,,23900,Bureau of Ocean Energy Management,947,,B
+-10157757.2787,3327185.4996,Federal,,23901,Bureau of Ocean Energy Management,948,,7
+-10197353.6651,3403294.314,Federal,,23906,Bureau of Ocean Energy Management,949,,B
+-10124156.6117,3355541.3306,Federal,,23908,Bureau of Ocean Energy Management,950,,A
+-10149481.0536,3360288.7302,Federal,,23578,Bureau of Ocean Energy Management,951,,DA
+-10187535.1587,3219707.64,Federal,,23583,Bureau of Ocean Energy Management,952,,A-Jolliet TLP
+-10318254.7802,3418916.0103,Federal,,20217,Bureau of Ocean Energy Management,953,,A
+-10318241.6433,3418983.9445,Federal,,20217,Bureau of Ocean Energy Management,954,,C
+-10235637.8047,3330467.7579,Federal,,20066,Bureau of Ocean Energy Management,955,,D
+-10234443.7668,3330787.3908,Federal,,20067,Bureau of Ocean Energy Management,956,,C
+-10276527.2356,3338070.4144,Federal,,20138,Bureau of Ocean Energy Management,957,,B
+-10198467.5131,3402151.8166,Federal,,26009,Bureau of Ocean Energy Management,958,,5
+-10159454.9516,3388768.0435,Federal,,26011,Bureau of Ocean Energy Management,959,,13
+-10180136.5535,3342704.8015,Federal,,26013,Bureau of Ocean Energy Management,960,,JC
+-10115832.3626,3352021.9929,Federal,,26015,Bureau of Ocean Energy Management,961,,R
+-10115849.7397,3352022.0625,Federal,,26015,Bureau of Ocean Energy Management,962,,R-HDR
+-10119626.0025,3353779.401,Federal,,26017,Bureau of Ocean Energy Management,963,,T
+-10156737.3965,3343980.4345,Federal,,26018,Bureau of Ocean Energy Management,964,,A
+-10099949.8264,3373040.1836,Federal,,26029,Bureau of Ocean Energy Management,965,,26
+-10144836.3097,3280327.3322,Federal,,23984,Bureau of Ocean Energy Management,966,,B
+-10142347.6325,3277198.8706,Federal,,23985,Bureau of Ocean Energy Management,967,,A
+-10119243.5388,3313045.9723,Federal,,23994,Bureau of Ocean Energy Management,968,,C
+-10124860.0719,3370041.3198,Federal,,23999,Bureau of Ocean Energy Management,969,,L
+-10278288.8307,3339819.6723,Federal,,20638,Bureau of Ocean Energy Management,970,,A
+-10278254.0982,3339820.0527,Federal,,20638,Bureau of Ocean Energy Management,971,,CF
+-10301101.753,3432187.3103,Federal,,20639,Bureau of Ocean Energy Management,972,,H
+-10301101.4194,3432153.1807,Federal,,20639,Bureau of Ocean Energy Management,973,,A-PRD
+-10301024.1618,3432153.9461,Federal,,20639,Bureau of Ocean Energy Management,974,,A-CMP
+-10301024.4955,3432189.0985,Federal,,20639,Bureau of Ocean Energy Management,975,,A-QTR
+-10300859.0708,3432190.885,Federal,,20639,Bureau of Ocean Energy Management,976,,A-AUX
+-10341803.4731,3452997.6843,Federal,,20506,Bureau of Ocean Energy Management,977,,B
+-10341566.4979,3450772.578,Federal,,20507,Bureau of Ocean Energy Management,978,,CF
+-10299671.1646,3430686.8151,Federal,,20509,Bureau of Ocean Energy Management,979,,2
+-10299697.6593,3430678.1243,Federal,,20509,Bureau of Ocean Energy Management,980,,3
+-10291705.1906,3313769.3704,Federal,,20734,Bureau of Ocean Energy Management,981,,A-DRL
+-10291704.1744,3313664.8784,Federal,,20734,Bureau of Ocean Energy Management,982,,A-PRD
+-10329839.4881,3276750.4866,Federal,,20744,Bureau of Ocean Energy Management,983,,A
+-10237149.4264,3372268.2871,Federal,,20706,Bureau of Ocean Energy Management,984,,A
+-10249400.9922,3350837.468,Federal,,20713,Bureau of Ocean Energy Management,985,,A
+-10261001.6018,3383941.8851,Federal,,20732,Bureau of Ocean Energy Management,986,,CF
+-10260948.5679,3383936.161,Federal,,20732,Bureau of Ocean Energy Management,987,,C
+-10285418.7153,3413968.5795,Federal,,20928,Bureau of Ocean Energy Management,988,,A
+-10248261.2586,3431908.2145,Federal,,21411,Bureau of Ocean Energy Management,989,,TREATER
+-10248314.025,3431960.6232,Federal,,21411,Bureau of Ocean Energy Management,990,,COMP 1 and 2
+-10248313.6915,3431907.9599,Federal,,21411,Bureau of Ocean Energy Management,991,,COMP
+-10248314.2474,3431995.775,Federal,,21411,Bureau of Ocean Energy Management,992,,COM4
+-10248209.1593,3431961.2606,Federal,,21411,Bureau of Ocean Energy Management,993,,OFFICE
+-10248209.1593,3431961.2606,Federal,,21411,Bureau of Ocean Energy Management,994,,QTR 2
+-10248209.1593,3431961.2606,Federal,,21411,Bureau of Ocean Energy Management,995,,DIESEL
+-10252102.5592,3430614.8957,Federal,,21412,Bureau of Ocean Energy Management,996,,70
+-10249745.4035,3432646.6977,Federal,,21417,Bureau of Ocean Energy Management,997,,51
+-10252664.0688,3430701.5613,Federal,,21418,Bureau of Ocean Energy Management,998,,49
+-10248261.8146,3431996.1576,Federal,,21411,Bureau of Ocean Energy Management,999,,A-QTR
+-10248261.5923,3431961.0059,Federal,,21411,Bureau of Ocean Energy Management,1000,,A-PROD
+-10227093.8233,3390429.2546,Federal,,21739,Bureau of Ocean Energy Management,1001,,A
+-10229399.8651,3392383.1211,Federal,,21741,Bureau of Ocean Energy Management,1002,,B
+-10236274.3863,3332830.628,Federal,,21604,Bureau of Ocean Energy Management,1003,,B-PRD
+-10270604.5448,3337074.7368,Federal,,21725,Bureau of Ocean Energy Management,1004,,A
+-10333086.674,3263822.9429,Federal,,21502,Bureau of Ocean Energy Management,1005,,A
+-10252683.6223,3357377.5108,Federal,,21600,Bureau of Ocean Energy Management,1006,,A
+-10236274.6097,3332865.5153,Federal,,21604,Bureau of Ocean Energy Management,1007,,B
+-10229211.8659,3346443.594,Federal,,21459,Bureau of Ocean Energy Management,1008,,E
+-10249179.0565,3327139.1582,Federal,,21462,Bureau of Ocean Energy Management,1009,,B
+-10249179.0565,3327139.1582,Federal,,21462,Bureau of Ocean Energy Management,1010,,B-QTRS.
+-10253742.5499,3322801.4918,Federal,,21473,Bureau of Ocean Energy Management,1011,,C
+-10270745.9655,3283125.7685,Federal,,21930,Bureau of Ocean Energy Management,1012,,A
+-10302625.1659,3435556.2622,Federal,,21967,Bureau of Ocean Energy Management,1013,,B
+-10226770.5184,3388517.4421,Federal,,21880,Bureau of Ocean Energy Management,1014,,D
+-10238152.1877,3333759.8183,Federal,,21883,Bureau of Ocean Energy Management,1015,,C-PRD
+-10238028.1763,3333858.1433,Federal,,21883,Bureau of Ocean Energy Management,1016,,E-CMP
+-10238144.3968,3333855.4798,Federal,,21883,Bureau of Ocean Energy Management,1017,,F
+-10350063.0201,3264395.2379,Federal,,21892,Bureau of Ocean Energy Management,1018,,A
+-10296584.8278,3431786.9272,Federal,,21902,Bureau of Ocean Energy Management,1019,,E-AUX1
+-10296619.4763,3431786.5021,Federal,,21902,Bureau of Ocean Energy Management,1020,,E
+-10296580.6263,3431821.07,Federal,,21902,Bureau of Ocean Energy Management,1021,,E-7
+-10296740.5673,3431762.4912,Federal,,21902,Bureau of Ocean Energy Management,1022,,E-AUX2
+-10350447.2397,3267383.9086,Federal,,21907,Bureau of Ocean Energy Management,1023,,B
+-10271083.3245,3336178.5796,Federal,,21908,Bureau of Ocean Energy Management,1024,,B
+-10242721.6355,3286623.4332,Federal,,21842,Bureau of Ocean Energy Management,1025,,B
+-10242632.8323,3286751.5311,Federal,,21842,Bureau of Ocean Energy Management,1026,,D
+-10227345.3019,3386595.6798,Federal,,21843,Bureau of Ocean Energy Management,1027,,C
+-10228303.5995,3285420.1871,Federal,,21860,Bureau of Ocean Energy Management,1028,,B
+-10226188.8303,3280750.9985,Federal,,21862,Bureau of Ocean Energy Management,1029,,A
+-10231270.9642,3289004.0124,Federal,,21864,Bureau of Ocean Energy Management,1030,,A
+-10231219.0881,3289004.2651,Federal,,21864,Bureau of Ocean Energy Management,1031,,SA-2
+-10252994.1289,3283581.022,Federal,,21875,Bureau of Ocean Energy Management,1032,,A
+-10242424.2025,3288147.7968,Federal,,21799,Bureau of Ocean Energy Management,1033,,A
+-10240571.331,3286833.507,Federal,,21800,Bureau of Ocean Energy Management,1034,,C
+-10227433.1264,3374503.1306,Federal,,21830,Bureau of Ocean Energy Management,1035,,CA
+-10227450.3812,3374485.5683,Federal,,21830,Bureau of Ocean Energy Management,1036,,A-PRD
+-10307336.6366,3316443.7148,Federal,,22107,Bureau of Ocean Energy Management,1037,,A
+-10307385.3965,3316491.3577,Federal,,22107,Bureau of Ocean Energy Management,1038,,A-AUX
+-10261968.4468,3384028.3421,Federal,,22117,Bureau of Ocean Energy Management,1039,,G
+-10269758.4369,3251333.8573,Federal,,22118,Bureau of Ocean Energy Management,1040,,A
+-10238410.3283,3302334.0862,Federal,,22085,Bureau of Ocean Energy Management,1041,,A
+-10238410.1049,3302294.7219,Federal,,22085,Bureau of Ocean Energy Management,1042,,A-PRD
+-10227199.2478,3384049.9645,Federal,,22040,Bureau of Ocean Energy Management,1043,,E
+-10230380.5865,3287869.5666,Federal,,22046,Bureau of Ocean Energy Management,1044,,C
+-10252101.645,3288192.8909,Federal,,21982,Bureau of Ocean Energy Management,1045,,B
+-10262305.2557,3430908.9067,Federal,,21992,Bureau of Ocean Energy Management,1046,,1
+-10265617.4649,3288035.4607,Federal,,22019,Bureau of Ocean Energy Management,1047,,B
+-10245369.0094,3304667.5984,Federal,,22335,Bureau of Ocean Energy Management,1048,,A NORTH
+-10294659.159,3260595.8315,Federal,,22277,Bureau of Ocean Energy Management,1049,,C
+-10260871.031,3384264.1921,Federal,,22190,Bureau of Ocean Energy Management,1050,,12
+-10299225.1328,3259681.8404,Federal,,22249,Bureau of Ocean Energy Management,1051,,A
+-10262880.2212,3432801.7237,Federal,,22664,Bureau of Ocean Energy Management,1052,,A
+-10262877.8852,3432580.703,Federal,,22664,Bureau of Ocean Energy Management,1053,,A-QTR
+-10262879.3309,3432766.9533,Federal,,22664,Bureau of Ocean Energy Management,1054,,A-PRD
+-10245294.7109,3307802.2161,Federal,,22531,Bureau of Ocean Energy Management,1055,,A
+-10249157.4651,3361065.907,Federal,,22561,Bureau of Ocean Energy Management,1056,,JA
+-10259546.1703,3355432.3734,Federal,,22475,Bureau of Ocean Energy Management,1057,,C
+-10271597.1419,3256574.6744,Federal,,22355,Bureau of Ocean Energy Management,1058,,A
+-10240587.4355,3421151.9812,Federal,,22864,Bureau of Ocean Energy Management,1059,,106
+-10248822.543,3432335.5454,Federal,,22877,Bureau of Ocean Energy Management,1060,,114
+-10240127.4577,3420159.0106,Federal,,22901,Bureau of Ocean Energy Management,1061,,C
+-10329938.6517,3274243.8788,Federal,,22803,Bureau of Ocean Energy Management,1062,,B
+-10261069.0152,3431577.1146,Federal,,22805,Bureau of Ocean Energy Management,1063,,8
+-10262188.3531,3432728.9754,Federal,,22704,Bureau of Ocean Energy Management,1064,,6
+-10239500.2871,3417363.7779,Federal,,22721,Bureau of Ocean Energy Management,1065,,100
+-10262879.5533,3432802.1072,Federal,,22664,Bureau of Ocean Energy Management,1066,,A-CMP
+-10242757.4664,3418301.6586,Federal,,22674,Bureau of Ocean Energy Management,1067,,A
+-10242758.0223,3418407.0031,Federal,,22674,Bureau of Ocean Energy Management,1068,,A-PRD
+-10242744.1069,3418414.5367,Federal,,22674,Bureau of Ocean Energy Management,1069,,A-TRT
+-10242758.0223,3418407.0031,Federal,,22674,Bureau of Ocean Energy Management,1070,,A-QTR
+-10249970.1603,3433069.9566,Federal,,22675,Bureau of Ocean Energy Management,1071,,94
+-10248781.2011,3436405.2182,Federal,,22676,Bureau of Ocean Energy Management,1072,,48 (TSB)
+-10242435.1976,3416969.2786,Federal,,22616,Bureau of Ocean Energy Management,1073,,1
+-10262964.6042,3432723.1083,Federal,,22619,Bureau of Ocean Energy Management,1074,,3
+-10252010.2333,3347226.8833,Federal,,23208,Bureau of Ocean Energy Management,1075,,CA
+-10227009.6619,3418024.5914,Federal,,23241,Bureau of Ocean Energy Management,1076,,D
+-10227092.1574,3417497.5095,Federal,,23072,Bureau of Ocean Energy Management,1077,,91
+-10228122.8964,3417186.3586,Federal,,23074,Bureau of Ocean Energy Management,1078,,132
+-10240174.3826,3288115.4134,Federal,,23096,Bureau of Ocean Energy Management,1079,,E
+-10339165.4563,3303190.2214,Federal,,23142,Bureau of Ocean Energy Management,1080,,B
+-10274070.9915,3286030.8751,Federal,,22981,Bureau of Ocean Energy Management,1081,,A
+-10274118.4486,3286003.6852,Federal,,22981,Bureau of Ocean Energy Management,1082,,A-AUX
+-10242922.1928,3422550.3392,Federal,,23032,Bureau of Ocean Energy Management,1083,,123
+-10260177.3159,3432462.5426,Federal,,22937,Bureau of Ocean Energy Management,1084,,14
+-10263096.1959,3431607.6977,Federal,,22961,Bureau of Ocean Energy Management,1085,,13
+-10260684.4975,3432880.6873,Federal,,22843,Bureau of Ocean Energy Management,1086,,9
+-10231137.0409,3267667.306,Federal,,22859,Bureau of Ocean Energy Management,1087,,A
+-10226911.141,3324204.2725,Federal,,23347,Bureau of Ocean Energy Management,1088,,B
+-10231359.7245,3243846.2326,Federal,,23353,Bureau of Ocean Energy Management,1089,,A
+-10240455.9926,3417223.0807,Federal,,23355,Bureau of Ocean Energy Management,1090,,144
+-10340000.973,3299550.9773,Federal,,23336,Bureau of Ocean Energy Management,1091,,C
+-10227009.6619,3418024.5914,Federal,,23241,Bureau of Ocean Energy Management,1092,,D-PRD
+-10227009.6619,3418024.5914,Federal,,23241,Bureau of Ocean Energy Management,1093,,D-GEN
+-10227009.6619,3418024.5914,Federal,,23241,Bureau of Ocean Energy Management,1094,,D-PRD
+-10227009.6619,3418024.5914,Federal,,23241,Bureau of Ocean Energy Management,1095,,D-QTR
+-10298318.1622,3429731.0495,Federal,,23282,Bureau of Ocean Energy Management,1096,,M
+-10229220.4105,3418761.2538,Federal,,23150,Bureau of Ocean Energy Management,1097,,129/130
+-10319215.365,3258343.7728,Federal,,23666,Bureau of Ocean Energy Management,1098,,A
+-10290991.0982,3321165.7109,Federal,,23631,Bureau of Ocean Energy Management,1099,,F
+-10342411.8669,3451500.9766,Federal,,23387,Bureau of Ocean Energy Management,1100,,12
+-10243255.6721,3277752.1488,Federal,,23389,Bureau of Ocean Energy Management,1101,,A
+-10228566.9959,3413766.1614,Federal,,23391,Bureau of Ocean Energy Management,1102,,149
+-10228043.6698,3413659.1913,Federal,,23396,Bureau of Ocean Energy Management,1103,,153
+-10249351.7078,3425681.3917,Federal,,23399,Bureau of Ocean Energy Management,1104,,146
+-10239869.9982,3416213.8118,Federal,,23363,Bureau of Ocean Energy Management,1105,,160
+-10228091.6136,3324844.2847,Federal,,23376,Bureau of Ocean Energy Management,1106,,C
+-10227673.7111,3417047.0585,Federal,,24058,Bureau of Ocean Energy Management,1107,,159
+-10644460.3838,3288736.1767,Federal,,10002,Bureau of Ocean Energy Management,1108,,A-VALVE(DOT)
+-10227765.4718,3413972.1775,Federal,,24003,Bureau of Ocean Energy Management,1109,,1
+-10227748.662,3413978.3045,Federal,,24003,Bureau of Ocean Energy Management,1110,,E-PRD
+-10227162.3238,3414209.6001,Federal,,24005,Bureau of Ocean Energy Management,1111,,156
+-10229016.7643,3415494.7115,Federal,,24006,Bureau of Ocean Energy Management,1112,,152
+-10232060.3847,3416302.8749,Federal,,24019,Bureau of Ocean Energy Management,1113,,170
+-10291913.1085,3411700.8276,Federal,,23674,Bureau of Ocean Energy Management,1114,,A
+-10297329.8415,3429997.5027,Federal,,23676,Bureau of Ocean Energy Management,1115,,K-1
+-10297354.3322,3430002.4876,Federal,,23676,Bureau of Ocean Energy Management,1116,,K
+-10507346.1615,3244477.2995,Federal,,10091,Bureau of Ocean Energy Management,1117,,B
+-10488996.5356,3413733.1127,Federal,,10100,Bureau of Ocean Energy Management,1118,,B
+-10459478.8268,3236836.2112,Federal,,10066,Bureau of Ocean Energy Management,1119,,B
+-10685321.9555,3236759.6135,Federal,,10071,Bureau of Ocean Energy Management,1120,,A
+-10487299.0057,3281208.445,Federal,,10074,Bureau of Ocean Energy Management,1121,,A
+-10484716.8277,3277750.5103,Federal,,10077,Bureau of Ocean Energy Management,1122,,B
+-10549171.1439,3375715.806,Federal,,10050,Bureau of Ocean Energy Management,1123,,A
+-10457873.4664,3239671.6338,Federal,,10058,Bureau of Ocean Energy Management,1124,,A
+-10488416.7051,3415647.1849,Federal,,10039,Bureau of Ocean Energy Management,1125,,A
+-10440940.4617,3406871.9283,Federal,,10042,Bureau of Ocean Energy Management,1126,,1
+-10459053.643,3293963.0657,Federal,,10128,Bureau of Ocean Energy Management,1127,,A
+-10463052.2531,3232284.6273,Federal,,10140,Bureau of Ocean Energy Management,1128,,D
+-10463061.6034,3232212.224,Federal,,10140,Bureau of Ocean Energy Management,1129,,CF
+-10467069.9444,3243416.8172,Federal,,10116,Bureau of Ocean Energy Management,1130,,A
+-10467100.4483,3243511.4604,Federal,,10116,Bureau of Ocean Energy Management,1131,,B-AUX
+-10522075.1581,3398673.3772,Federal,,10082,Bureau of Ocean Energy Management,1132,,A
+-10513470.3387,3259687.5733,Federal,,10084,Bureau of Ocean Energy Management,1133,,A
+-10512836.0867,3255191.3708,Federal,,10088,Bureau of Ocean Energy Management,1134,,C-AUX
+-10467416.8378,3441364.3651,Federal,,10237,Bureau of Ocean Energy Management,1135,,B
+-10688151.8834,3228241.8785,Federal,,10249,Bureau of Ocean Energy Management,1136,,B
+-10688250.627,3228246.789,Federal,,10249,Bureau of Ocean Energy Management,1137,,C-AUX
+-10688104.3484,3228240.6192,Federal,,10249,Bureau of Ocean Energy Management,1138,,E
+-10533742.0188,3227265.3703,Federal,,10212,Bureau of Ocean Energy Management,1139,,A
+-10472666.2229,3282478.179,Federal,,10223,Bureau of Ocean Energy Management,1140,,A-PROCESS
+-10427413.4432,3244214.0494,Federal,,10175,Bureau of Ocean Energy Management,1141,,A
+-10525424.8048,3227936.3127,Federal,,10178,Bureau of Ocean Energy Management,1142,,A-Cerveza
+-10436830.5105,3411524.3846,Federal,,10450,Bureau of Ocean Energy Management,1143,,A-PROCESS
+-10475446.5616,3249811.7428,Federal,,10285,Bureau of Ocean Energy Management,1144,,A
+-10512772.5934,3250736.0117,Federal,,10290,Bureau of Ocean Energy Management,1145,,A
+-10499990.1088,3226174.9766,Federal,,10297,Bureau of Ocean Energy Management,1146,,A
+-10466182.1338,3440828.7834,Federal,,10298,Bureau of Ocean Energy Management,1147,,A
+-10456826.1158,3238068.2766,Federal,,10300,Bureau of Ocean Energy Management,1148,,F
+-10462313.0947,3234658.4075,Federal,,10265,Bureau of Ocean Energy Management,1149,,E
+-10442276.9307,3238761.2959,Federal,,10524,Bureau of Ocean Energy Management,1150,,A
+-10524831.2529,3392280.2742,Federal,,10500,Bureau of Ocean Energy Management,1151,,A
+-10689836.5429,3228698.8549,Federal,,10461,Bureau of Ocean Energy Management,1152,,D
+-10671326.1082,3299110.868,Federal,,10464,Bureau of Ocean Energy Management,1153,,A
+-10400364.2736,3431953.9954,Federal,,20131,Bureau of Ocean Energy Management,1154,,A
+-10682858.443,3234163.7914,Federal,,10572,Bureau of Ocean Energy Management,1155,,B
+-10419450.4526,3463951.7063,Federal,,20881,Bureau of Ocean Energy Management,1156,,2
+-10419245.9518,3464251.8152,Federal,,20891,Bureau of Ocean Energy Management,1157,,A
+-10434015.5952,3463246.3647,Federal,,20620,Bureau of Ocean Energy Management,1158,,E
+-10432486.6134,3462275.2001,Federal,,20592,Bureau of Ocean Energy Management,1159,,10
+-10432512.8852,3462274.559,Federal,,20592,Bureau of Ocean Energy Management,1160,,PROD
+-10433943.3486,3463193.32,Federal,,20620,Bureau of Ocean Energy Management,1161,,A
+-10433887.1301,3463293.1358,Federal,,20620,Bureau of Ocean Energy Management,1162,,D
+-10368945.1925,3447038.9277,Federal,,21700,Bureau of Ocean Energy Management,1163,,G
+-10368949.1997,3447068.7449,Federal,,21700,Bureau of Ocean Energy Management,1164,,H
+-10368967.2347,3447016.0211,Federal,,21700,Bureau of Ocean Energy Management,1165,,G-AUX
+-10366785.4276,3447386.9905,Federal,,21702,Bureau of Ocean Energy Management,1166,,2
+-10384033.7666,3439026.1225,Federal,,21402,Bureau of Ocean Energy Management,1167,,E
+-10371108.5734,3429599.9779,Federal,,21442,Bureau of Ocean Energy Management,1168,,B
+-10384350.3267,3441810.1114,Federal,,21142,Bureau of Ocean Energy Management,1169,,A-AUX1
+-10380737.7089,3426210.3706,Federal,,21337,Bureau of Ocean Energy Management,1170,,A-AUX2
+-10417457.023,3464227.3822,Federal,,21011,Bureau of Ocean Energy Management,1171,,14
+-10369286.2224,3451345.859,Federal,,21138,Bureau of Ocean Energy Management,1172,,D
+-10369286.2224,3451345.859,Federal,,21138,Bureau of Ocean Energy Management,1173,,QTR
+-10369286.2224,3451345.859,Federal,,21138,Bureau of Ocean Energy Management,1174,,D-AUX
+-10369276.6493,3451298.7501,Federal,,21138,Bureau of Ocean Energy Management,1175,,28
+-10384385.3929,3441809.472,Federal,,21142,Bureau of Ocean Energy Management,1176,,A
+-10368542.3831,3458195.4824,Federal,,21997,Bureau of Ocean Energy Management,1177,,B
+-10366294.2257,3458931.3115,Federal,,21755,Bureau of Ocean Energy Management,1178,,A
+-10394033.2221,3281635.8271,Federal,,21714,Bureau of Ocean Energy Management,1179,,A
+-10375399.6702,3245451.7589,Federal,,21716,Bureau of Ocean Energy Management,1180,,A
+-10423826.494,3436622.6807,Federal,,22431,Bureau of Ocean Energy Management,1181,,A
+-10423826.494,3436622.6807,Federal,,22431,Bureau of Ocean Energy Management,1182,,AB-PRD
+-10423778.0691,3436685.5936,Federal,,22431,Bureau of Ocean Energy Management,1183,,B
+-10383578.6749,3440054.0287,Federal,,22438,Bureau of Ocean Energy Management,1184,,10
+-10375181.2086,3242146.2139,Federal,,22411,Bureau of Ocean Energy Management,1185,,A
+-10367336.9841,3458527.7194,Federal,,22285,Bureau of Ocean Energy Management,1186,,C
+-10369533.4248,3454427.892,Federal,,22286,Bureau of Ocean Energy Management,1187,,E
+-10369680.066,3452311.3747,Federal,,22150,Bureau of Ocean Energy Management,1188,,F(FMR.18)
+-10364103.0616,3459951.1752,Federal,,22182,Bureau of Ocean Energy Management,1189,,D
+-9908805.1309,3426480.913,Federal,,21815,Bureau of Ocean Energy Management,1190,,N(N)
+-10198062.7092,3403573.27,Federal,,23939,Bureau of Ocean Energy Management,1191,,9
+-10100847.6308,3368255.7457,Federal,,26037,Bureau of Ocean Energy Management,1192,,22
+-10795797.1406,3103805.1232,Federal,,10345,Bureau of Ocean Energy Management,1193,,JA
+-10791328.4962,3102625.3532,Federal,,10310,Bureau of Ocean Energy Management,1194,,A
+-10751946.5691,3254206.2938,Federal,,10228,Bureau of Ocean Energy Management,1195,,B
+-10729120.0834,3261848.7503,Federal,,10225,Bureau of Ocean Energy Management,1196,,C
+-10385156.9697,3441159.7952,Federal,,23777,Bureau of Ocean Energy Management,1197,,12
+-10436289.4296,3455400.1322,Federal,,23780,Bureau of Ocean Energy Management,1198,,A
+-10373650.1951,3222287.3936,Federal,,23788,Bureau of Ocean Energy Management,1199,,A
+-10707967.0954,3214643.2588,Federal,,10093,Bureau of Ocean Energy Management,1200,,A
+-10383674.6148,3441304.4533,Federal,,23759,Bureau of Ocean Energy Management,1201,,11
+-10397811.5842,3427594.3858,Federal,,23646,Bureau of Ocean Energy Management,1202,,A
+-10423344.4501,3419649.7903,Federal,,23036,Bureau of Ocean Energy Management,1203,,A-PROCESS
+-10292744.7694,3321927.2822,Federal,,21037,Bureau of Ocean Energy Management,1204,,E-AUX
+-10177202.7022,3312776.6541,Federal,,23993,Bureau of Ocean Energy Management,1205,,H
+-10139833.5667,3286795.0921,Federal,,23591,Bureau of Ocean Energy Management,1206,,A
+-10143645.1294,3357860.8257,Federal,,23580,Bureau of Ocean Energy Management,1207,,42
+-10186485.6412,3272279.8127,Federal,,23289,Bureau of Ocean Energy Management,1208,,C
+-10113342.4025,3355196.8281,Federal,,23119,Bureau of Ocean Energy Management,1209,,41
+-10133291.8662,3328897.5689,Federal,,22707,Bureau of Ocean Energy Management,1210,,C
+-10098626.7767,3370853.2433,Federal,,22627,Bureau of Ocean Energy Management,1211,,12
+-10149995.4831,3391870.0638,Federal,,22120,Bureau of Ocean Energy Management,1212,,33
+-10193562.0319,3311828.7676,Federal,,22164,Bureau of Ocean Energy Management,1213,,A
+-10151542.4985,3337222.2566,Federal,,21654,Bureau of Ocean Energy Management,1214,,E
+-10197659.7851,3399944.4313,Federal,,21517,Bureau of Ocean Energy Management,1215,,A
+-10117173.3469,3309802.7251,Federal,,21395,Bureau of Ocean Energy Management,1216,,E
+-10182513.5497,3370891.0498,Federal,,20831,Bureau of Ocean Energy Management,1217,,2
+-10119167.0799,3314864.2709,Federal,,20481,Bureau of Ocean Energy Management,1218,,12
+-10010926.2345,3318074.5096,Federal,,23893,Bureau of Ocean Energy Management,1219,,A-Alabaster
+-9814275.0076,3527888.0766,Federal,,23868,Bureau of Ocean Energy Management,1220,,A
+-9880503.7464,3411267.4775,Federal,,23873,Bureau of Ocean Energy Management,1221,,BW-CONTROL
+-9851385.3202,3514442.4299,Federal,,23474,Bureau of Ocean Energy Management,1222,,AW
+-9914186.7827,3414030.7156,Federal,,23403,Bureau of Ocean Energy Management,1223,,15
+-9901888.8213,3435446.0967,Federal,,23409,Bureau of Ocean Energy Management,1224,,A
+-9896649.3191,3398706.3443,Federal,,23005,Bureau of Ocean Energy Management,1225,,A
+-9913771.2033,3414782.1844,Federal,,22912,Bureau of Ocean Energy Management,1226,,3
+-9913482.861,3415921.4066,Federal,,22917,Bureau of Ocean Energy Management,1227,,8
+-9914169.1811,3414977.241,Federal,,22922,Bureau of Ocean Energy Management,1228,,13
+-9957885.6181,3354571.4055,Federal,,22564,Bureau of Ocean Energy Management,1229,,A
+-9964369.1608,3364495.1785,Federal,,22593,Bureau of Ocean Energy Management,1230,,A
+-9900145.7838,3420857.3647,Federal,,22603,Bureau of Ocean Energy Management,1231,,A
+-9919360.2662,3426287.4192,Federal,,21996,Bureau of Ocean Energy Management,1232,,KC
+-10056084.4236,3368476.056,Federal,,22025,Bureau of Ocean Energy Management,1233,,C
+-9982693.6203,3394561.3527,Federal,,21831,Bureau of Ocean Energy Management,1234,,E-QTRS
+-9936668.0176,3372474.7235,Federal,,21165,Bureau of Ocean Energy Management,1235,,6(V)
+-9975157.3529,3393606.8513,Federal,,21273,Bureau of Ocean Energy Management,1236,,A
+-10045773.6384,3374626.532,Federal,,20977,Bureau of Ocean Energy Management,1237,,81
+-10045723.5078,3327159.5791,Federal,,20608,Bureau of Ocean Energy Management,1238,,P
+-9964734.8669,3372060.0012,Federal,,20491,Bureau of Ocean Energy Management,1239,,A
+-9936661.5423,3371674.2667,Federal,,20400,Bureau of Ocean Energy Management,1240,,79
+-9934379.2526,3371970.9296,Federal,,20281,Bureau of Ocean Energy Management,1241,,23
+-9935055.8895,3372676.9958,Federal,,20297,Bureau of Ocean Energy Management,1242,,5(Z)
+-10060750.2324,3357321.1947,Federal,,20203,Bureau of Ocean Energy Management,1243,,E
+-9975546.7096,3391704.3665,Federal,,20184,Bureau of Ocean Energy Management,1244,,CD
+-9975785.297,3392147.4361,Federal,,20150,Bureau of Ocean Energy Management,1245,,P
+-10039073.3063,3378201.0628,Federal,,20063,Bureau of Ocean Energy Management,1246,,SD
+-9851389.5933,3514367.4017,Federal,,23474,Bureau of Ocean Energy Management,1247,,AP
+-10159367.8625,3388070.1141,Federal,,26057,Bureau of Ocean Energy Management,1248,,14
+-10247906.2178,3351442.288,Federal,,27017,Bureau of Ocean Energy Management,1249,,JA
+-10237179.4193,3418991.3682,Federal,,27043,Bureau of Ocean Energy Management,1250,,177
+-10262581.5988,3317763.1288,Federal,,27053,Bureau of Ocean Energy Management,1251,,A
+-10119284.7022,3313249.5134,Federal,,26132,Bureau of Ocean Energy Management,1252,,L
+-9783111.0827,3515714.7972,Federal,,23894,Bureau of Ocean Energy Management,1253,,
+-10173412.4182,3344381.0375,Federal,,20745,Bureau of Ocean Energy Management,1254,,P-VALVE
+-10232290.716,3246444.3777,Federal,,27062,Bureau of Ocean Energy Management,1255,,A
+-10135072.3842,3326518.5959,Federal,,32019,Bureau of Ocean Energy Management,1256,,F
+-10227715.341,3375930.3415,Federal,,90020,Bureau of Ocean Energy Management,1257,,CD(FMER CAIS. 1
+-9983157.2069,3395654.7765,Federal,,70022,Bureau of Ocean Energy Management,1258,,AA
+-10195998.545,3403218.2497,Federal,,86,Bureau of Ocean Energy Management,1259,,12
+-9908578.2625,3425870.8361,Federal,,20393,Bureau of Ocean Energy Management,1260,,CA
+-10179785.9986,3383559.09,Federal,,20870,Bureau of Ocean Energy Management,1261,,D-QTR
+-10099310.7105,3369084.3743,Federal,,21988,Bureau of Ocean Energy Management,1262,,10
+-10251736.7814,3323116.1812,Federal,,21472,Bureau of Ocean Energy Management,1263,,A
+-10180202.9526,3373551.4369,Federal,,117,Bureau of Ocean Energy Management,1264,,15
+-10089303.6029,3355258.7048,Federal,,116,Bureau of Ocean Energy Management,1265,,E
+-10240043.0198,3228889.8612,Federal,,90014,Bureau of Ocean Energy Management,1266,,B(SALSA)
+-10183999.8002,3373026.2645,Federal,,139,Bureau of Ocean Energy Management,1267,,CAIS. 33
+-10166324.5907,3339985.6449,Federal,,132,Bureau of Ocean Energy Management,1268,,A
+-10213904.8745,3366335.622,Federal,,141,Bureau of Ocean Energy Management,1269,,CAIS. 1
+-10348711.8954,3241278.0841,Federal,,90028,Bureau of Ocean Energy Management,1270,,A
+-9933925.8095,3370917.8198,Federal,,20478,Bureau of Ocean Energy Management,1271,,AA East
+-9982683.1565,3394589.2653,Federal,,21831,Bureau of Ocean Energy Management,1272,,E-DRL
+-10339063.0674,3241919.1851,Federal,,70,Bureau of Ocean Energy Management,1273,,A
+-10196615.6083,3400998.9387,Federal,,176,Bureau of Ocean Energy Management,1274,,7
+-10184203.2063,3372320.5692,Federal,,180,Bureau of Ocean Energy Management,1275,,CAIS. 34
+-10183248.5273,3374669.3796,Federal,,202,Bureau of Ocean Energy Management,1276,,CAIS. 35
+-10158269.5213,3342513.8445,Federal,,196,Bureau of Ocean Energy Management,1277,,C
+-10059497.2575,3368708.0198,Federal,,186,Bureau of Ocean Energy Management,1278,,I
+-10240694.4015,3215430.8806,Federal,,33039,Bureau of Ocean Energy Management,1279,,A(BALDPATE)
+-10466609.2648,3256151.1809,Federal,,209,Bureau of Ocean Energy Management,1280,,JA
+-9803586.8709,3419405.7704,Federal,,198,Bureau of Ocean Energy Management,1281,,P
+-10105032.9561,3369049.7579,Federal,,218,Bureau of Ocean Energy Management,1282,,9
+-9938017.9084,3370578.4684,Federal,,19,Bureau of Ocean Energy Management,1283,,"11""A"""
+-10076526.2566,3221205.092,Federal,,67,Bureau of Ocean Energy Management,1284,,A-Genesis Spar
+-10130621.0757,3333706.2407,Federal,,242,Bureau of Ocean Energy Management,1285,,G
+-10239933.4387,3417984.5787,Federal,,23369,Bureau of Ocean Energy Management,1286,,161
+-9808178.8653,3405906.2496,Federal,,70016,Bureau of Ocean Energy Management,1287,,A-Spirit
+-10135077.9549,3303440.4003,Federal,,241,Bureau of Ocean Energy Management,1288,,A
+-10196336.6811,3402609.6591,Federal,,228,Bureau of Ocean Energy Management,1289,,C
+-9813732.0572,3470939.6895,Federal,,257,Bureau of Ocean Energy Management,1290,,A
+-9782518.503,3418013.2014,Federal,,258,Bureau of Ocean Energy Management,1291,,A
+-10405211.7203,3306258.1694,Federal,,50010,Bureau of Ocean Energy Management,1292,,B-AUX
+-10181833.1166,3373990.58,Federal,,263,Bureau of Ocean Energy Management,1293,,17
+-9918965.4055,3268439.8357,Federal,,70004,Bureau of Ocean Energy Management,1294,,A-Ursa TLP
+-9816095.9035,3412053.6848,Federal,,276,Bureau of Ocean Energy Management,1295,,A
+-10260831.4805,3384238.5647,Federal,,22190,Bureau of Ocean Energy Management,1296,,D
+-10212899.3255,3348059.0726,Federal,,252,Bureau of Ocean Energy Management,1297,,J
+-10057138.8489,3273933.2143,Federal,,290,Bureau of Ocean Energy Management,1298,,A
+-9819692.6353,3412487.6319,Federal,,289,Bureau of Ocean Energy Management,1299,,C
+-10238715.7659,3351886.1413,Federal,,319,Bureau of Ocean Energy Management,1300,,A
+-10238591.1258,3350726.3275,Federal,,317,Bureau of Ocean Energy Management,1301,,B
+-10058017.4588,3366618.6442,Federal,,21897,Bureau of Ocean Energy Management,1302,,J
+-9964918.327,3396039.6622,Federal,,346,Bureau of Ocean Energy Management,1303,,AH
+-9771731.5557,3404854.7115,Federal,,70012,Bureau of Ocean Energy Management,1304,,A-Petronius CT
+-10265371.9741,3256229.6123,Federal,,361,Bureau of Ocean Energy Management,1305,,A
+-10079726.6331,3255755.669,Federal,,147,Bureau of Ocean Energy Management,1306,,A
+-9816740.6287,3524619.0809,Federal,,382,Bureau of Ocean Energy Management,1307,,E-Facility 6
+-10189718.8195,3415369.3545,Federal,,21798,Bureau of Ocean Energy Management,1308,,30
+-10282891.1429,3413611.0208,Federal,,20922,Bureau of Ocean Energy Management,1309,,B-VALVE
+-9822556.0244,3410009.4507,Federal,,408,Bureau of Ocean Energy Management,1310,,A
+-9817275.5279,3409967.544,Federal,,407,Bureau of Ocean Energy Management,1311,,A
+-9987079.8173,3344012.6504,Federal,,410,Bureau of Ocean Energy Management,1312,,A
+-9968828.0205,3332606.5843,Federal,,23846,Bureau of Ocean Energy Management,1313,,B
+-10271388.0115,3338347.7327,Federal,,459,Bureau of Ocean Energy Management,1314,,D
+-10410373.5715,3245441.0519,Federal,,463,Bureau of Ocean Energy Management,1315,,B
+-10188675.7747,3400277.3709,Federal,,514,Bureau of Ocean Energy Management,1316,,VP
+-10236893.15,3321377.013,Federal,,33032,Bureau of Ocean Energy Management,1317,,P
+-9789838.7235,3389372.2102,Federal,,235,Bureau of Ocean Energy Management,1318,,A-Marlin TLP
+-10174971.6361,3345327.8556,Federal,,515,Bureau of Ocean Energy Management,1319,,CG-A-VALVE
+-10175058.5896,3345502.3905,Federal,,515,Bureau of Ocean Energy Management,1320,,COMP-B-VALVE
+-10174989.0705,3345432.5969,Federal,,515,Bureau of Ocean Energy Management,1321,,C-QTRS
+-10174992.4655,3345306.8921,Federal,,515,Bureau of Ocean Energy Management,1322,,FLRPILE-D
+-10190025.2739,3415646.1566,Federal,,516,Bureau of Ocean Energy Management,1323,,GM-VALVE
+-10391634.7604,3429253.7217,Federal,,517,Bureau of Ocean Energy Management,1324,,PP-VALVE
+-10198504.4766,3333862.9874,Federal,,519,Bureau of Ocean Energy Management,1325,,GP-VALVE
+-10237661.3142,3353091.4302,Federal,,520,Bureau of Ocean Energy Management,1326,,PP
+-10228417.3824,3414392.823,Federal,,495,Bureau of Ocean Energy Management,1327,,CAIS. 201
+-10293269.4694,3323658.7158,Federal,,523,Bureau of Ocean Energy Management,1328,,PP
+-9814788.9406,3398850.1761,Federal,,113,Bureau of Ocean Energy Management,1329,,A (VIRGO)
+-10201893.5077,3314977.962,Federal,,524,Bureau of Ocean Energy Management,1330,,A(PP)-EQUIP
+-10330719.9217,3344615.2607,Federal,,525,Bureau of Ocean Energy Management,1331,,GP
+-10353256.4743,3303671.7821,Federal,,528,Bureau of Ocean Energy Management,1332,,A-VALVE
+-10353310.432,3303667.5101,Federal,,528,Bureau of Ocean Energy Management,1333,,B
+-10353364.7318,3303543.8372,Federal,,528,Bureau of Ocean Energy Management,1334,,C-QTRS
+-10524829.5906,3392232.8439,Federal,,28051,Bureau of Ocean Energy Management,1335,,C
+-10179652.7082,3375549.082,Federal,,554,Bureau of Ocean Energy Management,1336,,19
+-10049433.2177,3210177.0171,Federal,,251,Bureau of Ocean Energy Management,1337,,A(ALLEGHENY SEA
+-10227036.471,3414700.9533,Federal,,572,Bureau of Ocean Energy Management,1338,,CAIS. 202
+-10227007.2351,3418024.6143,Federal,,23241,Bureau of Ocean Energy Management,1339,,D-EQUIPT
+-10374653.6961,3455497.2946,Federal,,574,Bureau of Ocean Energy Management,1340,,CAIS. 8
+-10264124.2356,3316039.3036,Federal,,580,Bureau of Ocean Energy Management,1341,,H
+-10540719.8691,3115897.9665,Federal,,183,Bureau of Ocean Energy Management,1342,,A-Hoover Spar
+-10225738.3812,3412252.5237,Federal,,601,Bureau of Ocean Energy Management,1343,,CAIS. 203
+-10181336.7011,3408853.1353,Federal,,581,Bureau of Ocean Energy Management,1344,,A
+-9822842.8542,3417392.4522,Federal,,619,Bureau of Ocean Energy Management,1345,,A
+-10228682.044,3412918.289,Federal,,623,Bureau of Ocean Energy Management,1346,,CAIS. 200
+-9908931.7135,3428959.6617,Federal,,622,Bureau of Ocean Energy Management,1347,,CAIS. 5
+-10358235.0552,3461003.4078,Federal,,629,Bureau of Ocean Energy Management,1348,,1
+-10193766.8998,3345308.6475,Federal,,633,Bureau of Ocean Energy Management,1349,,A-ROW
+-10179756.8187,3408164.8789,Federal,,630,Bureau of Ocean Energy Management,1350,,2
+-9915470.4378,3428353.6689,Federal,,641,Bureau of Ocean Energy Management,1351,,CAIS. 13
+-10227765.8201,3413979.2607,Federal,,24003,Bureau of Ocean Energy Management,1352,,E-DOLPHIN
+-10374649.3337,3455487.5035,Federal,,574,Bureau of Ocean Energy Management,1353,,CAIS. 9
+-10235702.9393,3419387.8171,Federal,,645,Bureau of Ocean Energy Management,1354,,CAIS. 206
+-10230297.615,3414789.0902,Federal,,657,Bureau of Ocean Energy Management,1355,,204
+-10284524.9999,3419516.5885,Federal,,661,Bureau of Ocean Energy Management,1356,,1
+-10435926.973,3462893.8001,Federal,,674,Bureau of Ocean Energy Management,1357,,25
+-10171155.3983,3269683.4372,Federal,,687,Bureau of Ocean Energy Management,1358,,A (TANZANITE)
+-10298805.732,3281262.6501,Federal,,683,Bureau of Ocean Energy Management,1359,,A
+-10026614.4968,3288055.9801,Federal,,686,Bureau of Ocean Energy Management,1360,,A (HICKORY)
+-10194663.7145,3404164.0318,Federal,,693,Bureau of Ocean Energy Management,1361,,D
+-10246972.0289,3291484.2944,Federal,,703,Bureau of Ocean Energy Management,1362,,A
+-10101436.9251,3367890.147,Federal,,708,Bureau of Ocean Energy Management,1363,,G
+-10341157.705,3427561.995,Federal,,25000,Bureau of Ocean Energy Management,1364,,CG-VALVE
+-10435032.3079,3308322.8964,Federal,,25002,Bureau of Ocean Energy Management,1365,,HIOS-A-LIQ
+-10408694.8822,3261285.4371,Federal,,25005,Bureau of Ocean Energy Management,1366,,HIOS-VALVE
+-10435502.3259,3260454.8649,Federal,,25006,Bureau of Ocean Energy Management,1367,,HIOS-VALVE
+-10458688.2209,3237722.4547,Federal,,25007,Bureau of Ocean Energy Management,1368,,HIOS-HIA573
+-10507356.1681,3242532.5433,Federal,,25008,Bureau of Ocean Energy Management,1369,,HIOS-HIA582
+-9818252.0552,3524439.2341,Federal,,25010,Bureau of Ocean Energy Management,1370,,M822(PIPELINE J
+-10117449.7718,3371908.3301,Federal,,25011,Bureau of Ocean Energy Management,1371,,A-VALVE
+-10104234.8595,3348250.5814,Federal,,25012,Bureau of Ocean Energy Management,1372,,T-25-VALVE
+-10160049.4911,3321459.7263,Federal,,25013,Bureau of Ocean Energy Management,1373,,CGP-VALVE
+-10117256.5758,3314237.2295,Federal,,25014,Bureau of Ocean Energy Management,1374,,TGPL-VALVE
+-10074383.3018,3354570.9714,Federal,,25015,Bureau of Ocean Energy Management,1375,,T-23-VALVE
+-10086493.6454,3348877.061,Federal,,25016,Bureau of Ocean Energy Management,1376,,T-21-VALVE
+-10067265.4636,3317388.1732,Federal,,25017,Bureau of Ocean Energy Management,1377,,T-22-VALVE
+-10443862.2498,3442940.0328,Federal,,25018,Bureau of Ocean Energy Management,1378,,CGP
+-10356994.4959,3456436.0529,Federal,,25023,Bureau of Ocean Energy Management,1379,,CG-VALVE
+-10401880.9756,3425114.6652,Federal,,25024,Bureau of Ocean Energy Management,1380,,HIOS-VALVE
+-10355524.9455,3414641.6453,Federal,,25025,Bureau of Ocean Energy Management,1381,,PP-VALVE
+-10150073.7769,3392547.2832,Federal,,717,Bureau of Ocean Energy Management,1382,,CAIS. 39
+-10437379.4256,3461865.3588,Federal,,722,Bureau of Ocean Energy Management,1383,,H
+-10228709.9927,3322031.6555,Federal,,728,Bureau of Ocean Energy Management,1384,,D (LYNX)
+-10181471.3983,3326482.4477,Federal,,753,Bureau of Ocean Energy Management,1385,,A
+-10383728.6679,3440649.4959,Federal,,737,Bureau of Ocean Energy Management,1386,,CAIS. 15
+-10201576.5915,3370566.4071,Federal,,752,Bureau of Ocean Energy Management,1387,,A
+-10261533.5273,3267938.4038,Federal,,745,Bureau of Ocean Energy Management,1388,,A
+-10196349.599,3402612.7865,Federal,,228,Bureau of Ocean Energy Management,1389,,10
+-10013656.3349,3372324.592,Federal,,766,Bureau of Ocean Energy Management,1390,,I
+-9901172.3762,3379360.1907,Federal,,22087,Bureau of Ocean Energy Management,1391,,D
+-10162704.5564,3383497.4174,Federal,,775,Bureau of Ocean Energy Management,1392,,24
+-10119659.9103,3315609.0729,Federal,,784,Bureau of Ocean Energy Management,1393,,F PUMP
+-10457525.549,3300146.4019,Federal,,783,Bureau of Ocean Energy Management,1394,,B
+-10229832.8329,3389580.4311,Federal,,791,Bureau of Ocean Energy Management,1395,,CAIS.F
+-10152499.7458,3343517.4938,Federal,,21469,Bureau of Ocean Energy Management,1396,,CAIS. 19
+-10187642.8231,3375292.3102,Federal,,815,Bureau of Ocean Energy Management,1397,,CAIS. 37
+-9951384.62,3377415.3169,Federal,,835,Bureau of Ocean Energy Management,1398,,TK BAT 3
+-10187642.8051,3375281.4604,Federal,,815,Bureau of Ocean Energy Management,1399,,CAIS. 37-H
+-10160525.2038,3304377.4454,Federal,,859,Bureau of Ocean Energy Management,1400,,J
+-10113775.2125,3318430.5292,Federal,,871,Bureau of Ocean Energy Management,1401,,P
+-10385549.1586,3440139.8798,Federal,,889,Bureau of Ocean Energy Management,1402,,F
+-10183891.4424,3371104.7801,Federal,,898,Bureau of Ocean Energy Management,1403,,12
+-10090846.1363,3223215.8563,Federal,,420,Bureau of Ocean Energy Management,1404,,A-Brutus TLP
+-10248491.0489,3303465.5936,Federal,,857,Bureau of Ocean Energy Management,1405,,A
+-10301382.0735,3259797.3485,Federal,,897,Bureau of Ocean Energy Management,1406,,D
+-9845470.1728,3411938.684,Federal,,900,Bureau of Ocean Energy Management,1407,,A
+-9969177.6553,3393045.2428,Federal,,20192,Bureau of Ocean Energy Management,1408,,16
+-10281542.9962,3345867.3742,Federal,,912,Bureau of Ocean Energy Management,1409,,A
+-10401968.3448,3425113.0496,Federal,,25024,Bureau of Ocean Energy Management,1410,,BS1
+-10402060.9573,3425111.3368,Federal,,25024,Bureau of Ocean Energy Management,1411,,FLR
+-10274720.8891,3374126.6083,Federal,,70026,Bureau of Ocean Energy Management,1412,,FS1
+-10274851.4415,3374125.5031,Federal,,70026,Bureau of Ocean Energy Management,1413,,Flare
+-10165810.332,3368804.9981,Federal,,913,Bureau of Ocean Energy Management,1414,,A
+-10263275.7258,3432882.8276,Federal,,916,Bureau of Ocean Energy Management,1415,,24
+-10075856.8307,3374124.1742,Federal,,920,Bureau of Ocean Energy Management,1416,,D
+-10146651.377,3372364.7749,Federal,,888,Bureau of Ocean Energy Management,1417,,3
+-9898583.3068,3415985.2166,Federal,,928,Bureau of Ocean Energy Management,1418,,A
+-10253382.9444,3435424.0639,Federal,,937,Bureau of Ocean Energy Management,1419,,210
+-10314839.6212,3257584.8561,Federal,,932,Bureau of Ocean Energy Management,1420,,A
+-10542450.9347,3362143.2346,Federal,,919,Bureau of Ocean Energy Management,1421,,C(JUNCTION PLAT
+-10071483.1943,3367109.7168,Federal,,950,Bureau of Ocean Energy Management,1422,,E
+-10229336.2217,3386295.366,Federal,,952,Bureau of Ocean Energy Management,1423,,H
+-10300164.8243,3245143.2791,Federal,,961,Bureau of Ocean Energy Management,1424,,A
+-10055031.3364,3248083.5849,Federal,,811,Bureau of Ocean Energy Management,1425,,A-Prince TLP
+-10226379.962,3416109.0233,Federal,,980,Bureau of Ocean Energy Management,1426,,CAIS. 212
+-10228537.8975,3315654.8558,Federal,,993,Bureau of Ocean Energy Management,1427,,A
+-10105039.2201,3369049.7883,Federal,,218,Bureau of Ocean Energy Management,1428,,10
+-10551572.3422,3238493.9714,Federal,,940,Bureau of Ocean Energy Management,1429,,JP
+-10157839.1567,3346460.1836,Federal,,1006,Bureau of Ocean Energy Management,1430,,B
+-10200233.1552,3325809.4194,Federal,,1004,Bureau of Ocean Energy Management,1431,,B
+-10229443.4477,3417267.8071,Federal,,1016,Bureau of Ocean Energy Management,1432,,CAIS. 216
+-10061444.3877,3306331.335,Federal,,1013,Bureau of Ocean Energy Management,1433,,G
+-10255680.9403,3279532.9596,Federal,,1027,Bureau of Ocean Energy Management,1434,,C
+-10188752.5807,3314663.6017,Federal,,20590,Bureau of Ocean Energy Management,1435,,L
+-10516110.8072,3169453.1853,Federal,,821,Bureau of Ocean Energy Management,1436,,A(NANSEN SPAR)
+-10127692.5532,3328977.3215,Federal,,1045,Bureau of Ocean Energy Management,1437,,I
+-9806368.8463,3456936.7638,Federal,,1054,Bureau of Ocean Energy Management,1438,,A
+-10161568.4198,3387494.3147,Federal,,21170,Bureau of Ocean Energy Management,1439,,C-3(PRODUCTION)
+-9898584.0161,3413602.1554,Federal,,1066,Bureau of Ocean Energy Management,1440,,B
+-10228813.6872,3385756.3601,Federal,,1069,Bureau of Ocean Energy Management,1441,,I
+-10217918.6559,3422123.3104,Federal,,1079,Bureau of Ocean Energy Management,1442,,CAIS.B
+-10226326.1677,3416083.2925,Federal,,1074,Bureau of Ocean Energy Management,1443,,CAIS. 217
+-9977146.4074,3398238.0556,Federal,,1073,Bureau of Ocean Energy Management,1444,,L
+-10398144.724,3429068.056,Federal,,1091,Bureau of Ocean Energy Management,1445,,H
+-10195900.9557,3313467.3543,Federal,,1094,Bureau of Ocean Energy Management,1446,,C
+-10385642.7469,3439510.7012,Federal,,1095,Bureau of Ocean Energy Management,1447,,C
+-10246654.3395,3440686.984,Federal,,1083,Bureau of Ocean Energy Management,1448,,A
+-10508183.9961,3237695.1269,Federal,,1052,Bureau of Ocean Energy Management,1449,,D (CYRUS)
+-9898750.781,3414679.0164,Federal,,1103,Bureau of Ocean Energy Management,1450,,C
+-10533662.057,3167752.362,Federal,,822,Bureau of Ocean Energy Management,1451,,A-Boomvang Spar
+-9802378.3527,3358633.9145,Federal,,876,Bureau of Ocean Energy Management,1452,,A(HORN MOUNTAIN
+-10240558.1132,3427769.0146,Federal,,1186,Bureau of Ocean Energy Management,1453,,218
+-10427017.5662,3459905.2362,Federal,,1153,Bureau of Ocean Energy Management,1454,,A
+-10093590.4794,3260112.6582,Federal,,1076,Bureau of Ocean Energy Management,1455,,A
+-10173656.303,3364657.1294,Federal,,1173,Bureau of Ocean Energy Management,1456,,A
+-10358692.7603,3308047.33,Federal,,1174,Bureau of Ocean Energy Management,1457,,C
+-10217570.9814,3421227.6189,Federal,,1178,Bureau of Ocean Energy Management,1458,,C
+-9893752.1603,3417241.0431,Federal,,1204,Bureau of Ocean Energy Management,1459,,D
+-9876100.413,3446524.615,Federal,,1194,Bureau of Ocean Energy Management,1460,,CAIS. 1
+-10416072.8745,3458987.1956,Federal,,1252,Bureau of Ocean Energy Management,1461,,B
+-10376760.7834,3453182.4173,Federal,,1259,Bureau of Ocean Energy Management,1462,,A
+-10441181.3974,3406309.9157,Federal,,1263,Bureau of Ocean Energy Management,1463,,16
+-10021545.5962,3361048.1617,Federal,,80050,Bureau of Ocean Energy Management,1464,,LOOP (PUMP)
+-10248603.4386,3349591.6579,Federal,,1266,Bureau of Ocean Energy Management,1465,,B
+-10240555.4747,3427796.792,Federal,,1186,Bureau of Ocean Energy Management,1466,,A
+-10216902.1491,3420969.2907,Federal,,22771,Bureau of Ocean Energy Management,1467,,A-AUX
+-10253038.9465,3274563.1619,Federal,,1261,Bureau of Ocean Energy Management,1468,,A
+-9957918.8359,3298569.7777,Federal,,1090,Bureau of Ocean Energy Management,1469,,A-Medusa Spar
+-10100804.3515,3260242.2782,Federal,,1279,Bureau of Ocean Energy Management,1470,,A
+-10427656.879,3455429.0219,Federal,,1274,Bureau of Ocean Energy Management,1471,,I
+-10125016.0452,3373432.8867,Federal,,1268,Bureau of Ocean Energy Management,1472,,Cais. 14
+-10180620.6982,3374841.4802,Federal,,1300,Bureau of Ocean Energy Management,1473,,20
+-10095402.3766,3356193.0434,Federal,,1281,Bureau of Ocean Energy Management,1474,,A
+-10371674.7429,3453404.7873,Federal,,1296,Bureau of Ocean Energy Management,1475,,CAIS. 1
+-10132937.0968,3357396.9482,Federal,,1318,Bureau of Ocean Energy Management,1476,,A
+-10463938.6846,3392922.5344,Federal,,1287,Bureau of Ocean Energy Management,1477,,C
+-9888027.9393,3342914.1418,Federal,,1088,Bureau of Ocean Energy Management,1478,,A(MATTERHORN SE
+-9965518.6445,3393372.4585,Federal,,1305,Bureau of Ocean Energy Management,1479,,C
+-10442759.8488,3406608.4116,Federal,,1337,Bureau of Ocean Energy Management,1480,,17
+-10433910.0969,3463283.5484,Federal,,20620,Bureau of Ocean Energy Management,1481,,A-AUX
+-10039854.8889,3373321.3067,Federal,,1332,Bureau of Ocean Energy Management,1482,,G
+-9828263.471,3314839.3473,Federal,,1001,Bureau of Ocean Energy Management,1483,,A(NA KIKA FPDS)
+-9838350.2804,3409694.1101,Federal,,1350,Bureau of Ocean Energy Management,1484,,A
+-10260750.5688,3308512.8377,Federal,,1345,Bureau of Ocean Energy Management,1485,,A
+-10240222.1257,3426969.7611,Federal,,1371,Bureau of Ocean Energy Management,1486,,219
+-10096011.1118,3355948.7023,Federal,,1342,Bureau of Ocean Energy Management,1487,,B
+-10044397.9546,3349638.8521,Federal,,1393,Bureau of Ocean Energy Management,1488,,Manifold
+-10511088.7872,3405980.1968,Federal,,1401,Bureau of Ocean Energy Management,1489,,A-Valve
+-10415829.8991,3460069.3819,Federal,,1398,Bureau of Ocean Energy Management,1490,,2
+-10175018.5026,3345280.6878,Federal,,515,Bureau of Ocean Energy Management,1491,,FLRPILE-E
+-10175046.2753,3345252.7378,Federal,,515,Bureau of Ocean Energy Management,1492,,FLRPILE-F
+-10240555.7026,3427836.4995,Federal,,1186,Bureau of Ocean Energy Management,1493,,B (Header Pltf.
+-10439242.3259,3409801.702,Federal,,1391,Bureau of Ocean Energy Management,1494,,18
+-10248222.3293,3431892.6835,Federal,,21411,Bureau of Ocean Energy Management,1495,,A-Amine
+-10549701.6805,3117896.9531,Federal,,90100,Bureau of Ocean Energy Management,1496,,SSMANIFO
+-9879851.1562,3472801.8143,Federal,,1428,Bureau of Ocean Energy Management,1497,,D
+-10397958.6505,3460266.4338,Federal,,1439,Bureau of Ocean Energy Management,1498,,2
+-9878212.181,3275351.3026,Federal,,1175,Bureau of Ocean Energy Management,1499,,A(DEVILS TOWER
+-10412652.4512,3161520.2104,Federal,,1288,Bureau of Ocean Energy Management,1500,,A-Gunnison Spar
+-10258733.5639,3310693.2542,Federal,,1414,Bureau of Ocean Energy Management,1501,,A
+-10183451.6087,3262641.6823,Federal,,1447,Bureau of Ocean Energy Management,1502,,A
+-10038930.5694,3367708.4503,Federal,,1434,Bureau of Ocean Energy Management,1503,,A
+-10121954.12,3353115.704,Federal,,1451,Bureau of Ocean Energy Management,1504,,Z
+-10038950.9395,3168822.1015,Federal,,1323,Bureau of Ocean Energy Management,1505,,A(TLP MARCO POL
+-10561515.36,3127832.2529,Federal,,90102,Bureau of Ocean Energy Management,1506,,SSMANIFOLD
+-10549746.5201,3117918.6698,Federal,,90103,Bureau of Ocean Energy Management,1507,,PLEM 1
+-10544728.3414,3127143.2058,Federal,,90104,Bureau of Ocean Energy Management,1508,,SSMANIFO
+-10312934.2655,3237302.1143,Federal,,90105,Bureau of Ocean Energy Management,1509,,SSMANIFO
+-10245005.0656,3222888.1833,Federal,,90108,Bureau of Ocean Energy Management,1510,,SSMANIFO
+-10292616.6714,3170693.5371,Federal,,90110,Bureau of Ocean Energy Management,1511,,SSMANIFO
+-10098894.1757,3229780.2871,Federal,,90111,Bureau of Ocean Energy Management,1512,,SSMANIFO
+-10100042.2662,3218382.3544,Federal,,90112,Bureau of Ocean Energy Management,1513,,SSMANIFO
+-10049968.0707,3211035.2389,Federal,,90118,Bureau of Ocean Energy Management,1514,,SSMANIFO
+-10058991.7184,3186316.4882,Federal,,90120,Bureau of Ocean Energy Management,1515,,SSMANIFO
+-9822201.5153,3348185.2275,Federal,,90121,Bureau of Ocean Energy Management,1516,,SSMANIFO
+-9822201.5153,3348185.2275,Federal,,90122,Bureau of Ocean Energy Management,1517,,UTA
+-9877343.384,3283857.5687,Federal,,90135,Bureau of Ocean Energy Management,1518,,SSMANIFO
+-10009983.077,3280402.4038,Federal,,90136,Bureau of Ocean Energy Management,1519,,SSMANIFO
+-9858297.3513,3276264.2579,Federal,,90137,Bureau of Ocean Energy Management,1520,,P41W Manifold
+-9908544.373,3256184.9414,Federal,,90139,Bureau of Ocean Energy Management,1521,,SSMANIFO
+-9956848.5219,3253745.7391,Federal,,90140,Bureau of Ocean Energy Management,1522,,SSMANIFO
+-10468226.531,3400597.3663,Federal,,1464,Bureau of Ocean Energy Management,1523,,A
+-10366256.4171,3454620.9488,Federal,,1478,Bureau of Ocean Energy Management,1524,,31
+-10263161.047,3308602.8001,Federal,,1486,Bureau of Ocean Energy Management,1525,,B
+-9897639.7817,3367692.196,Federal,,1482,Bureau of Ocean Energy Management,1526,,B SIMBA
+-10284634.7268,3376829.4593,Federal,,1450,Bureau of Ocean Energy Management,1527,,1
+-10248312.8355,3431880.8574,Federal,,21411,Bureau of Ocean Energy Management,1528,,A-Flare
+-10038096.2236,3367864.408,Federal,,1490,Bureau of Ocean Energy Management,1529,,B
+-10263957.4407,3148998.81,Federal,,1218,Bureau of Ocean Energy Management,1530,,A-Magnolia TLP
+-10240628.1313,3425890.7936,Federal,,1454,Bureau of Ocean Energy Management,1531,,221
+-10067858.1243,3201790.6121,Federal,,1290,Bureau of Ocean Energy Management,1532,,A-Front Runner
+-10139911.5399,3326997.9782,Federal,,1529,Bureau of Ocean Energy Management,1533,,K
+-10044100.9851,3269372.3412,Federal,,1500,Bureau of Ocean Energy Management,1534,,A (Tarantula)
+-10107075.4569,3262173.599,Federal,,23212,Bureau of Ocean Energy Management,1535,,B
+-10435029.5721,3308538.9314,Federal,,25002,Bureau of Ocean Energy Management,1536,,B-CMP
+-10435103.7823,3308430.7231,Federal,,25002,Bureau of Ocean Energy Management,1537,,C-QTRS
+-10435046.8783,3308539.714,Federal,,25002,Bureau of Ocean Energy Management,1538,,FLR BRG 1
+-10435064.1857,3308540.4966,Federal,,25002,Bureau of Ocean Energy Management,1539,,FLR BRG 2
+-10321090.2876,3419889.9759,Federal,,1525,Bureau of Ocean Energy Management,1540,,8
+-10386484.5525,3455766.2067,Federal,,1544,Bureau of Ocean Energy Management,1541,,A
+-10317671.9819,3421002.1679,Federal,,1526,Bureau of Ocean Energy Management,1542,,4
+-9869969.5956,3447117.9305,Federal,,1505,Bureau of Ocean Energy Management,1543,,7
+-10467176.9651,3399790.4493,Federal,,1542,Bureau of Ocean Energy Management,1544,,B
+-10103804.1124,3137435.6269,Federal,,2597,Bureau of Ocean Energy Management,1545,,A (Heidelberg)
+-10201875.0151,3314932.0284,Federal,,524,Bureau of Ocean Energy Management,1546,,B
+-10119619.4052,3351240.5448,Federal,,1624,Bureau of Ocean Energy Management,1547,,24
+-10048671.5191,3147060.9763,Federal,,1215,Bureau of Ocean Energy Management,1548,,A(MAD DOG SPAR)
+-10078368.3284,3163697.6341,Federal,,1035,Bureau of Ocean Energy Management,1549,,A(HOLSTEIN SPAR
+-10282638.4926,3386179.3809,Federal,,1584,Bureau of Ocean Energy Management,1550,,A
+-10037198.5161,3367575.0708,Federal,,1588,Bureau of Ocean Energy Management,1551,,C
+-10198802.8165,3399889.7896,Federal,,21820,Bureau of Ocean Energy Management,1552,,A-Aux
+-10299477.5526,3364184.7735,Federal,,1600,Bureau of Ocean Energy Management,1553,,B
+-10399973.1866,3447108.5042,Federal,,1531,Bureau of Ocean Energy Management,1554,,B
+-9976293.1823,3395299.5444,Federal,,1602,Bureau of Ocean Energy Management,1555,,CC
+-10387944.3559,3427913.923,Federal,,1563,Bureau of Ocean Energy Management,1556,,8
+-9813800.3203,3471029.2819,Federal,,257,Bureau of Ocean Energy Management,1557,,A-Aux.
+-10405258.076,3446790.1674,Federal,,1627,Bureau of Ocean Energy Management,1558,,A
+-10412823.8601,3465417.0467,Federal,,1641,Bureau of Ocean Energy Management,1559,,1
+-9885735.4458,3465917.8871,Federal,,1551,Bureau of Ocean Energy Management,1560,,3
+-10415674.5793,3458240.3764,Federal,,1639,Bureau of Ocean Energy Management,1561,,2
+-9977347.7243,3398684.629,Federal,,1628,Bureau of Ocean Energy Management,1562,,BB
+-10339224.9664,3305099.0813,Federal,,1649,Bureau of Ocean Energy Management,1563,,D
+-9851284.1197,3273059.3307,Federal,,1101,Bureau of Ocean Energy Management,1564,,A(Thunder Horse
+-10531620.0966,3392470.4359,Federal,,1620,Bureau of Ocean Energy Management,1565,,1
+-10054677.2205,3368975.4149,Federal,,1630,Bureau of Ocean Energy Management,1566,,1
+-10067064.8775,3367338.647,Federal,,1646,Bureau of Ocean Energy Management,1567,,7
+-10468026.8755,3419742.5941,Federal,,1647,Bureau of Ocean Energy Management,1568,,
+-10469433.2085,3399146.4513,Federal,,1621,Bureau of Ocean Energy Management,1569,,C
+-10459912.7399,3414033.7299,Federal,,1648,Bureau of Ocean Energy Management,1570,,Never Installed
+-10411788.7933,3465832.5581,Federal,,1653,Bureau of Ocean Energy Management,1571,,2
+-10247217.4602,3430476.488,Federal,,1659,Bureau of Ocean Energy Management,1572,,223
+-10242653.719,3279633.6902,Federal,,1663,Bureau of Ocean Energy Management,1573,,B
+-10049741.3888,3377769.2674,Federal,,21935,Bureau of Ocean Energy Management,1574,,DA-Aux
+-10396056.8971,3460954.4589,Federal,,1673,Bureau of Ocean Energy Management,1575,,5
+-10065382.5974,3368760.4845,Federal,,1679,Bureau of Ocean Energy Management,1576,,K
+-10124148.2559,3355545.1457,Federal,,23908,Bureau of Ocean Energy Management,1577,,A-AUX
+-10401114.0866,3462943.1438,Federal,,1672,Bureau of Ocean Energy Management,1578,,4
+-10531610.2479,3392472.5182,Federal,,1620,Bureau of Ocean Energy Management,1579,,2
+-10197216.8111,3404599.8809,Federal,,1702,Bureau of Ocean Energy Management,1580,,G
+-10261315.641,3413315.6347,Federal,,1711,Bureau of Ocean Energy Management,1581,,1
+-10398885.8842,3427682.3785,Federal,,1717,Bureau of Ocean Energy Management,1582,,I (4)
+-10170168.8668,3367201.182,Federal,,1713,Bureau of Ocean Energy Management,1583,,A
+-9985568.557,3338993.6284,Federal,,1685,Bureau of Ocean Energy Management,1584,,F
+-10494189.2678,3391719.9166,Federal,,1680,Bureau of Ocean Energy Management,1585,,3
+-10064268.3891,3309919.9796,Federal,,1720,Bureau of Ocean Energy Management,1586,,CB
+-10430787.5649,3416146.3102,Federal,,1748,Bureau of Ocean Energy Management,1587,,A
+-10036495.6854,3366742.3764,Federal,,1755,Bureau of Ocean Energy Management,1588,,E
+-10412847.1263,3465404.9625,Federal,,1641,Bureau of Ocean Energy Management,1589,,G
+-10101236.5319,3346379.5203,Federal,,1745,Bureau of Ocean Energy Management,1590,,B
+-10221904.1814,3276079.715,Federal,,1762,Bureau of Ocean Energy Management,1591,,D
+-10126521.0623,3160061.7805,Federal,,1665,Bureau of Ocean Energy Management,1592,,A (Constitution
+-10247325.4791,3431759.1421,Federal,,1778,Bureau of Ocean Energy Management,1593,,225
+-10131220.1886,3321150.1544,Federal,,1822,Bureau of Ocean Energy Management,1594,,M
+-10036560.4644,3367284.1487,Federal,,1837,Bureau of Ocean Energy Management,1595,,F
+-10217388.0705,3423605.6889,Federal,,1816,Bureau of Ocean Energy Management,1596,,D
+-10071544.248,3359513.8852,Federal,,1824,Bureau of Ocean Energy Management,1597,,CJ
+-9988885.2721,3376149.225,Federal,,1795,Bureau of Ocean Energy Management,1598,,C
+-10182978.7865,3303043.5969,Federal,,1808,Bureau of Ocean Energy Management,1599,,K
+-10449522.356,3261029.4506,Federal,,1812,Bureau of Ocean Energy Management,1600,,B
+-10155531.1852,3342771.0439,Federal,,22327,Bureau of Ocean Energy Management,1601,,J
+-10045714.3145,3374644.1311,Federal,,1867,Bureau of Ocean Energy Management,1602,,GB
+-10531596.3093,3392471.992,Federal,,1620,Bureau of Ocean Energy Management,1603,,B
+-10178363.8127,3281230.2594,Federal,,1855,Bureau of Ocean Energy Management,1604,,B
+-10138068.9786,3313333.2199,Federal,,1833,Bureau of Ocean Energy Management,1605,,E
+-9996328.4991,3352432.517,Federal,,1866,Bureau of Ocean Energy Management,1606,,H
+-10371674.2521,3453395.9913,Federal,,1296,Bureau of Ocean Energy Management,1607,,3
+-9984748.1523,3379524.7504,Federal,,1856,Bureau of Ocean Energy Management,1608,,E
+-10046284.4977,3374992.553,Federal,,1911,Bureau of Ocean Energy Management,1609,,GC
+-10259739.0796,3417863.9136,Federal,,1882,Bureau of Ocean Energy Management,1610,,C
+-10047445.969,3378546.6894,Federal,,20978,Bureau of Ocean Energy Management,1611,,DB
+-10038084.2833,3367807.269,Federal,,1490,Bureau of Ocean Energy Management,1612,,B PROD
+-10750787.0616,3254284.1938,Federal,,1958,Bureau of Ocean Energy Management,1613,,3
+-10674176.0824,3298309.477,Federal,,1835,Bureau of Ocean Energy Management,1614,,5
+-10750865.7156,3253281.4972,Federal,,1950,Bureau of Ocean Energy Management,1615,,2
+-10407859.753,3254472.7104,Federal,,1917,Bureau of Ocean Energy Management,1616,,C
+-10129485.2753,3257397.1508,Federal,,1942,Bureau of Ocean Energy Management,1617,,A
+-10785075.5528,3018506.8824,Federal,,1852,Bureau of Ocean Energy Management,1618,,B
+-10124778.6224,3372272.4626,Federal,,1939,Bureau of Ocean Energy Management,1619,,33
+-10356983.6607,3461603.9014,Federal,,1895,Bureau of Ocean Energy Management,1620,,N
+-10751674.019,3252404.3658,Federal,,1976,Bureau of Ocean Energy Management,1621,,4
+-10264347.2952,3412093.0937,Federal,,1946,Bureau of Ocean Energy Management,1622,,1
+-10049741.3888,3377769.2674,Federal,,1977,Bureau of Ocean Energy Management,1623,,136
+-10215661.6752,3424589.0259,Federal,,2003,Bureau of Ocean Energy Management,1624,,E
+-10172129.4353,3335045.9504,Federal,,1983,Bureau of Ocean Energy Management,1625,,B
+-10781818.8824,3058228.5665,Federal,,1878,Bureau of Ocean Energy Management,1626,,B
+-10021761.8353,3147948.0472,Federal,,1223,Bureau of Ocean Energy Management,1627,,A (Atlantis)
+-10292696.8623,3321991.4993,Federal,,21037,Bureau of Ocean Energy Management,1628,,G
+-10047715.3307,3331863.8349,Federal,,1979,Bureau of Ocean Energy Management,1629,,Z
+-10263148.9765,3308609.856,Federal,,1486,Bureau of Ocean Energy Management,1630,,C
+-10247356.9534,3431758.9444,Federal,,1890,Bureau of Ocean Energy Management,1631,,227
+-10748177.8696,3256756.5025,Federal,,1985,Bureau of Ocean Energy Management,1632,,7
+-10162145.6272,3371846.5554,Federal,,2019,Bureau of Ocean Energy Management,1633,,3
+-10062672.9877,3356942.9688,Federal,,2014,Bureau of Ocean Energy Management,1634,,J
+-10062233.1737,3358131.5421,Federal,,1884,Bureau of Ocean Energy Management,1635,,I
+-10317721.0663,3270954.7896,Federal,,1991,Bureau of Ocean Energy Management,1636,,B
+-10235592.6417,3349746.2302,Federal,,2024,Bureau of Ocean Energy Management,1637,,F
+-9996993.874,3369347.2956,Federal,,2035,Bureau of Ocean Energy Management,1638,,FF
+-10092129.4002,3371626.5258,Federal,,1984,Bureau of Ocean Energy Management,1639,,10
+-10358291.0845,3460999.3934,Federal,,1995,Bureau of Ocean Energy Management,1640,,O
+-10222520.0408,3285677.4872,Federal,,2029,Bureau of Ocean Energy Management,1641,,D
+-10020862.9604,3370501.9995,Federal,,2006,Bureau of Ocean Energy Management,1642,,O
+-10354429.8115,3462690.7748,Federal,,1955,Bureau of Ocean Energy Management,1643,,C
+-10100433.2711,3347014.0361,Federal,,2018,Bureau of Ocean Energy Management,1644,,C
+-10039322.7031,3369427.2167,Federal,,2002,Bureau of Ocean Energy Management,1645,,2
+-10029811.5055,3386103.4136,Federal,,2030,Bureau of Ocean Energy Management,1646,,5
+-10384688.27,3439526.7372,Federal,,2047,Bureau of Ocean Energy Management,1647,,18
+-9885771.3864,3418499.4524,Federal,,1914,Bureau of Ocean Energy Management,1648,,G
+-10419312.1253,3464268.1811,Federal,,2038,Bureau of Ocean Energy Management,1649,,D
+-10038114.8198,3367849.206,Federal,,1490,Bureau of Ocean Energy Management,1650,,B-AUX
+-10119177.1944,3314851.4584,Federal,,20481,Bureau of Ocean Energy Management,1651,,E-AUX
+-10045709.3899,3375790.3245,Federal,,21090,Bureau of Ocean Energy Management,1652,,GE
+-10419127.3328,3396668.4841,Federal,,2053,Bureau of Ocean Energy Management,1653,,1
+-9871456.2635,3436430.9139,Federal,,2041,Bureau of Ocean Energy Management,1654,,A
+-10156713.9097,3346460.0193,Federal,,2048,Bureau of Ocean Energy Management,1655,,L
+-10451574.2933,3300965.8222,Federal,,2050,Bureau of Ocean Energy Management,1656,,A
+-10002362.4773,3376662.5046,Federal,,1798,Bureau of Ocean Energy Management,1657,,JP
+-10098259.8548,3164283.7353,Federal,,1819,Bureau of Ocean Energy Management,1658,,A-Tahiti-SPAR
+-9840523.2487,3282746.9512,Federal,,2045,Bureau of Ocean Energy Management,1659,,A(Thunder Hawk)
+-10010300.644,3169819.7525,Federal,,1799,Bureau of Ocean Energy Management,1660,,A (Neptune TLP)
+-10500083.1819,3235537.535,Federal,,2027,Bureau of Ocean Energy Management,1661,,A
+-9881606.5231,3428993.0008,Federal,,2067,Bureau of Ocean Energy Management,1662,,1
+-10206226.8351,3405709.1679,Federal,,2039,Bureau of Ocean Energy Management,1663,,E
+-9868328.9172,3441749.7898,Federal,,2077,Bureau of Ocean Energy Management,1664,,3
+-10217106.4437,3422904.2266,Federal,,2059,Bureau of Ocean Energy Management,1665,,F
+-10223291.3778,3374570.8283,Federal,,2068,Bureau of Ocean Energy Management,1666,,1
+-10079174.3227,3349650.7326,Federal,,2078,Bureau of Ocean Energy Management,1667,,1
+-10238793.7846,3371063.6152,Federal,,2079,Bureau of Ocean Energy Management,1668,,34
+-10328296.0712,3265397.6633,Federal,,2063,Bureau of Ocean Energy Management,1669,,A
+-10349237.9123,3379780.3469,Federal,,2086,Bureau of Ocean Energy Management,1670,,1
+-10206718.9125,3357529.4935,Federal,,2090,Bureau of Ocean Energy Management,1671,,1
+-10423648.7371,3423789.7538,Federal,,2098,Bureau of Ocean Energy Management,1672,,4
+-10242536.4052,3403097.4401,Federal,,2091,Bureau of Ocean Energy Management,1673,,A
+-10415085.5964,3465908.8036,Federal,,2105,Bureau of Ocean Energy Management,1674,,3
+-10384346.0049,3441906.2054,Federal,,21142,Bureau of Ocean Energy Management,1675,,H
+-9975491.7529,3394501.1917,Federal,,2107,Bureau of Ocean Energy Management,1676,,37
+-10198481.8311,3402157.0429,Federal,,26009,Bureau of Ocean Energy Management,1677,,B
+-10386446.6797,3455785.1754,Federal,,1544,Bureau of Ocean Energy Management,1678,,A-Aux
+-10754045.3597,3254318.4019,Federal,,2127,Bureau of Ocean Energy Management,1679,,D
+-10415697.8811,3456403.5495,Federal,,2119,Bureau of Ocean Energy Management,1680,,3
+-10246829.0234,3436013.5501,Federal,,2121,Bureau of Ocean Energy Management,1681,,228
+-9796247.0579,3524341.4122,Federal,,2134,Bureau of Ocean Energy Management,1682,,D
+-10237401.2212,3325627.7545,Federal,,2117,Bureau of Ocean Energy Management,1683,,F
+-10255259.7798,3276241.0631,Federal,,2138,Bureau of Ocean Energy Management,1684,,D
+-10237758.8745,3404098.2071,Federal,,2140,Bureau of Ocean Energy Management,1685,,1
+-10172066.0243,3267928.5818,Federal,,2144,Bureau of Ocean Energy Management,1686,,B
+-10173491.5883,3407397.3527,Federal,,2145,Bureau of Ocean Energy Management,1687,,15
+-10213900.6835,3423995.9275,Federal,,2103,Bureau of Ocean Energy Management,1688,,H
+-10213900.6835,3423995.9275,Federal,,2103,Bureau of Ocean Energy Management,1689,,H-AUX
+-10188650.3735,3400316.338,Federal,,514,Bureau of Ocean Energy Management,1690,,VP-Aux
+-9969172.4253,3393045.1967,Federal,,2129,Bureau of Ocean Energy Management,1691,,18
+-10128176.5479,3351503.7015,Federal,,2155,Bureau of Ocean Energy Management,1692,,1
+-10182367.3898,3303372.2001,Federal,,2146,Bureau of Ocean Energy Management,1693,,F
+-10399782.318,3427657.199,Federal,,2046,Bureau of Ocean Energy Management,1694,,CASSION 5
+-10749756.087,3258223.5075,Federal,,2161,Bureau of Ocean Energy Management,1695,,8
+-10247350.9704,3437858.9673,Federal,,2159,Bureau of Ocean Energy Management,1696,,229
+-10247046.1888,3434818.4431,Federal,,2158,Bureau of Ocean Energy Management,1697,,230
+-10124104.3824,3355565.9646,Federal,,23908,Bureau of Ocean Energy Management,1698,,B-COMP
+-10405462.3038,3355292.0209,Federal,,2166,Bureau of Ocean Energy Management,1699,,1
+-10385202.8062,3439757.1161,Federal,,2168,Bureau of Ocean Energy Management,1700,,19
+-10223931.2239,3309159.6959,Federal,,2171,Bureau of Ocean Energy Management,1701,,J
+-10208787.2592,3413825.5797,Federal,,2170,Bureau of Ocean Energy Management,1702,,2
+-10162706.8559,3355149.5672,Federal,,2173,Bureau of Ocean Energy Management,1703,,1
+-10108344.173,3323154.6127,Federal,,2176,Bureau of Ocean Energy Management,1704,,B
+-10023655.0457,3370739.5758,Federal,,20039,Bureau of Ocean Energy Management,1705,,D-Aux
+-9872938.2967,3445469.665,Federal,,2206,Bureau of Ocean Energy Management,1706,,E
+-10747179.9344,3260026.8237,Federal,,2178,Bureau of Ocean Energy Management,1707,,9
+-10168108.2958,3369165.9306,Federal,,2180,Bureau of Ocean Energy Management,1708,,B
+-10248370.4109,3431970.8143,Federal,,21411,Bureau of Ocean Energy Management,1709,,A-SEPARATOR
+-10204996.9274,3284749.6149,Federal,,2191,Bureau of Ocean Energy Management,1710,,C
+-9872607.4558,3446440.1777,Federal,,2201,Bureau of Ocean Energy Management,1711,,D
+-10123705.2643,3358139.481,Federal,,2187,Bureau of Ocean Energy Management,1712,,10
+-10248310.2633,3431971.901,Federal,,21411,Bureau of Ocean Energy Management,1713,,A-CRANE
+-10107899.5792,3352374.2467,Federal,,2202,Bureau of Ocean Energy Management,1714,,8
+-10246829.2168,3436044.8436,Federal,,2121,Bureau of Ocean Energy Management,1715,,A
+-10264096.0677,3408881.6251,Federal,,2208,Bureau of Ocean Energy Management,1716,,2
+-10124400.0666,3373160.6885,Federal,,2211,Bureau of Ocean Energy Management,1717,,15
+-10246252.0626,3434074.509,Federal,,2260,Bureau of Ocean Energy Management,1718,,233
+-10125357.6858,3373180.6594,Federal,,2217,Bureau of Ocean Energy Management,1719,,16
+-10312616.9982,3438612.7999,Federal,,2219,Bureau of Ocean Energy Management,1720,,A
+-10246703.4929,3436930.376,Federal,,2221,Bureau of Ocean Energy Management,1721,,231
+-10247133.2217,3436941.75,Federal,,2220,Bureau of Ocean Energy Management,1722,,232
+-10546403.4287,3269257.0009,Federal,,2222,Bureau of Ocean Energy Management,1723,,A
+-10248300.6595,3432001.8605,Federal,,21411,Bureau of Ocean Energy Management,1724,,A-HP Vent Scrub
+-9872348.0177,3446208.5218,Federal,,2226,Bureau of Ocean Energy Management,1725,,E
+-10341128.5577,3451177.5059,Federal,,2224,Bureau of Ocean Energy Management,1726,,13
+-10033786.9784,3161116.1209,Federal,,1899,Bureau of Ocean Energy Management,1727,,A (MTLP Shenzi)
+-10534683.7235,3324090.2423,Federal,,2225,Bureau of Ocean Energy Management,1728,,Never Installed
+-10424484.307,3244234.829,Federal,,2245,Bureau of Ocean Energy Management,1729,,C
+-10159325.2269,3340929.537,Federal,,2228,Bureau of Ocean Energy Management,1730,,15
+-10102022.6877,3347515.0833,Federal,,2240,Bureau of Ocean Energy Management,1731,,C
+-9862141.6231,3429224.9099,Federal,,2233,Bureau of Ocean Energy Management,1732,,E
+-9860209.955,3431046.9165,Federal,,2234,Bureau of Ocean Energy Management,1733,,D
+-10182392.2879,3383054.7392,Federal,,26111,Bureau of Ocean Energy Management,1734,,JD
+-9825691.2957,3292134.3707,Federal,,1930,Bureau of Ocean Energy Management,1735,,A (Blind Faith)
+-10309937.3291,3300900.233,Federal,,2238,Bureau of Ocean Energy Management,1736,,D
+-10065382.183,3364112.8934,Federal,,2247,Bureau of Ocean Energy Management,1737,,A
+-9894683.0548,3420672.3128,Federal,,2257,Bureau of Ocean Energy Management,1738,,A
+-10271197.7725,3333782.0297,Federal,,2261,Bureau of Ocean Energy Management,1739,,A
+-10332026.4749,3404866.839,Federal,,2268,Bureau of Ocean Energy Management,1740,,A
+-10123963.1209,3350539.0267,Federal,,2249,Bureau of Ocean Energy Management,1741,,2
+-10248207.733,3431851.9996,Federal,,21411,Bureau of Ocean Energy Management,1742,,A-Water Treatin
+-10216909.2191,3424426.1146,Federal,,2253,Bureau of Ocean Energy Management,1743,,G
+-10216909.2202,3424426.4659,Federal,,2253,Bureau of Ocean Energy Management,1744,,G-AUX
+-10108819.4797,3325473.3517,Federal,,2246,Bureau of Ocean Energy Management,1745,,C
+-10355504.1703,3349956.7112,Federal,,2265,Bureau of Ocean Energy Management,1746,,1
+-10390990.642,3283196.8016,Federal,,2273,Bureau of Ocean Energy Management,1747,,Never Installed
+-10351426.6393,3418578.254,Federal,,2275,Bureau of Ocean Energy Management,1748,,D
+-10237001.0478,3407073.7655,Federal,,2280,Bureau of Ocean Energy Management,1749,,2
+-10246718.6604,3436950.3258,Federal,,2221,Bureau of Ocean Energy Management,1750,,B
+-10419316.491,3464276.2015,Federal,,2038,Bureau of Ocean Energy Management,1751,,D-AUX 1
+-9902466.0231,3383825.7254,Federal,,2333,Bureau of Ocean Energy Management,1752,,F
+-9838789.2553,3467603.5374,Federal,,2343,Bureau of Ocean Energy Management,1753,,A
+-10368381.2277,3368540.5236,Federal,,2340,Bureau of Ocean Energy Management,1754,,B
+-10564005.6683,3015096.0101,Federal,,2008,Bureau of Ocean Energy Management,1755,,A(Perdido)
+-10400048.228,3374053.9941,Federal,,2345,Bureau of Ocean Energy Management,1756,,1
+-10179995.2083,3383718.9253,Federal,,2346,Bureau of Ocean Energy Management,1757,,JE
+-10400083.1509,3361000.9504,Federal,,2347,Bureau of Ocean Energy Management,1758,,1
+-10239067.8056,3371264.6468,Federal,,2352,Bureau of Ocean Energy Management,1759,,58
+-10108386.0003,3321666.9484,Federal,,2353,Bureau of Ocean Energy Management,1760,,C
+-10183999.7858,3373015.4165,Federal,,139,Bureau of Ocean Energy Management,1761,,33 AUX
+-10184439.7342,3386066.0973,Federal,,2370,Bureau of Ocean Energy Management,1762,,E
+-9899245.1916,3448289.7689,Federal,,2369,Bureau of Ocean Energy Management,1763,,(NO INSTALL)
+-10028642.6701,3369944.0469,Federal,,2367,Bureau of Ocean Energy Management,1764,,A
+-10213909.2747,3423955.496,Federal,,2103,Bureau of Ocean Energy Management,1765,,H-CMP
+-9991152.2269,3370144.0552,Federal,,2374,Bureau of Ocean Energy Management,1766,,B (Newfield)
+-10347146.37,3315409.1234,Federal,,2357,Bureau of Ocean Energy Management,1767,,B
+-10318721.4872,3271728.6324,Federal,,2387,Bureau of Ocean Energy Management,1768,,C
+-10142161.3654,3214978.6425,Federal,,2133,Bureau of Ocean Energy Management,1769,,B(Helix)
+-9918653.9159,3253250.0681,Federal,,2089,Bureau of Ocean Energy Management,1770,,A(Mirage/Titan)
+-9863015.6453,3449219.4163,Federal,,2395,Bureau of Ocean Energy Management,1771,,A
+-10291036.5099,3323525.5467,Federal,,2410,Bureau of Ocean Energy Management,1772,,H
+-10108915.5751,3362177.6518,Federal,,2390,Bureau of Ocean Energy Management,1773,,E
+-10072280.1588,3357672.7686,Federal,,24144,Bureau of Ocean Energy Management,1774,,CK
+-9900155.515,3421483.8996,Federal,,2400,Bureau of Ocean Energy Management,1775,,I
+-10174130.3215,3289889.5136,Federal,,2412,Bureau of Ocean Energy Management,1776,,C
+-10218708.1466,3323727.4514,Federal,,2414,Bureau of Ocean Energy Management,1777,,G
+-10505226.5226,3398825.5946,Federal,,2419,Bureau of Ocean Energy Management,1778,,2
+-10081284.3744,3324868.0712,Federal,,2420,Bureau of Ocean Energy Management,1779,,2
+-9863250.1691,3397536.0243,Federal,,2418,Bureau of Ocean Energy Management,1780,,A
+-10266663.4551,3365596.7285,Federal,,2423,Bureau of Ocean Energy Management,1781,,A
+-10248387.4052,3442346.2909,Federal,,2411,Bureau of Ocean Energy Management,1782,,"""A"" Sump"
+-10549101.6204,3273501.7402,Federal,,2428,Bureau of Ocean Energy Management,1783,,A
+-9867604.6736,3446596.6232,Federal,,2431,Bureau of Ocean Energy Management,1784,,8
+-9863250.1691,3397536.0243,Federal,,2430,Bureau of Ocean Energy Management,1785,,A
+-10383551.3892,3424364.0387,Federal,,2438,Bureau of Ocean Energy Management,1786,,10
+-9976638.1139,3365515.2353,Federal,,2443,Bureau of Ocean Energy Management,1787,,D
+-10077418.8594,3376190.6703,Federal,,2394,Bureau of Ocean Energy Management,1788,,Never Installed
+-10131870.1089,3349518.6367,Federal,,2456,Bureau of Ocean Energy Management,1789,,1
+-9909242.372,3301478.3946,Federal,,2424,Bureau of Ocean Energy Management,1790,,A-WHO DAT
+-10205557.4151,3343497.2818,Federal,,2451,Bureau of Ocean Energy Management,1791,,3
+-9776462.5616,3525990.0586,Federal,,2467,Bureau of Ocean Energy Management,1792,,2
+-10505221.4839,3398811.7073,Federal,,2419,Bureau of Ocean Energy Management,1793,,D
+-9967811.2847,3392759.2247,Federal,,2468,Bureau of Ocean Energy Management,1794,,B
+-10075349.832,3085600.8886,Federal,,2229,Bureau of Ocean Energy Management,1795,,A-BW Pioneer
+-10250181.4393,3421820.1617,Federal,,2475,Bureau of Ocean Energy Management,1796,,2
+-9788205.2591,3206592.5126,Federal,,90200,Bureau of Ocean Energy Management,1797,,Manifold (Jubil
+-10022329.0716,3151567.5692,Federal,,90201,Bureau of Ocean Energy Management,1798,,Manifold 2
+-10022317.9817,3151539.464,Federal,,90202,Bureau of Ocean Energy Management,1799,,Manifold 4
+-9908702.5374,3307223.1708,Federal,,90203,Bureau of Ocean Energy Management,1800,,Manifold A
+-9912299.3649,3305219.0355,Federal,,90204,Bureau of Ocean Energy Management,1801,,Manifold E1
+-9912305.357,3305246.9217,Federal,,90205,Bureau of Ocean Energy Management,1802,,Manifold E2
+-9863690.2206,3273853.5475,Federal,,90206,Bureau of Ocean Energy Management,1803,,Manifold P-30-M
+-9916908.6004,3306134.467,Federal,,90207,Bureau of Ocean Energy Management,1804,,Production Mani
+-9912303.6175,3305222.7852,Federal,,90208,Bureau of Ocean Energy Management,1805,,South manifold
+-9764370.429,3292650.4305,Federal,,90209,Bureau of Ocean Energy Management,1806,,SS Manifold
+-10108788.6956,3156821.0794,Federal,,90210,Bureau of Ocean Energy Management,1807,,SS Manifold
+-10126711.3657,3151484.752,Federal,,90211,Bureau of Ocean Energy Management,1808,,SS MANIFOLD
+-9818579.404,3287864.8021,Federal,,90212,Bureau of Ocean Energy Management,1809,,SS Manifold
+-9998309.9351,3167055.202,Federal,,90213,Bureau of Ocean Energy Management,1810,,SS Manifold SLE
+-10544742.2794,3127150.3678,Federal,,90214,Bureau of Ocean Energy Management,1811,,SSMANIFO
+-10049665.5562,3209159.2587,Federal,,90215,Bureau of Ocean Energy Management,1812,,SSMANIFO
+-10298778.7082,3233370.2529,Federal,,90216,Bureau of Ocean Energy Management,1813,,SSMANIFO P/L SL
+-10135107.6876,3211064.6636,Federal,,90217,Bureau of Ocean Energy Management,1814,,SSMANIFOLD
+-9881409.9174,3274349.9542,Federal,,90218,Bureau of Ocean Energy Management,1815,,SW Manifold
+-9882263.3336,3278957.8448,Federal,,90219,Bureau of Ocean Energy Management,1816,,Manifold
+-10048140.6545,3178838.8596,Federal,,90220,Bureau of Ocean Energy Management,1817,,prod manifold
+-10073512.719,3090790.5753,Federal,,90221,Bureau of Ocean Energy Management,1818,,SS Manifold
+-10077820.6688,3063622.303,Federal,,90222,Bureau of Ocean Energy Management,1819,,SS Manifold
+-9807759.8862,3307627.9111,Federal,,90223,Bureau of Ocean Energy Management,1820,,SS MANIFOLD F-5
+-10565173.0599,3125708.3909,Federal,,90224,Bureau of Ocean Energy Management,1821,,Subsea Manifold
+-10106368.3265,3212725.9406,Federal,,90225,Bureau of Ocean Energy Management,1822,,Aspen II Manifo
+-10035969.2717,3165713.7006,Federal,,90226,Bureau of Ocean Energy Management,1823,,K Manifold
+-9787100.8432,3218304.6657,Federal,,90227,Bureau of Ocean Energy Management,1824,,Manifold
+-9788228.4666,3206581.568,Federal,,90228,Bureau of Ocean Energy Management,1825,,Manifold
+-10022355.5475,3151635.0925,Federal,,90229,Bureau of Ocean Energy Management,1826,,Manifold 5
+-10031065.6176,3163066.1997,Federal,,90230,Bureau of Ocean Energy Management,1827,,Manifold B2
+-10035175.2229,3164398.9578,Federal,,90231,Bureau of Ocean Energy Management,1828,,Manifold C1
+-10028389.919,3163891.1808,Federal,,90232,Bureau of Ocean Energy Management,1829,,Manifold G1
+-10534047.8073,3170147.7401,Federal,,90233,Bureau of Ocean Energy Management,1830,,MANIFOLD H3
+-10101351.2886,3168463.6927,Federal,,90234,Bureau of Ocean Energy Management,1831,,PN Manifold
+-9975922.2856,3276826.2048,Federal,,90235,Bureau of Ocean Energy Management,1832,,Production Mani
+-10102635.4659,3163136.6393,Federal,,90236,Bureau of Ocean Energy Management,1833,,PS Manifold
+-10358546.528,3260243.9269,Federal,,90237,Bureau of Ocean Energy Management,1834,,SS Manifold
+-10031155.6543,3163162.158,Federal,,90238,Bureau of Ocean Energy Management,1835,,Manifold B1
+-9858298.1634,3276185.772,Federal,,90239,Bureau of Ocean Energy Management,1836,,Manifold P-32-M
+-10111851.2053,3151466.7187,Federal,,90240,Bureau of Ocean Energy Management,1837,,SS Manifold
+-9813303.862,3242227.1888,Federal,,90241,Bureau of Ocean Energy Management,1838,,SS Manifold Ple
+-10639178.8767,3166889.6312,Federal,,90242,Bureau of Ocean Energy Management,1839,,SSMANIFO
+-10297446.7761,3227707.8568,Federal,,90243,Bureau of Ocean Energy Management,1840,,SSMANIFO
+-9785996.3718,3206944.8736,Federal,,90244,Bureau of Ocean Energy Management,1841,,SSMANIFO Plet
+-9844595.5705,3324593.0537,Federal,,90245,Bureau of Ocean Energy Management,1842,,SSMANIFO N1 SLE
+-9844591.8796,3324645.1278,Federal,,90246,Bureau of Ocean Energy Management,1843,,SSMANIFO N2 Sle
+-9833858.4825,3320929.237,Federal,,90247,Bureau of Ocean Energy Management,1844,,SSMANIFO Sled N
+-9807555.7306,3308657.4286,Federal,,90248,Bureau of Ocean Energy Management,1845,,SSMANIFO SLED S
+-9818933.8888,3300166.019,Federal,,90249,Bureau of Ocean Energy Management,1846,,SSMANIFO SLED S
+-9955441.1382,3251036.1642,Federal,,90250,Bureau of Ocean Energy Management,1847,,Subsea Manifold
+-9862446.6588,3337772.8781,Federal,,90251,Bureau of Ocean Energy Management,1848,,East Plet
+-9794304.2159,3362102.5378,Federal,,90252,Bureau of Ocean Energy Management,1849,,KW5 PLET
+-10533912.7271,3171828.7312,Federal,,90253,Bureau of Ocean Energy Management,1850,,PIGGING PLET
+-10300893.5732,3208422.6854,Federal,,90254,Bureau of Ocean Energy Management,1851,,PLET
+-10089733.0471,3170112.0589,Federal,,90255,Bureau of Ocean Energy Management,1852,,PLET
+-9811635.013,3251923.6625,Federal,,90256,Bureau of Ocean Energy Management,1853,,PLET
+-9820727.9524,3398238.9683,Federal,,90257,Bureau of Ocean Energy Management,1854,,PLET
+-9840197.3646,3391315.2445,Federal,,90258,Bureau of Ocean Energy Management,1855,,PLET
+-10077780.0436,3063682.0856,Federal,,90259,Bureau of Ocean Energy Management,1856,,PLET
+-10075487.1557,3085217.0026,Federal,,90260,Bureau of Ocean Energy Management,1857,,PLET (CH01-R-PL
+-9770516.3125,3193165.4115,Federal,,90261,Bureau of Ocean Energy Management,1858,,Plet (SN 15152)
+-9788192.5936,3206574.6985,Federal,,90262,Bureau of Ocean Energy Management,1859,,PLET (Well 2
+-10022380.599,3151688.0623,Federal,,90263,Bureau of Ocean Energy Management,1860,,PLET DC3-P-1
+-10022506.8358,3154853.5486,Federal,,90264,Bureau of Ocean Energy Management,1861,,PLET DC3-P-2
+-10022503.1567,3154820.1463,Federal,,90265,Bureau of Ocean Energy Management,1862,,PLET DC3-T-1
+-10022529.2435,3154835.5689,Federal,,90266,Bureau of Ocean Energy Management,1863,,PLET DC3-T-2
+-10035126.181,3164370.6766,Federal,,90267,Bureau of Ocean Energy Management,1864,,PLET GL1-1
+-10031098.5778,3163062.659,Federal,,90268,Bureau of Ocean Energy Management,1865,,PLET P5-1
+-10031074.9434,3163039.7251,Federal,,90269,Bureau of Ocean Energy Management,1866,,PLET P6-1
+-9815012.6587,3307896.219,Federal,,90270,Bureau of Ocean Energy Management,1867,,PLET S-08
+-10033777.1827,3161102.2671,Federal,,90271,Bureau of Ocean Energy Management,1868,,PLET WI2-3
+-9776172.2639,3293679.8706,Federal,,90272,Bureau of Ocean Energy Management,1869,,SS PLET
+-10336865.4415,3183139.7941,Federal,,90273,Bureau of Ocean Energy Management,1870,,SS PLET 2
+-10048293.2747,3174797.9131,Federal,,90274,Bureau of Ocean Energy Management,1871,,SSTI EAST PLET
+-10048346.321,3174828.8766,Federal,,90275,Bureau of Ocean Energy Management,1872,,SSTI WEST PLET
+-9882249.2211,3278945.3686,Federal,,90276,Bureau of Ocean Energy Management,1873,,Triton 3 PLET
+-9956954.3315,3253733.7794,Federal,,90277,Bureau of Ocean Energy Management,1874,,WELL A7 NORTH P
+-9956954.3315,3253733.7794,Federal,,90278,Bureau of Ocean Energy Management,1875,,Well A7 SOUTH P
+-9899608.1965,3342733.4392,Federal,,90279,Bureau of Ocean Energy Management,1876,,well 1 PLET
+-9862448.9755,3337774.425,Federal,,90280,Bureau of Ocean Energy Management,1877,,West Plet
+-10101185.0318,3162864.3094,Federal,,90281,Bureau of Ocean Energy Management,1878,,40-PLET-01
+-10534550.1387,3173637.5934,Federal,,90282,Bureau of Ocean Energy Management,1879,,DRYSDALE PLET H
+-9958992.3661,3304070.8532,Federal,,90283,Bureau of Ocean Energy Management,1880,,East PLET
+-9771360.7321,3362219.1958,Federal,,90284,Bureau of Ocean Energy Management,1881,,Gas PLET 3
+-9876896.8797,3273694.7158,Federal,,90285,Bureau of Ocean Energy Management,1882,,Gold 2 PLET
+-9800419.7256,3396176.9757,Federal,,90286,Bureau of Ocean Energy Management,1883,,Nile PLET
+-9771670.2884,3404803.4885,Federal,,90287,Bureau of Ocean Energy Management,1884,,PLET
+-10014765.7782,3260705.6296,Federal,,90288,Bureau of Ocean Energy Management,1885,,PLET
+-10080926.2809,3246207.2242,Federal,,90289,Bureau of Ocean Energy Management,1886,,PLET
+-10248175.6409,3019013.1529,Federal,,90290,Bureau of Ocean Energy Management,1887,,PLET
+-9949036.752,3305924.3813,Federal,,90291,Bureau of Ocean Energy Management,1888,,PLET
+-9969007.2196,3266779.683,Federal,,90292,Bureau of Ocean Energy Management,1889,,PLET
+-10125603.699,3159291.6804,Federal,,90293,Bureau of Ocean Energy Management,1890,,PLET 3
+-10251602.0806,3212751.7714,Federal,,90294,Bureau of Ocean Energy Management,1891,,PLET (North Tie
+-10289646.4462,3181634.4483,Federal,,90295,Bureau of Ocean Energy Management,1892,,PLET A
+-10535305.5364,3172508.4443,Federal,,90296,Bureau of Ocean Energy Management,1893,,PLET C
+-10031071.7788,3163012.4449,Federal,,90297,Bureau of Ocean Energy Management,1894,,PLET GL2-1
+-10035183.187,3164365.7846,Federal,,90298,Bureau of Ocean Energy Management,1895,,PLET P1-1
+-10035174.6039,3164396.5984,Federal,,90299,Bureau of Ocean Energy Management,1896,,PLET P2-1
+-9959005.6112,3304065.5049,Federal,,90300,Bureau of Ocean Energy Management,1897,,PLET WELL5
+-9787099.09,3218304.8834,Federal,,90301,Bureau of Ocean Energy Management,1898,,SS PLET
+-9813136.09,3242765.7538,Federal,,90302,Bureau of Ocean Energy Management,1899,,SS PLET 1B
+-10141791.1184,3216653.3172,Federal,,90303,Bureau of Ocean Energy Management,1900,,PLET
+-10518432.0484,3163783.0741,Federal,,90304,Bureau of Ocean Energy Management,1901,,PLET W Navajo
+-9848215.2296,3279429.5582,Federal,,90305,Bureau of Ocean Energy Management,1902,,SS PLET 1
+-9796832.9308,3266074.4921,Federal,,90306,Bureau of Ocean Energy Management,1903,,PLET 2A
+-9935657.1949,3280847.4767,Federal,,90307,Bureau of Ocean Energy Management,1904,,PLET
+-10549584.6035,3117958.4209,Federal,,90308,Bureau of Ocean Energy Management,1905,,SSWPLEM 1
+-10094784.7897,3132155.7997,Federal,,90309,Bureau of Ocean Energy Management,1906,,PLEM P2
+-10094812.9807,3132175.2614,Federal,,90310,Bureau of Ocean Energy Management,1907,,PLEM 4
+-10516696.6769,3167843.2239,Federal,,90311,Bureau of Ocean Energy Management,1908,,PLEM DP-1
+-9826962.8508,3305075.5045,Federal,,90312,Bureau of Ocean Energy Management,1909,,PLEM 2
+-9823987.3699,3308152.9287,Federal,,90313,Bureau of Ocean Energy Management,1910,,SA PLEM 1
+-9836958.4936,3341755.6556,Federal,,90314,Bureau of Ocean Energy Management,1911,,PLEM 3
+-10107639.4732,3219754.227,Federal,,90315,Bureau of Ocean Energy Management,1912,,PLEM 2
+-10535301.513,3172505.5204,Federal,,90316,Bureau of Ocean Energy Management,1913,,PLEM B2
+-9826975.872,3305045.1321,Federal,,90317,Bureau of Ocean Energy Management,1914,,PLEM 1
+-10232735.2389,3138649.3914,Federal,,90318,Bureau of Ocean Energy Management,1915,,PLEM 1
+-10232726.5586,3138663.7717,Federal,,90319,Bureau of Ocean Energy Management,1916,,PLEM 2
+-9813146.4608,3242765.721,Federal,,90320,Bureau of Ocean Energy Management,1917,,PLEM 1A
+-10078807.071,3231637.9651,Federal,,90321,Bureau of Ocean Energy Management,1918,,SS Manifold
+-9976648.9148,3280747.8644,Federal,,90322,Bureau of Ocean Energy Management,1919,,W58M Manifold H
+-9976674.7689,3280771.8394,Federal,,90323,Bureau of Ocean Energy Management,1920,,Well 58M Manifo
+-9994897.8578,3270639.4478,Federal,,90324,Bureau of Ocean Energy Management,1921,,Manifold
+-10074942.2075,3085655.4999,Federal,,90325,Bureau of Ocean Energy Management,1922,,PLET
+-10022531.9587,3154836.0121,Federal,,90326,Bureau of Ocean Energy Management,1923,,PLET DC3-P-2
+-9757796.0949,3239958.4984,Federal,,90327,Bureau of Ocean Energy Management,1924,,SS Plet
+-9975940.3286,3276864.0939,Federal,,90328,Bureau of Ocean Energy Management,1925,,W10 PLET
+-9976402.7296,3278376.9517,Federal,,90329,Bureau of Ocean Energy Management,1926,,W9PLET
+-10273122.9241,3153046.5205,Federal,,90330,Bureau of Ocean Energy Management,1927,,Oil PLEM
+-10300442.1386,3277881.8051,Federal,,2479,Bureau of Ocean Energy Management,1928,,A
+-10204289.3073,3273753.329,Federal,,2471,Bureau of Ocean Energy Management,1929,,K
+-10136861.9655,3281732.6009,Federal,,2469,Bureau of Ocean Energy Management,1930,,B
+-10099566.758,3346021.1604,Federal,,2484,Bureau of Ocean Energy Management,1931,,5
+-10141442.6187,3332573.7989,Federal,,2491,Bureau of Ocean Energy Management,1932,,1
+-10375580.4495,3450162.9063,Federal,,2508,Bureau of Ocean Energy Management,1933,,2
+-10043243.2171,3276778.1432,Federal,,2518,Bureau of Ocean Energy Management,1934,,J
+-10055743.1106,3336177.914,Federal,,2520,Bureau of Ocean Energy Management,1935,,A
+-10137569.4304,3329552.3413,Federal,,2522,Bureau of Ocean Energy Management,1936,,B
+-10115184.8982,3302261.2063,Federal,,2505,Bureau of Ocean Energy Management,1937,,C
+-10227605.0303,3341211.0733,Federal,,2531,Bureau of Ocean Energy Management,1938,,G
+-10272087.7228,3420393.742,Federal,,2510,Bureau of Ocean Energy Management,1939,,Never Installed
+-10164850.1406,3328477.4353,Federal,,2530,Bureau of Ocean Energy Management,1940,,1
+-9906294.2289,3444812.2308,Federal,,2532,Bureau of Ocean Energy Management,1941,,A
+-10249203.3563,3331145.0666,Federal,,2533,Bureau of Ocean Energy Management,1942,,E
+-10235122.5568,3399788.645,Federal,,2545,Bureau of Ocean Energy Management,1943,,1
+-10103322.7418,3368797.4712,Federal,,2521,Bureau of Ocean Energy Management,1944,,11
+-9971180.1611,3394222.1913,Federal,,2535,Bureau of Ocean Energy Management,1945,,19
+-10038753.6186,3373710.5722,Federal,,2534,Bureau of Ocean Energy Management,1946,,H
+-10107546.0219,3362286.34,Federal,,2549,Bureau of Ocean Energy Management,1947,,66
+-9968896.3408,3332677.4275,Federal,,23846,Bureau of Ocean Energy Management,1948,,C
+-10294042.6373,3356324.9296,Federal,,2515,Bureau of Ocean Energy Management,1949,,C
+-9969906.5813,3390859.1841,Federal,,2537,Bureau of Ocean Energy Management,1950,,DD
+-10449864.9471,3411881.7176,Federal,,2564,Bureau of Ocean Energy Management,1951,,A
+-10041231.2972,3295240.8248,Federal,,2558,Bureau of Ocean Energy Management,1952,,A
+-10261170.4486,3315570.9586,Federal,,2557,Bureau of Ocean Energy Management,1953,,I
+-9975418.3586,3392993.5484,Federal,,2569,Bureau of Ocean Energy Management,1954,,J
+-9825637.1068,3421303.1188,Federal,,2570,Bureau of Ocean Energy Management,1955,,C
+-9934057.9508,3269179.6952,Federal,,2385,Bureau of Ocean Energy Management,1956,,B(Olympus)
+-10247741.4837,3432456.0771,Federal,,2571,Bureau of Ocean Energy Management,1957,,C
+-10182648.5445,3341485.1169,Federal,,2588,Bureau of Ocean Energy Management,1958,,2
+-10459118.7991,3250882.6514,Federal,,2580,Bureau of Ocean Energy Management,1959,,C
+-10295838.6839,3301401.9667,Federal,,2594,Bureau of Ocean Energy Management,1960,,C
+-10159143.5959,3028251.6662,Federal,,2440,Bureau of Ocean Energy Management,1961,,A-Jack St. Ma
+-9906921.4193,3278663.6547,Federal,,2498,Bureau of Ocean Energy Management,1962,,Gulfstar 1
+-10245861.0351,3015472.549,Federal,,2576,Bureau of Ocean Energy Management,1963,,A (Lucius)
+-10119167.1566,3314848.286,Federal,,2573,Bureau of Ocean Energy Management,1964,,DUPLICATE-AUX-2
+-10078028.0643,3264147.6462,Federal,,2574,Bureau of Ocean Energy Management,1965,,A
+-9825873.4271,3344464.6509,Federal,,2513,Bureau of Ocean Energy Management,1966,,A-Delta House
+-10048744.8799,3326907.4696,Federal,,2628,Bureau of Ocean Energy Management,1967,,AA
+-10035294.2056,3335472.5485,Federal,,2629,Bureau of Ocean Energy Management,1968,,K
+-10248321.773,3431966.9072,Federal,,21411,Bureau of Ocean Energy Management,1969,,A-SUMP
+-10181339.139,3408847.8682,Federal,,581,Bureau of Ocean Energy Management,1970,,4
+-10119167.1566,3314848.286,Federal,,20481,Bureau of Ocean Energy Management,1971,,E-Aux-2
+-10038275.1917,3373449.2501,Federal,,21782,Bureau of Ocean Energy Management,1972,,BS-1
+-10038275.1917,3373449.2501,Federal,,21782,Bureau of Ocean Energy Management,1973,,BS-2
+-9936619.5825,3375172.0154,Federal,,2704,Bureau of Ocean Energy Management,1974,,316
+-10150586.1039,3392433.0146,Federal,,2678,Bureau of Ocean Energy Management,1975,,41
+-10080690.5821,3187243.2093,Federal,,2660,Bureau of Ocean Energy Management,1976,,A (STAMPEDE)
+-10012800.9111,3371084.6284,Federal,,2697,Bureau of Ocean Energy Management,1977,,1
+-10013010.4482,3269236.666,Federal,,2606,Bureau of Ocean Energy Management,1978,,A
+-9951500.5362,3337122.5972,Federal,,1093,Bureau of Ocean Energy Management,1979,,E-AUX
+-10015135.5378,3395167.5784,Federal,,2702,Bureau of Ocean Energy Management,1980,,State GI 17S
+-10245489.6415,3430368.0837,Federal,,2692,Bureau of Ocean Energy Management,1981,,234
+-9856167.7541,3416761.8051,Federal,,2644,Bureau of Ocean Energy Management,1982,,B
+-10096106.9682,3363578.8598,Federal,,26024,Bureau of Ocean Energy Management,1983,,G
+-10257617.9331,3324752.1675,Federal,,2656,Bureau of Ocean Energy Management,1984,,F
+-10332897.5776,3262043.5546,Federal,,2711,Bureau of Ocean Energy Management,1985,,B
+-10032353.9423,3382579.8207,Federal,,2669,Bureau of Ocean Energy Management,1986,,Well 1
+-10111541.086,3052193.4784,Federal,,2503,Bureau of Ocean Energy Management,1987,,A-Turritella
+-10148068.814,3389835.1986,Federal,,2648,Bureau of Ocean Energy Management,1988,,Z-TRANSCO
+-10076735.95,3115019.262,Federal,,2422,Bureau of Ocean Energy Management,1989,,A-Big Foot
+-10251447.0795,3333309.5315,Federal,,2694,Bureau of Ocean Energy Management,1990,,G
+-10163221.1791,3353455.7684,Federal,,2672,Bureau of Ocean Energy Management,1991,,1
+-9788790.6881,3321504.7437,Federal,,2623,Bureau of Ocean Energy Management,1992,,A-Appomattox
+-10059461.1046,3145170.0807,Federal,,2665,Bureau of Ocean Energy Management,1993,,ARGOS
+-10029665.7692,3188580.2109,Federal,,2710,Bureau of Ocean Energy Management,1994,,"A-""Kings Quay"""
+-10097774.935,3370354.3772,Federal,,22442,Bureau of Ocean Energy Management,1995,,11
+-16552787.8454,11230718.3996,Joint Alaska/Federal,Artificial Island,,Bureau of Ocean Energy Management,1996,Hilcorp Alaska LLC. and Murphy Oil Company,Northstar Island (Seal Island)
+-10463794.6622,3447135.6256,Texas,Platform,GOM-10-924,Texas General Land Office,1997,,
+-10464233.2294,3447062.13,Texas,Platform,GOM-10-926,Texas General Land Office,1998,,
+-10621593.5972,3338144.6266,Texas,Platform,GOM-366-2545,Texas General Land Office,1999,,
+-10635098.9717,3339200.531,Texas,Platform,GOM-369-2540,Texas General Land Office,2000,,
+-10634872.942,3338090.4815,Texas,Platform,GOM-369-2547,Texas General Land Office,2001,,
+-10679660.7042,3306966.0238,Texas,Platform,GOM-479-2786,Texas General Land Office,2002,,
+-10534309.4207,3427809.1163,Texas,Platform,GOM-182-1478,Texas General Land Office,2003,,
+-10815596.9784,3260288.3241,Texas,Platform,COPB-96-3127,Texas General Land Office,2004,,
+-10816061.1892,3259832.985,Texas,Platform,COPB-96-3135,Texas General Land Office,2005,,
+-10815627.3142,3259376.9813,Texas,Platform,COPB-96-3144,Texas General Land Office,2006,,
+-10621376.9358,3343666.4874,Texas,Platform,GOM-340-2516,Texas General Land Office,2007,,
+-10487474.1813,3436967.1966,Texas,Platform,GOM-31-1280,Texas General Land Office,2008,,
+-10555528.344,3391760.3803,Texas,Platform,GOM-214-1867,Texas General Land Office,2009,,
+-10767070.2984,3256075.0266,Texas,Platform,GOM-629-3178,Texas General Land Office,2010,,
+-10474390.7956,3442339.77,Texas,Platform,GOM-23-1165,Texas General Land Office,2011,,
+-10476419.0613,3442754.7918,Texas,Platform,GOM-24-1153,Texas General Land Office,2012,,
+-10476500.3134,3442774.3808,Texas,Platform,GOM-24-1152,Texas General Land Office,2013,,
+-10477382.6856,3442956.6357,Texas,Platform,GOM-24-1138,Texas General Land Office,2014,,
+-10667084.5599,3315214.3199,Texas,Platform,GOM-440-2711,Texas General Land Office,2015,,
+-10668946.8738,3314667.7602,Texas,Platform,GOM-441-2713,Texas General Land Office,2016,,
+-10728816.8983,3278301.8358,Texas,Platform,GOM-563-2927,Texas General Land Office,2017,,
+-10730107.5515,3278198.6017,Texas,Platform,GOM-562-2928,Texas General Land Office,2018,,
+-10618535.2786,3351547.7033,Texas,Platform,GOM-414-2321,Texas General Land Office,2019,,
+-10584715.7542,3444315.5509,Texas,Platform,CLLA-1-1066,Texas General Land Office,2020,,
+-10668445.1679,3315762.6338,Texas,Platform,GOM-441-2710,Texas General Land Office,2021,,
+-10680984.3074,3310526.9524,Texas,Platform,GOM-446-2749,Texas General Land Office,2022,,
+-10681414.1739,3310752.2998,Texas,Platform,GOM-446-2746,Texas General Land Office,2023,,
+-10496814.6232,3432246.3017,Texas,Platform,GOM-55-1440,Texas General Land Office,2024,,
+-10497831.8774,3431487.9689,Texas,Platform,GOM-55-1452,Texas General Land Office,2025,,
+-10497831.8774,3431487.9689,Texas,Platform,GOM-55-1451,Texas General Land Office,2026,,
+-10813145.6937,3261695.9104,Texas,Platform,COPB-81-3115,Texas General Land Office,2027,,
+-10814142.0949,3261612.0956,Texas,Platform,COPB-82-3117,Texas General Land Office,2028,,
+-10556500.9105,3394205.7063,Texas,Platform,GOM-186-1862,Texas General Land Office,2029,,
+-10727435.0106,3321518.7375,Texas,Platform,MB-150-2678,Texas General Land Office,2030,,
+-10705072.7423,3296905.0756,Texas,Platform,GOM-520-2859,Texas General Land Office,2031,,
+-10666812.3782,3317978.8663,Texas,Platform,GOM-440-2697,Texas General Land Office,2032,,
+-10678101.1335,3307421.6489,Texas,Platform,GOM-478-2785,Texas General Land Office,2033,,
+-10703031.4066,3301530.2447,Texas,Platform,GOM-485-2831,Texas General Land Office,2034,,
+-10703002.3308,3301833.1543,Texas,Platform,GOM-485-2815,Texas General Land Office,2035,,
+-10702412.2065,3301016.7837,Texas,Platform,GOM-485-2834,Texas General Land Office,2036,,
+-10702577.9531,3300744.3171,Texas,Platform,GOM-485-2837,Texas General Land Office,2037,,
+-10702100.9978,3300270.3802,Texas,Platform,GOM-485-2839,Texas General Land Office,2038,,
+-10706638.6037,3297854.0089,Texas,Platform,GOM-520-2853,Texas General Land Office,2039,,
+-10759744.7457,3262356.0531,Texas,Platform,GOM-628-3113,Texas General Land Office,2040,,
+-10449895.186,3461364.4397,Texas,Platform,GOM-4-656,Texas General Land Office,2041,,
+-10691060.4588,3302290.4686,Texas,Platform,GOM-487-2802,Texas General Land Office,2042,,
+-10692487.6149,3303424.1834,Texas,Platform,GOM-487-2793,Texas General Land Office,2043,,
+-10692387.5556,3302320.1764,Texas,Platform,GOM-487-2800,Texas General Land Office,2044,,
+-10548465.4103,3470973.7578,Texas,Platform,TB-22-23B-497,Texas General Land Office,2045,,
+-10477928.8583,3455112.3759,Texas,Platform,GOM-60-813,Texas General Land Office,2046,,
+-10649070.8359,3351722.6638,Texas,Platform,CCR-NT-2317,Texas General Land Office,2047,,
+-10682831.3454,3313432.6772,Texas,Platform,GOM-446-2716,Texas General Land Office,2048,,
+-10485599.2002,3451365.6745,Texas,Platform,GOM-77-830,Texas General Land Office,2049,,
+-10558292.1888,3455123.2356,Texas,Platform,GB-87-812,Texas General Land Office,2050,,
+-10555622.8681,3454691.9921,Texas,Platform,GB-86-814,Texas General Land Office,2051,,
+-10560072.5327,3454189.7461,Texas,Platform,GB-99-815,Texas General Land Office,2052,,
+-10558757.6092,3453500.2266,Texas,Platform,GB-100-821,Texas General Land Office,2053,,
+-10481115.0619,3442347.0967,Texas,Platform,GOM-24-1164,Texas General Land Office,2054,,
+-10561131.1315,3450614.8692,Texas,Platform,GB-132-838,Texas General Land Office,2055,,
+-10479861.026,3445200.455,Texas,Platform,GOM-24-1016,Texas General Land Office,2056,,
+-10480234.2842,3441473.108,Texas,Platform,GOM-24-1177,Texas General Land Office,2057,,
+-10682338.4494,3311255.8173,Texas,Platform,GOM-446-2735,Texas General Land Office,2058,,
+-10835138.853,3221161.968,Texas,Platform,CCB-62-3557,Texas General Land Office,2059,,
+-10684398.8784,3312496.8001,Texas,Platform,GOM-446-2721,Texas General Land Office,2060,,
+-10691989.8642,3300861.0829,Texas,Platform,GOM-487-2836,Texas General Land Office,2061,,
+-10691902.1059,3301316.7668,Texas,Platform,GOM-487-2832,Texas General Land Office,2062,,
+-10692665.6543,3301542.1715,Texas,Platform,GOM-487-2830,Texas General Land Office,2063,,
+-10695716.0358,3298389.9051,Texas,Platform,GOM-487-2849,Texas General Land Office,2064,,
+-10696358.2785,3297726.0265,Texas,Platform,GOM-519-2854,Texas General Land Office,2065,,
+-10703581.5447,3295306.0849,Texas,Platform,GOM-520-2867,Texas General Land Office,2066,,
+-10704623.059,3295442.8854,Texas,Platform,GOM-520-2865,Texas General Land Office,2067,,
+-10717760.3521,3282835.5485,Texas,Platform,GOM-558-2922,Texas General Land Office,2068,,
+-10829827.585,3218713.1788,Texas,Platform,CCB-49-3588,Texas General Land Office,2069,,
+-10819750.69,3194227.8872,Texas,Platform,GOM-926-3716,Texas General Land Office,2070,,
+-10816773.3067,3187778.3441,Texas,Platform,GOM-818-3727,Texas General Land Office,2071,,
+-10816532.7941,3187376.6946,Texas,Platform,GOM-818-3729,Texas General Land Office,2072,,
+-10816250.7716,3188208.3696,Texas,Platform,GOM-818-3730,Texas General Land Office,2073,,
+-10818089.2068,3187771.2942,Texas,Platform,GOM-818-3728,Texas General Land Office,2074,,
+-10551840.8434,3464331.1116,Texas,Platform,TB-6-7A-594,Texas General Land Office,2075,,
+-10548879.8314,3460554.7972,Texas,Platform,TB-1-4B-685,Texas General Land Office,2076,,
+-10556019.232,3456196.2469,Texas,Platform,GB-74-785,Texas General Land Office,2077,,
+-10558958.1083,3456656.8611,Texas,Platform,GB-88-778,Texas General Land Office,2078,,
+-10558151.6942,3456157.6942,Texas,Platform,GB-88-787,Texas General Land Office,2079,,
+-10558750.3501,3456121.3438,Texas,Platform,GB-88-788,Texas General Land Office,2080,,
+-10558828.1093,3456085.7006,Texas,Platform,GB-88-789,Texas General Land Office,2081,,
+-10558417.1637,3455778.9291,Texas,Platform,GB-88-798,Texas General Land Office,2082,,
+-10556082.7828,3456175.3673,Texas,Platform,GB-74-786,Texas General Land Office,2083,,
+-10557482.1957,3456042.2836,Texas,Platform,GB-74-792,Texas General Land Office,2084,,
+-10557184.3963,3455794.2171,Texas,Platform,GB-87-797,Texas General Land Office,2085,,
+-10557401.5614,3455655.3032,Texas,Platform,GB-87-800,Texas General Land Office,2086,,
+-10557890.8189,3455530.5535,Texas,Platform,GB-87-805,Texas General Land Office,2087,,
+-10557933.9691,3455806.5379,Texas,Platform,GB-87-796,Texas General Land Office,2088,,
+-10557827.0008,3456062.7631,Texas,Platform,GB-87-790,Texas General Land Office,2089,,
+-10557062.2335,3455643.8968,Texas,Platform,GB-87-801,Texas General Land Office,2090,,
+-10576776.8276,3435161.2245,Texas,Platform,GUBY-NT-1343,Texas General Land Office,2091,,
+-10605195.8524,3359446.5072,Texas,Platform,GOM-307-2274,Texas General Land Office,2092,,
+-10815334.0418,3259291.5281,Texas,Platform,COPB-97-3148,Texas General Land Office,2093,,
+-10816126.4493,3259376.3491,Texas,Platform,COPB-96-3145,Texas General Land Office,2094,,
+-10816063.6612,3258917.368,Texas,Platform,COPB-96-3153,Texas General Land Office,2095,,
+-10715436.634,3327219.5689,Texas,Platform,MB-303-2646,Texas General Land Office,2096,,
+-10807114.1923,3237666.9298,Texas,Platform,CCB-273-3320,Texas General Land Office,2097,,
+-10552896.1992,3472677.6487,Texas,Platform,TB-18-19D-441,Texas General Land Office,2098,,
+-10546103.1045,3471278.7287,Texas,Platform,TB-26-27A-483,Texas General Land Office,2099,,
+-10546755.7357,3470528.1196,Texas,Platform,TB-22-23A-523,Texas General Land Office,2100,,
+-10696877.325,3312573.8707,Texas,Platform,GOM-582-2720,Texas General Land Office,2101,,
+-10524656.8525,3444129.9782,Texas,Platform,EB-180-1075,Texas General Land Office,2102,,
+-10543975.2972,3432947.3016,Texas,Platform,GB-236-1432,Texas General Land Office,2103,,
+-10647829.6503,3326964.5043,Texas,Platform,GOM-403-2654,Texas General Land Office,2104,,
+-10666097.403,3319108.8575,Texas,Platform,GOM-440-2692,Texas General Land Office,2105,,
+-10659193.512,3327122.7686,Texas,Platform,GOM-405-2651,Texas General Land Office,2106,,
+-10670890.8784,3326730.5577,Texas,Platform,GOM-519-2656,Texas General Land Office,2107,,
+-10814473.0703,3255202.9347,Texas,Platform,COPB-122-3200,Texas General Land Office,2108,,
+-10547373.5964,3462605.1339,Texas,Platform,TB-5-8B-634,Texas General Land Office,2109,,
+-10821808.0301,3214141.1772,Texas,Platform,CCB-87-3615,Texas General Land Office,2110,,
+-10451281.8321,3487667.1029,Texas,Platform,SBLA-29-190,Texas General Land Office,2111,,
+-10452611.4542,3487357.8381,Texas,Platform,SBLA-30-193,Texas General Land Office,2112,,
+-10452756.7067,3486220.623,Texas,Platform,SBLA-30-198,Texas General Land Office,2113,,
+-10454793.4512,3482504.8808,Texas,Platform,SBLA-36-210,Texas General Land Office,2114,,
+-10557404.0068,3443943.0608,Texas,Platform,GB-225-1090,Texas General Land Office,2115,,
+-10815366.7131,3225165.319,Texas,Platform,CCB-348-3496,Texas General Land Office,2116,,
+-10558625.4176,3441426.4546,Texas,Platform,GB-246-1180,Texas General Land Office,2117,,
+-10782036.9303,3269865.1764,Texas,Platform,MESB-12-3007,Texas General Land Office,2118,,
+-10782034.1172,3269894.6342,Texas,Platform,MESB-12-3006,Texas General Land Office,2119,,
+-10782082.0148,3269940.5426,Texas,Platform,MESB-12-3005,Texas General Land Office,2120,,
+-10745333.8296,3309922.2658,Texas,Platform,POWLA-32-2757,Texas General Land Office,2121,,
+-10548156.1553,3470510.9544,Texas,Platform,TB-22-23B-525,Texas General Land Office,2122,,
+-10548148.3792,3470449.8588,Texas,Platform,TB-22-23B-527,Texas General Land Office,2123,,
+-10548097.261,3470543.2269,Texas,Platform,TB-22-23B-522,Texas General Land Office,2124,,
+-10462693.2475,3459255.0027,Texas,Platform,GOM-19-723,Texas General Land Office,2125,,
+-10778888.1919,3266447.0218,Texas,Platform,MESB-26-3023,Texas General Land Office,2126,,
+-10565206.8602,3435217.2737,Texas,Platform,GB-331-1339,Texas General Land Office,2127,,
+-10551912.6022,3425082.4267,Texas,Platform,GB-343-1479,Texas General Land Office,2128,,
+-10800099.0879,3251149.0388,Texas,Platform,AB-175-3252,Texas General Land Office,2129,,
+-10561588.0957,3456261.0756,Texas,Platform,GB-98-784,Texas General Land Office,2130,,
+-10557010.6243,3455399.3119,Texas,Platform,GB-87-807,Texas General Land Office,2131,,
+-10648579.9143,3347895.7031,Texas,Platform,CCR-NT-2433,Texas General Land Office,2132,,
+-10782064.9779,3269094.713,Texas,Platform,MESB-13-3009,Texas General Land Office,2133,,
+-10779469.3729,3268615.0036,Texas,Platform,MESB-25-3013,Texas General Land Office,2134,,
+-10782211.8885,3268348.7937,Texas,Platform,MESB-13-3015,Texas General Land Office,2135,,
+-10560356.899,3443686.9282,Texas,Platform,GB-247-1110,Texas General Land Office,2136,,
+-10743533.5713,3311092.0085,Texas,Platform,POWLA-49-2736,Texas General Land Office,2137,,
+-10822269.9479,3217591.6459,Texas,Platform,CCB-470-3596,Texas General Land Office,2138,,
+-10875839.6719,3168873.7759,Texas,Platform,CADG-82-3743,Texas General Land Office,2139,,
+-10875662.4434,3168745.2895,Texas,Platform,CADG-82-3744,Texas General Land Office,2140,,
+-10818767.0572,3221741.6743,Texas,Platform,CCB-425-3549,Texas General Land Office,2141,,
+-10820312.0233,3221747.1063,Texas,Platform,CCB-444-3548,Texas General Land Office,2142,,
+-10712167.9964,3287815.7311,Texas,Platform,GOM-526-2903,Texas General Land Office,2143,,
+-10803066.9312,3270614.3031,Texas,Platform,COPB-9-2992,Texas General Land Office,2144,,
+-10802456.3863,3271853.8987,Texas,Platform,COPB-3-2980,Texas General Land Office,2145,,
+-10797019.4863,3254928.3317,Texas,Platform,AB-154-3208,Texas General Land Office,2146,,
+-10800099.8813,3252084.4186,Texas,Platform,AB-167-3243,Texas General Land Office,2147,,
+-10816903.9619,3224290.4214,Texas,Platform,CCB-397-3507,Texas General Land Office,2148,,
+-10837344.051,3223785.9624,Texas,Platform,CCB-56-3513,Texas General Land Office,2149,,
+-10875884.8468,3169727.6173,Texas,Platform,CADG-84-3739,Texas General Land Office,2150,,
+-10875266.2228,3170075.3577,Texas,Platform,CADG-81-3738,Texas General Land Office,2151,,
+-10875590.0643,3169279.3521,Texas,Platform,CADG-81-3741,Texas General Land Office,2152,,
+-10843089.4074,3160630.5591,Texas,Platform,LAM-211-3783,Texas General Land Office,2153,,
+-10843103.7992,3160828.6969,Texas,Platform,LAM-211-3781,Texas General Land Office,2154,,
+-10550192.0493,3470918.894,Texas,Platform,TB-18-19C-501,Texas General Land Office,2155,,
+-10551937.867,3460204.0929,Texas,Platform,TB-46-694,Texas General Land Office,2156,,
+-10558335.3513,3456720.8267,Texas,Platform,GB-73-775,Texas General Land Office,2157,,
+-10548227.1215,3462267.5406,Texas,Platform,TB-5-8B-642,Texas General Land Office,2158,,
+-10543336.5702,3470891.4645,Texas,Platform,TB-28B-504,Texas General Land Office,2159,,
+-10543281.2847,3470905.9062,Texas,Platform,TB-28B-502,Texas General Land Office,2160,,
+-10543339.6172,3470946.1879,Texas,Platform,TB-28B-499,Texas General Land Office,2161,,
+-10818976.1139,3217157.6265,Texas,Platform,CCB-458-3599,Texas General Land Office,2162,,
+-10803127.5855,3239225.248,Texas,Platform,AB-260-3319,Texas General Land Office,2163,,
+-10840547.5789,3231956.1526,Texas,Platform,NUB-786-3400,Texas General Land Office,2164,,
+-10816410.6505,3227893.7554,Texas,Platform,CCB-351-3467,Texas General Land Office,2165,,
+-10809243.0878,3231685.9376,Texas,Platform,CCB-312-3407,Texas General Land Office,2166,,
+-10611445.4798,3376496.5848,Texas,Platform,OYCR-NT-2188,Texas General Land Office,2167,,
+-10567439.6458,3457199.3648,Texas,Platform,GB-118-755,Texas General Land Office,2168,,
+-10567584.5891,3453787.5932,Texas,Platform,GB-128-818,Texas General Land Office,2169,,
+-10562344.6345,3443255.3118,Texas,Platform,GB-263-1127,Texas General Land Office,2170,,
+-10516672.3388,3422230.6591,Texas,Platform,GOM-98-1494,Texas General Land Office,2171,,
+-10517834.6998,3424411.8604,Texas,Platform,GOM-98-1487,Texas General Land Office,2172,,
+-10565795.6817,3440993.5116,Texas,Platform,GB-307-1184,Texas General Land Office,2173,,
+-10566165.0302,3441698.3135,Texas,Platform,GB-307-1175,Texas General Land Office,2174,,
+-10565009.2187,3442366.0256,Texas,Platform,GB-288-1163,Texas General Land Office,2175,,
+-10563898.1382,3442654.9791,Texas,Platform,GB-263-1157,Texas General Land Office,2176,,
+-10570819.4762,3447361.1315,Texas,Platform,GB-258-915,Texas General Land Office,2177,,
+-10568954.3455,3446403.694,Texas,Platform,GB-259-952,Texas General Land Office,2178,,
+-10443989.9879,3442946.3059,Texas,Platform,GOM-18-1139,Texas General Land Office,2179,,
+-10814386.8629,3204024.1309,Texas,Platform,GOM-903-3677,Texas General Land Office,2180,,
+-10812950.4962,3203714.7129,Texas,Platform,GOM-903-3678,Texas General Land Office,2181,,
+-10812893.5697,3201398.7305,Texas,Platform,GOM-911-3701,Texas General Land Office,2182,,
+-10806660.5275,3198691.0316,Texas,Platform,GOM-794-3705,Texas General Land Office,2183,,
+-10812325.6851,3204837.8578,Texas,Platform,GOM-773-3675,Texas General Land Office,2184,,
+-10812236.1198,3205557.7629,Texas,Platform,GOM-773-3671,Texas General Land Office,2185,,
+-10808035.0597,3211621.3594,Texas,Platform,GOM-889-3631,Texas General Land Office,2186,,
+-10808652.5648,3211875.3096,Texas,Platform,GOM-889-3624,Texas General Land Office,2187,,
+-10809622.7982,3212392.0668,Texas,Platform,GOM-888-3620,Texas General Land Office,2188,,
+-10807247.5493,3215224.8076,Texas,Platform,GOM-882-3611,Texas General Land Office,2189,,
+-10807043.3005,3215348.2075,Texas,Platform,GOM-748-3609,Texas General Land Office,2190,,
+-10803685.623,3212157.7889,Texas,Platform,GOM-772-3621,Texas General Land Office,2191,,
+-10802993.7055,3212807.604,Texas,Platform,GOM-748-3619,Texas General Land Office,2192,,
+-10798713.6053,3216155.3899,Texas,Platform,GOM-749-3604,Texas General Land Office,2193,,
+-10795992.9247,3218330.7078,Texas,Platform,GOM-746-3591,Texas General Land Office,2194,,
+-10797028.0996,3218060.7116,Texas,Platform,GOM-747-3593,Texas General Land Office,2195,,
+-10555242.5785,3453537.8257,Texas,Platform,GB-86-820,Texas General Land Office,2196,,
+-10827725.3856,3205286.0705,Texas,Platform,LAM-30-1002,Texas General Land Office,2197,,
+-10818952.1465,3226692.2879,Texas,Platform,,Texas General Land Office,2198,,
+-10810733.5051,3227689.8062,Texas,Platform,,Texas General Land Office,2199,,
+-10740395.4074,3294723.756,Texas,Platform,ESSB-216-8012,Texas General Land Office,2200,,
