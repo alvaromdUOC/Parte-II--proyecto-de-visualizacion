@@ -1,0 +1,2 @@
+# Parte II: proyecto de visualización
+Herramienta de Business Intelligence desarrollada para Bluetek Supply Inc. (Miami), enfocada en la identificación de oportunidades comerciales en el sector offshore. La aplicación cruza datos de producción petrolera, incidentes de seguridad y normativas internacionales para guiar la estrategia de ventas de suministros eléctricos (iluminación, cables y control) en el Caribe y el Golfo de México durante el periodo 2020-2025.
